@@ -1,6 +1,44 @@
 content to test git hub
 https://github.com/enpodi
-https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
 https://github.com/git-tips/tips
 https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
+
+
+git status
+
+
+git init
+git add .
+ git config --global user.email enpodi@yahoo.com.mx
+ 
+ git remote add origin https://github.com/enpodi       XXXXXXXXX   FIRST A REPOSITORY HAS TO BE CREATED IN THE WEB PAGE
+ 
+ git remote -v
+
+ git push origin master
+ 
+ 
+ login and create a repository. then
+ git remote add origin https://github.com/enpodi/githubguide.git
+ 
+ fatal: remote origin already exist
+ 
+ TL;DR you should just update the existing remote:
+
+$ git remote set-url origin git@github.com:ppreyer/first_app.git
+git remote set-url origin https://github.com/enpodi/githubguide.git
+
+ git push origin master
+ 
+ Hey enpodi!
+
+A personal access token (git: https://github.com/ on DESKTOP-FK4K811 at 18-jul-2018 21:18) with gist and repo scopes was recently added to your account. Visit https://github.com/settings/tokens for more information.
+
+To see this and other security events for your account, visit https://github.com/settings/security
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Thanks,
+Your friends at GitHub
