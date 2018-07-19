@@ -35,11 +35,17 @@ git remote set-url origin https://github.com/enpodi/githubguide.git
  git commit -m "first log graph works but simple"
  
  https://devhints.io/git-log-format
+ https://devhints.io/git-log
+ https://coderwall.com/p/euwpig/a-better-git-log
  
- http://michaelwales.com/articles/make-gitconfig-work-for-you/
-https://git-scm.com/docs/pretty-formats
+ http://michaelwales.com/articles/make-gitconfig-work-for-you/           XXXXXXXXXXXXXXXXXXX
+https://git-scm.com/docs/pretty-formats                XXXXXXXXXXXXXXXXXXXXXXXXXx
   
 GRAPH
+
+log --graph --pretty=format
+  lg = log --oneline --abbrev-commit --all --graph --decorate --color
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 
 git lg
 git lg1
