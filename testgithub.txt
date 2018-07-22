@@ -4,7 +4,9 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
 https://github.com/git-tips/tips
 https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
-
+https://labs.consol.de/development/git/2017/02/22/gitignore.html
+https://git-scm.com/docs/gitignore
+http://gitready.com/intermediate/2009/01/30/finding-what-has-been-changed.html
 
 git status
 
