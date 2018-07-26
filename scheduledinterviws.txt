@@ -1,9 +1,20 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
-gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com San Diego  photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
+gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com SDxNEWohio photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
 manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc infosys/nortWesternMmutual MON23    nipoon raidu/sunil  strong over rest and create soap ws.   plus AWS and NodeJS
 venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com           Pittsburgh Wipro/PNC Bank             MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
 
+
+
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+FRI03   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+THU02   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+WED01   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+TUE31   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+MON30   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
 MON30   SCHEDULED----5pm-6pm PST-skype- ---------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                           
 
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
@@ -32,11 +43,16 @@ THU26   TS----------11am-12pm PST------ ---------martin insourcis     capgemini 
 THU26   ------------12pm-13pm PST------ ---------aarti.ramola@neerinfo.com 
 THU26   TC----------14pm-15pm PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
 THU26   TS----------15pm-16pm PST------ ---------venkatesh_solti@aesinc.us.com   Please give me the available slots tomorrow for Skype call because you will be having a client discussion(i.e., 26th July'18).                                                                                                                                                                                                          
-THU26   ------------16pm-17pm PST------ ---------aarti.ramola@neerinfo.com                                                                       
+THU26   SCHEDULED---16:30pm-17pm PST--- ---------jessica_tyler@agilees.com                           HEDIDNTREPLY>>>>>aarti.ramola@neerinfo.com                                                                       
 THU26   TS----------17pm-18pm PST------ --------- Krish@americanunit.com                                                                     
 THU26   SCHEDULED---18pm-19pm PST-Skype expect interviwer----sunil--neta    expect(pending name) mukeshdev@qainfotech.com(12482461572)     infotech/walmart     arkansa   14087082801     Spring, Hibernate, Web Services (SOAP), Web Services (Restful)                                                            
 	When	Wed Jul 25, 2018 6pm – 6:30pm (PDT) Where	Skype Video call Discussion. Who	mukeshdev@qainfotech.com*                                                                
-THU26   ------------ ------------------ ---------                                                                      
+THU26   ------------ ------------------ ---------gayathri.venugopal@photoninfotech.net   jpmc ny,ads ohio,walgo ca                                                                      
+THU26   ------------ ------------------ ---------pravinKaspeks                                                        15109366850       
+THU26   ------------ ------------------ ---------                                                                       
+THU26   ------------ ------------------ ---------                                                                       
+THU26   ------------ ------------------ ---------                                                                       
+THU26   ------------ ------------------ ---------                                                                       
 THU26   ------------ ------------------ ---------                                                                       
 
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
@@ -47,7 +63,7 @@ WED25   ------------11am-12pm PST------ ---------hemendra.kumar@insigmainc.com
 WED25   ------------12pm-13pm PST------ ---------                                                                      
 WED25   TS----------15pm-16pm PST------ ---------venkatesh_solti@aesinc.us.com   Please give me the available slots tomorrow for Skype call because you will be having a client discussion(i.e., 26th July'18).                                                                                                                                            
 WED25   SCHEDULED---16pm-17pm PST-skype ---------hemendra.kumar@insigmainc.com   Your Skype interview has been confirmed from TCS/APPLE for today i:e 25th July at 16pm PST. Please maintain the good connectivity.                                                                   
-        interviewer uyuel   tcs     ujjwal talasila       14089961010     rest   database   used frameworks for TDD   mockito jmock   
+        interviewer ujjwal talasila   tcs            14089961010      rest/database performance   used frameworks for TDD   mockito jmock   
 WED25   ------------17pm-18pm PST------ ---------                                                                      
 WED25   RESCHEDULED-THU---18pm-19pm PST-Skype expect interviwer----sunil--neta    expect(pending name) mukeshdev@qainfotech.com(12482461572)     infotech/walmart     arkansa   14087082801     Spring, Hibernate, Web Services (SOAP), Web Services (Restful)                                                            
 	When	Wed Jul 25, 2018 6pm – 6:30pm (PDT) Where	Skype Video call Discussion. Who	mukeshdev@qainfotech.com*
@@ -58,6 +74,7 @@ WED25   *******************************manoj-----martin_hall@insoursysinc.com/an
     Code test in word https://github.com/premanandc/reading-list#foundational
 However, you are required take an online assessment; mentioned below are the details and attached herewith the document for your further reference.
 "To help the candidates out, here is some material that we have put out: https://github.com/premanandc/reading-list#foundational 
+https://spring.io/guides/gs/spring-boot/
 WED25   ------------ ------------------ ---------anan artic                                        st lois missouri    17033763676
 WED25   ------------ ------------------ ---------venkateshAgile                                                         9724400059
 WED25   ------------ ------------------ ---------                                                                       9724402109
