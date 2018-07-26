@@ -1,0 +1,1072 @@
+﻿
+ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
+gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com San Diego  photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
+manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc infosys/nortWesternMmutual MON23    nipoon raidu/sunil  strong over rest and create soap ws.   plus AWS and NodeJS
+venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com           Pittsburgh Wipro/PNC Bank             MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
+
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE             QUERIES
+THU26   TS------------9am-10am PST------- ---------gloria_max@aesinc.us.com                                            
+
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE             QUERIES
+WED25   ------------8am-9am PST-------- ---------                                                                      
+WED25   TS------------9am-10am PST------- ---------gloria_max@aesinc.us.com                                            
+WED25   ------------10am-11am PST------ ---------                                                                      
+WED25   ------------11am-12pm PST------ ---------                                                                      
+WED25   ------------12pm-13pm PST------ ---------                                                                      
+WED25   ------------15pm-16pm PST------ ---------                                                                      
+WED25   ------------16pm-17pm PST------ ---------                                                                      
+WED25   ------------17pm-18pm PST------ ---------                                                                      
+WED25   SCHEDULED---18pm-19pm PST-Skype expect interviwer----sunil--neta    expect(pending name) mukeshdev@qainfotech.com(12482461572)     infotech/walmart     arkansa   14087082801     Spring, Hibernate, Web Services (SOAP), Web Services (Restful)                                                            
+	When	Wed Jul 25, 2018 6pm – 6:30pm (PDT) Where	Skype Video call Discussion. Who	mukeshdev@qainfotech.com*
+WED25   ------------ ------------------ ---------                                                                      
+WED25   ------------ ------------------ ---------                                                                      
+                                                                        
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+TUE24   TS----------10am-11am PST------shafia-----rooki                foton/itrade    melon park,ca                   19012090979                                                                                                          
+TUE24   ------------11am-12pm PST-----------------                                                                                                           
+TUE24   ------------12pm-13pm PST-----------------  
+TUE24   ------------13pm-14pm PST-----------------JAVA COURSE                                                                                                          
+TUE24   ------------15pm-16pm PST-----------------JAVA COURSE                                                                                                           
+TUE24   ------------16pm-17pm PST-----------------JAVA COURSE                                                                                                           
+TUE24   ------------17pm-18pm PST-----------------JAVA COURSE                                                                                                           
+TUE24   ------------18pm-19pm PST-----------------JAVA COURSE
+TUE24   ------------19pm-20pm PST-----------------
+TUE24   ------------RTR RETURND------------------sekhar@thoughtwavesoft.com San Francisco, CA – Local candidate who can come for F2F Interview  630-480-4203                                                                                                            
+TUE24   ------------helltalktoalliance-----------sadanand_kashamoni@aesinc.us.com   ecostart Englewood-Colorado6+Months 19724402078                                                                            
+TUE24   -------------------------------hrinish---chandan.kumar@raasinfotek.com                       san diego          13024080436 3024496700 X128                                                                 
+TUE24   -----------------------------------------nitin.dahiya@idctechnologies.com  avente/cisco      san jose           14086688854  Full Stack (Core Java, Spring, Web services, Angular 2 or above) and Oracle PL/SQL                                    
+TUE24   -----------------------------------------Beryl.Babu@altimetrik.com dharam@csstechsol.com                                                                                                                                             
+TUE24   -------------------------------hrinish---deepa@s2ssoft.com soft maitri                       washington         19252891056                                     
+TUE24   ------------hewillsubmitmyprofile hrinish-valan - deepa@s2ssoft.com                                             19252891158
+TUE24   -------------------------------alliance--scott_turner@aesinc.us.com UST Global/Anthem        Norfolk VA         19724402122  JSP/Struts2 for backend HTML generation, JavaScript with jQuery for a HTML-manipulation, fields validation                                                    19724402122                                     
+TUE24   ------------ ------------------ ---------reve - scott_turner@aesinc.us.com                                                           19597770006
+TUE24   ------------ ------------------ ---------gloria_max@aesinc.us.com   wipro                    Tustin California  19724400069 mvc, plsql
+TUE24   ------------resume share-------hrinish---vishwanath.g@celticbluetech.com                     San Francisco      16124545400
+TUE24   ------------w2 nottotake------- ---------                                                                       14084579399
+TUE24   ------------ ------------------ ---------soumen.m@joulestowatts.com                                             18062234573
+TUE24   ------------ ------------------ ---------                                                                       
+TUE24   ------------ ------------------raj-------vikas.sharma@inficaretech.com   elant/cisco         San Jose, CA       17036527773 REQ-1 Title: Core Java Developer
+TUE24   ---hescheduled a meeting for WED, wait for invitation------ --sunil--neta    expect mukesh(12482461572)     infotech/walmart     arkansa   14087082801                                                                       
+TUE24   ------------ ------------------ ---------narendra_avula@aesinc.us.com" OR Call on 972-440-2131.                                                                       
+TUE24   ------------ ------------------ ---------                                                                       
+TUE24   ------------ ------------------ ---------                                                                       
+TUE24   ------------ ------------------ ---------                                                                       
+
+
+    
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+MON23   ******PASSED-SCHEDULED*********------------7am-7:30am PST---------gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com    foton   9am CST  	interviewer Gothan INNER, left, rigth JOIN                                                                                                     
+        foton/medimpact healtcare 6M  san diego 
+        feedback-  interviewer says i pass to next phase.
+		
+		sara called. She told me to prepare documentations if accepted: visa tn,degree certificate, current address
+		
+MON23   SCHEDULED---10am-11am PST----********waitfor RTR**---------manoj------monika@asciigroup.com “TCS/Sony Pictures”   Culver city, CA            13134620012  rest, esb,  Alfresco  Alfresco is a collection of information management software products for Microsoft Windows and Unix-like operating systems developed using Java technology                                                                                                          
+MON23   TS------------11am-12pm PST-------------------manoj--surendra.sure@criticalriver.com                                                                       14088764440                                                                                                           
+MON23   Scheduled-13:30pm PST---MON23  nipoon raidu/sunil  give feedback skype -manoj----rushi/Monarch.Soni@xduce.com insurance infosys/nortWesternMmutual  Maryland or milwakee wisc 17324754023  angular,springboot reference data & master data                                                                 17324754007  angular, springboot,weblogic,jenkins
+******************       interview strong over rest and create soap ws.   plus AWS and NodeJS
+
+MON23   TS------------15pm-16pm PST-------------------manoj--surendra.sure@criticalriver.com                                                                       14088764440
+MON23   SCHEDULED------------15pm-17pm PST-----------------   We have an available slots from the client for Skype call today in between 6PM TO 8PM EST.                                                                                                        
+MON23   *********PASSED-SCHEDULED------------4pm ---- 7PM EST(i.e. 4PM PST 23rd July'18).    Venkatesh solti
+	Skype Id: enpodi25
+	Please confirm ASAP.
+	Note: You will receive CI invitation from my manager Jessica Tyler, Please accept it and be available.
+	darshan and rajesh                  2 types of memory in java  stack and heap
+	passed to next round
+	
+	
+MON23   ------------17pm-18pm PST-------gopinath@visionisys.com                                                19012455813   Java + API Management Tools                                                                                                                                                                                                                   
+	rajiv.jayagopal@photoninfotech.net
+	When	Mon Jul 23, 2018 5pm – 5:30pm (PDT)
+	Where	https://bluejeans.com/424096891
+	Who	The guest list is not available
+MON23   ------------18pm-19pm PST-------	
+MON23   PH2 Varun.Rawal@synechron.com spinninti@saventech.com 17326239638  COMES FROM-> THU19   SCHEDULED----9am-10am PST-venu@mutexsystems.com/Varun.Rawal@synechron.com
+MON23   ----------already talked to him----------hemendra.kumar@insigmainc.com    tcs/apple  sunnyvale                  17034683058 full                                     
+MON23   -----------------------------------------                                                                       14243369215                                     
+MON23   ---------full time. not to take----------krupanandan.sachidanandan@qentell                                      12142818769                                                  
+MON23   manoj----rushi/Monarch.Soni@xduce.com insurance infosys/nortWesternMmutual  Maryland or milwakee wisc 17324754023  reference data & master data     17324754007                                     
+MON23   -----------------------------------------pavan@1pointsys.com                            O fallon, Mo            803-369-3739 Technical lead for major projects and complex assignments with broad scope and long-term business implications.. Lead day-to-day system development and maintenance activities of the team to meet service level agreements (story velocity).                                                                        
+MON23   ----profile submited---------------------rohit.ramy90@gmail.com rohit@kanisol.com VirtusaPolaris Inc/jpmorgan   16099526475
+MON23   -----------------------------------------                                                                       14048357541
+MON23   -------waitforemailAndreturndetails--raj-sekhar@thoughtwavesoft.com                         San Diego, CA       16304804203
+MON23   -----------------------------------------                                                                       14084579399
+MON23   -------------------------------------raj-sairaj@centraprise.com                             O Fallon,MO         16093575468 x463 Spring, REST, SOAP,                     
+MON23   -------------------------------------raj-                                                                       14843203362 nodejs,spuk
+MON23   -------------------------------------raj-lpaul@altimetrik.com                                                    9518215661                     
+MON23   ----------------------------------------- ajay.y@idctechnologies.com                        Carmel, IN           15304249457   Must Have Skills: Java/J2EE, Spring MVC, JSP, JQuery. Hands on experience needed.   Desired Skills: Web Services, WebLogic Server     
+MON23   -----------------------------------sairaj----sahitia cenetrprise                    px or colorado                                                   16093851889
+MON23   -----------------------------------------sekhar@thoughtwavesoft.com    maysis                                    
+MON23   -----------------------------------sunil--neta    expect mukesh(12482461572)     infotech/walmart     arkansa   14087082801
+MON23   -----------------------------------------sunil                                                                  17322430149
+MON23   -----------------------------------------sekhar@thoughtwavesoft.com San Francisco, CA – Local candidate who can come for F2F Interview  630-480-4203                                                                  
+MON23   -----------------------------------------                                                                       14243480925
+MON23   -----------------------------------------                                                                       
+
+
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+FRI20   ------------8am-9am PST-------------------                                                                                                           
+FRI20   ------------9am-10am PST------------------                                                                                                           
+FRI20   ------------10am-11am PST-----------------                                                                                                           
+FRI20   ------------11am-12pm PST-----------------                                                                                                           
+FRI20   TS confirmed 12pm-13pm PST-phone/f2f 2days/1week-manoj---anusha   itt      creditswiss  invesment bank      nc  19196242650     multithreading 
+FRI20   TS********** 13pm  --manoj------manoj@novateurtechnologies.com    techm/cisco    Sunnyvale, CA         12092223627  spring,hibernate,jenkis,oracle
+		                                                                another walmart sunnyvale
+FRI20   ------------14:30pm          	
+FRI20   ------------15:30pm-16pm PST------	
+FRI20   ------------16pm-17pm PST-----------------                                                                                                           
+FRI20   SCHEDULED---5:30pm to 6pm PST         skype---Venkatesh         Client: Wipro / PNC Bank                            19724400059  
+    rajesh.arumugam1@wipro.com     asked change
+      When	Fri Jul 20, 2018 3:30pm – 4pm (PDT)
+	Where	Skype Id: enpodi25
+	Who	rajesh.arumugam1@wipro.com, mathew.george@wipro.com, venugopal.gourabathini@wipro.com...                                                                                                  
+	NOBODY CALLED ON SKYPE
+FRI20   SCHEDULED   18pm PST--EXPECT sathyanarayanan.baabu@photoninfotech.net-----sara@successdrivesystems.com  foton/medimpact healtcare 6M  san diego 15102242316 X 106
+	sathyanarayanan.baabu@photoninfotech.net      bluejeans     expect suria-architect REST-PLSQL
+	When	Fri Jul 20, 2018 6pm – 7pm (PDT)
+	Where	Blue Jeans / https://bluejeans.com/859839144
+	Who	sathyanarayanan.baabu@photoninfotech.net*
+    expect interviewer  Interviewer Name: Surya Srinivasan    To join the Meeting: https://bluejeans.com/859839144
+	
+	duration 38 minutes
+	Feedback
+	JMETER to measure performance of REST services
+	how batch works out
+	
+FRI20   ------------20pm-21pm PST-----------------                                                                                        
+FRI20   ------------full time not to take---------casiv from aecd                                                       17322268073                                     
+FRI20   ------------------------------manoj------ ramesh@incorporaninc.co                                               16095420057                                     
+FRI20   ------------------------------grace ------sara@successdrivesystems.com                       san diego          15102242316 X 106  Java Lead [Skype Hire]                                          
+FRI20   ------------------------------manoj------krupanandan.sachidanandan@qentelli.com                                 12142818769     full                                
+FRI20   -----------------------------------------                                                                       17322268073  Spring Boot,JPA,JMS / RabbitMQ                                   
+FRI20   -----------------------------------------                                                                       12142818769                                     
+FRI20   -----------------------------------------gopinath@visionisys.com                                                19012455813   Java + API Management Tools (APIGEE)                                  
+FRI20   -----------------------------------------                                                                       12482461572
+FRI20   ********waitfor RTR**---------manoj------monika@asciigroup.com “TCS/Sony Pictures”   Culver city, CA            13134620012  rest, esb,  Alfresco  Alfresco is a collection of information management software products for Microsoft Windows and Unix-like operating systems developed using Java technology
+                                                                        
+FRI20   ------------------------------shafia-----gopinath@visionisys.com foton/itrade              melon park,ca        19012090979
+FRI20   -----------------------------------------                                                                       12092223627
+FRI20   ----monday-------------------------------karanpandya       ravi        he asked for questions from appzen       15103389782          
+FRI20   ****************************--manoj------manoj@novateurtechnologies.com    techm/cisco    Sunnyvale, CA         12092223627  spring,hibernate,jenkis,oracle
+FRI20   ------------------------------sunil------     clobl                                                              9253935855
+FRI20   -----------------------------------------saisharan.gudipati@benvia.com                            Detroit MI     7329174988  full
+FRI20   ----------------------------------manoj-------surendra.sure@criticalriver.com                                   14088764440 X106                               
+FRI20   -----------------------------------------ramamoorthy@themesoft.com                                              16412435579 Java Architect
+FRI20   -----------------------------------raj---shifalsharma exilglobal                             seatle  washington 19253935821 rest
+FRI20   -----------------------------------farok--medali    flexbon                                                     19252022548   nodejs constraint
+FRI20   ----------------------------------raj---- sharat                                                                                                                                           
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+THU19   ------------8am-9am PST-------------------                                                                                                           
+THU19   SCHEDULED----9am-10am PST----------------- -venu@mutexsystems.com/Varun.Rawal@synechron.com    expect call from varum from synechron       9087778036   srini   19087778043                                                                                         
+         varum(7326239638)   sent profile        
+        When	Thu Jul 19, 2018 9am – 9:30am (PDT)
+		Where	Bridge Number: 424-835-3527 Passcode: 148582#
+		Who	Varun Rawal*
+		 Required Skills: JAVA, J2EE, Web services (REST Based), Spring, Hibernate, JSON, XML, JQuery, Java Script
+		 login  rest api   and  welcome/ success   200  / error throw error map /
+		 spring mvc or boot /  front end    angular 2 /		 login template is provided
+		 plugin for the security    authorized/not authorized   / 	 transamerica    boot, mvc,     / expectations   backend, java, spring.  
+THU19   ------------10am-11am PST-----------------                                                                                                           
+THU19   TS confirmed--11am-12pm PST-------------  pramod.dwivedi@okayainc.com        Telecom Background in Denver,CO  +1-631-267-4883 *272      lead                                                                                                                    
+THU19   ------------12pm-13pm PST----------------- 
+THU19   TS f2f------14pm-15pm PST----------------Karan Pandya <kpandya@nisum.com>          15103389782                                                                                                
+THU19   SCHEDULED------------15pm-16pm PST---------------san jose        america 6201   center drive suite 200  san jose
+karanpandya         Who	divya.kumar@adroitresources.com   Where	Chris (Director-AppZen 14082620135) will call Enrique 
+    When	Wed Jul 18, 2018 4pm – 4:30pm (PDT)
+	 @ 415 715 7029  	
+	, arun.yadav@adroitresources.com, mausami@adroitresources.com*
+	Interviewer   chris     apis  reports        java   spring       future  aws, migrating cloud
+	small projects  
+	mysql   mongodb   jooq--        
+    swagger-conversation design   SOLD DESIGN      AGREEMENT FRONT END AND BACKEND	
+	expectations------java   backend  spring      
+	
+	When	Thu Jul 19, 2018 3pm – 4pm (PDT)
+	Where	6201 America Center Dr, suite 200, San Jose, CA 95002
+	Who	Arun Yadav, 'Coordinator', Divya*
+THU19   ------------16pm-17pm PST-----------------                                                                                                           
+THU19   ------------17pm-18pm PST-----------------                                                                                                           
+THU19   ------------18pm-19pm PST-----------------                                                                                                           
+THU19   SCHEDULED  zoom--19pm-21pm PST-----dharam@csstechsol.com  Kindly check with Enrique availability for Today 7 pm to 9 pm Zoom/Video interview with client Altimetrik.   Altimetrics/Paypal      San jose  847-305-1646                                                                                                           
+	LINK FOUND LATER
+	Beryl.Babu@altimetrik.com
+	When	Thu Jul 19, 2018 7pm – 8pm (PDT)
+	Where	https://altimetrik.zoom.us/j/439810680
+	Who	Beryl Babu*
+THU19   TS-------------20pm-21pm----------------------------  pramod.dwivedi@okayainc.com        Telecom Background in Denver,CO  +1-631-267-4883 *272      lead                                                                     15109366850                                      
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE
+
+THU19   ------------phone/f2f 2days/1week-manoj---anusha   itt      creditswiss  invesment bank      nc                19196242650     multithreading                               
+THU19   ------------replied-----------------------sahaj.a@nea-consulting.com                                            6094780023                                                                 
+THU19   ------------------------------------raj---praveenk@caspex.com  expect call from manager navid                  15109366850     spring,hibernate                                                                                                     
+THU19   -----------fulltime not to take---------- soumin   aprinsolutions    tcinfotech/goldmansach  chicago           16782885862                                            
+THU19   ------------ constraint microservices-----vinnu@sovereigntec.com(18166668318) call manager chandee(4259963326)  atlanta   webservices   constraint microservices                                                                             
+THU19   ***************--manoj-------------------Atul.malviya@okayainc.com    maincre/ entsi                   washinton          631.267.4883 X 109 +1 630-672-5604                                                   
+THU19   ----------I dropt an email----------------k-gopi.krishna@capgemini.com                              +91 8042705000 Extn. 809 3148 | Cell: +91 9550557845                                                                            
+THU19   -----------------------------------------                                                                      
+
+
+                                                                           
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION                 PROFILE                PHONE                                                                                                                                                                                                                                             QUERIES                                                              
+WED27    rescheduled 9am PST           NihantAl  kanika@tharka.com    Kanika sent you interview request for tomorrow 9am PST Skype interview
+
+WED27    SCHEDULED   11am – 12pm (PDT) --------  roopa.borlapu@oakridgeit.com   AmericanAirLines     dallas         Cloud Architect IterviewWhere 888-426-6840,,,4037117#        ibmcloud     prepaid   payments   4 squads   spring boot spring cloud vert.x /  Architects / squad leads / pair programming       they will give feedback through vendor
+WED27    TIMESLOT    12am-1pm PST                 manoj     qhadeer@smtworks.com   verizon                                                 1802735 1799
+WED27    TIMESLOT    3- 4 pm pst       manoj      aruhini             expedait/partner virtusa/endclient metadata  
+WED27   --------12pm technical came from nowhere----------           14082151265            sboot microservices/hibernate/spring/innnerbeanPrototipeInSingletonParent/InhebernateMergeVsUpdate/                                                                                                              
+WED27   ----------------------------------------- mobin.khan@intelliswift.com   apple                Sunnyvale, CA                                  510-370-2983                                                
+WED27   --------------------------------sunil --- diana.d@us.insigmainc.com   WELLS FARGO    TALK TO MANAGER(smallscreening)  JAVA Full Stack        703–344-9678   703.310.6928 EXT:155                                                         
+                                              fullstack             732-655-8900 Ext no.1033        
+WED27   ----------------------------------------- sameerb@remielsoft.com                             Philadelphia, PA        SR. Java Developer    949-534-3413                                                                     
+WED27   ------lost, call tomorrow-------------manoj---   pbabu@innominds.com   paypal                       sanjosehaadop algorithm                        408-331-6263 X 6590		             
+WED27   ----------------------------------------- paul@sigmaways.com    wallmart                     java backend Developer   spring, hibernate     510)- 394-1815                                                                    
+
+WED27   --------------------------------nihanth---luke@silverlinc.com                                St Louis, MO  java OSS/ BSS with Telecommunications   916-246-2702,916-587-1212 Ext:104                                                
+WED27   -----------------------------------------                                                                                                                                                                                          
+WED27   ----------------------------------------- 
+                               732-655-8900 Ext no.1033 (O) | 732-909-2624 (F)
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION                 PROFILE                PHONE                                                                                                                                                                                                                                             QUERIES                                                              
+THUR28   ----call him to check c2c----------------- james@deegit.com 
+thu28   -SCHEDULED--9amrateAcce,nolinkshared-tirumal.n@avanceservices.us  Surendra(Hexaware)      Jersey City,NJ          Struts2/Spring MVC     +1 732 226 8072 Ext : 231                    You will receive an email with WEB EX details from Surendra(Hexaware) and make sure to login before 5MIN
+THUR28   CANCELLED   9am-10am          shafia     kanika@tharka.com
+THUR28   TIMESLOT    11am-12pm PST     shafia    Ramya@deegit.com      WellsFargo/Persistent                                                     (847) 232 7259 Ext. 228
+THUR28    -----lost, call tomorrow----------------vasu@deegit.com/Lead Srinath                       San Jose California     Java Developer     847-440-2436 Ext 363 or369
+THUR28    ---------------------------------------sai@computerdataconcepts.com                        NY                       Angular JS            908.888.0019                                          
+THUR28   CANCELLED  12pm PST  checkwhy?shafia    vidhur.khandari@thingsprogramming.co                Foster City, CA                                408-215-1265X1022             
+THUR28   -------------------------------------    nitesh                                             NY                      angular                                                                                                
+THUR28   ----------------------------------------- arun@cloudious.com                                Sunnyvale, CA           Full Stack Developer   408-709-5703                                    
+THUR28   ************************s.kumar@allianceit.com   MLB beisbol               NY                Java Developer n Angular      908.888.0019                                                                             
+THUR28   ------------------------------sunil----------- venkatesh                                    Denver, CO              fullstack-frontend             9222
+THUR28   ---RTR-------------------------manoj---- balraj@spruceinfotech.com                      Denver CO               Java Full Stack                                                                                                                                   
+THUR28   -----------------------f2f-----manoj-----sam                    skype/krubat/comcast         philadelphia            spring boot                      
+THUR28   -TS---------12pm-13pm pst------------------ vani_perumandla@aesinc.us.com                                                                                                          
+THUR28   SCHEDULED-2pm  Suraj Ganapavarapu    1510 564 8454    codetestInterviewerHangouts-suraj@valleysoftsystems.com code test   San Jose, CA & RTP NC    Ang2                 +1(510)-564-8454            * Please start a video call on Hangout/skype with interviewer
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<link for online coding test and technical interview about collections vector vs arraylist and transient in threads
+THUR28   --send back email tomorrow---------------details and upstaresumeMicBoot----------------------------------------pardha.m@fluxteksol.com>                                                                                                   2010        
+THUR28   -----------------------------------------                                                                            ang-react-nodejs      3028969212              
+THUR28   ----------discussinrate-------------------maheshwarayya.r@idctechnologies.com>                irving,tx                                                            
+THUR28   ----------waitforhisemail-----------------nathan mwidn          adpca                          langeles                javalead,plsql                                       
+THUR28   ------------->>scheduled on monday-------manoj------ richard@arthurgrand.com                      denver, codenver, co   java,JavaScript, Angular, NodeJS     +1 757-806-4005                           
+THUR28   SCHEDULED   5pm PST  15min    threads-collections-transient      ramyashree.r@photoninfotech.net                  NY & Columbus ,OH      Full Stack Developer / Lead    408 404 3301Ext 9094                                          https://bluejeans.com/498446571
+THUR28   SCHEDULED---7:30pm PST--skype---------------------- shivani       It will be a skype call  Please reach out to me at 812-396-7485                               13147449466                                                                     
+THUR28   SCHEDULED--------8:30pm PST skype---send feedback to mahesh-------- johnsi@itbmsglobal.com/mahesh-manager /capgeminy/ahold.  Petaluma, CA      fullstack  732-655-8900 Ext no.1033 (O) | 732-909-2624 (F)              732-655-8900 Ext no.1033 (O) | 732-909-2624 (F)                                                                         
+THUR28   ----------------------------------------- malli@isltechsolutions.com                                                                                                          
+THUR28   -------------------------------rajdeep------- sgupta@1pointsys.com>                                                                      full                                        
+THUR28   -----------------------------------------  babu   paypal-altimetrics will inform
+THUR28   ------------confirmed----------raj--------- Harris Walker <harris_walker@visionisys.com>    San Jose, CA          javascript,ang,ETL                                                               
+THUR28   -------------------------------mamoj----  <mukesh@tsourceinc.net>                 Weehawken,NJ    REST, JSON, AngularJS PARTIAL  646-780-8434|| 916 588 9563                                                                                                            
+THUR28   ------------share references----manoj----kanika/nitin.lamba@mwidm.com>                                             angeles
+THUR28   SCHEDULED---codingassignment-f2f-manoj-----updateingituplink--ajones@techproviders.com  DO CODE IN ATTACHED FILE          barckley    delaware    java,microservices     (404) 594-5166                                                            
+THUR28   -----------------------------------------                                                                                                           
+
+
+rajesh   take his email
+dave jhonson i dont have apache camel
+Suraj Ganapavarapu    1510 564 8454
+Make Bricks: http://codingbat.com/prob/p183562. (basic logic)
+String Splosion: http://codingbat.com/prob/p117334 (string)
+Centered Average: http://codingbat.com/prob/p136585 (array)
+Word Multiple: http://codingbat.com/prob/p190862 (Hash-map)
+
+
+THUR28   -----------------------------------------                                                                                                           
+THUR28   ---------------callback--------manoj------------------                                                                         408-709-5703
+THUR28   ----------------------------------------- jay        cloud    shafi                           sunnyvalley ca                              14256154619                                          
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION         PHONE           PROFILE                                                                                                                                                                                                                                                      QUERIES                                                              
+FRI29   -TS----------8am-9am PST<<<12pm-13pm pst--vani_perumandla@aesinc.us.com                                                                      19724400068                                     
+FRI29    SCHEDULED   I didnt see the invitation       9-12 am pst  skype    kanika@tharka.com  <<<<<<<<no ccess to her box's mail  Limited Access to E-mails Re: Enrique Pomposo Java interview
+FRI29    SCHEDULED             12pm pst       Vidhur Khandari   vidhur.khandari@thingsprogramming.co          
+FRI29   -TS------removed<<<<4pm -5pm pst----------vani_perumandla@aesinc.us.com                                                                      19724400068                                    
+FRI29   ----------------------------------------- debleena@cambaycs.com     CambayCS    Santa Barbara, CA  ejb,Spring framework, Struts, and Apache Axis2.  610-556-0586          
+FRI29   -------------------------------hrinish--- arpitt@softnice.com        cools                  San Francisco, CA  16102686865    lead                                                                      
+FRI29   SCHEDULED  FELT GOOD Java8 javascript2 logic8   8pm – 8:30pm (PDT)  reply feedback to karan         kpandya@nisum.com    maysis rachna.singh@adroitresources.com          8pm PST     / skype   Good experience with basic JAVA, spring, MVC, hibernate, etc  Comfortable with algorithmic coding     Strong with ReactJS   Who	vnallagatla@nisum.com, arun.yadav@adroitresources.com, mausami@adroitresources.com.
+FRI29   MOVEDTOMON-SCHEDULED----9pm callfrom any number in the world------johnsi@itbmsglobal.com/mahesh-manager /capgeminy/ahold.  Petaluma, CA      fullstack  732-655-8900 Ext no.1033 (O) | 732-909-2624 (F)              732-655-8900 Ext no.1033 (O) | 732-909-2624 (F)                                                                                                                                 
+FRI29   ---hewillsharebymailScreenersPhone---manoj----rahul@globaltalentresources.com                 lasvegas        13023104045     Java, JavaScript, CSS, HTML, PL/SQL, Oracle SQL, Linux / Unix, Shell Scripting, GIT​, Weblogic, Oracle APEX                                             
+FRI29   -----------alliance------------------------------                                                                     19254629746                                      
+FRI29   -----------itwasW2donttakeit-------------- marquez                                           orange county, ca 19034168743                                        
+FRI29   ----------11-12am pst------------------------------- nathan                                             ca    3023949410                                     
+FRI29   ------------hewillsendtoclient-----raj-----rafi@psrtek.com>   infosys jpmc                    dallas,tx      save16092280597                                 
+FRI29   ----------------------------------------- sai@parsoftllc.com say parasoft                   tx        12522962035/2522962035    aws,docker  call to  Kumar  Phone: 813-333-5747                                              
+FRI29   -----------itwasW2donttakeit----------------                                                                  14085209145                                         
+FRI29   --------------------------------hrinish--shivamsharma@enterprisesolutioninc.com     tcs     connecticut      14082168872                                       
+FRI29   -----------------------------------------ashish jhaveri   cap gemini 8:43am                                                                                                           
+FRI29   ----------------------------------------- Tevisurya@vinformaxsystems.in   infomax            san jose,ca     5103351190 EXT 6004                                    
+FRI29   -----------------------------------------sai@sreeinfotech.com <sai@sreeinfotech.com                           12148845961                                                                                                                                                   
+FRI29   RTR confirmed----------------------------Ram <reddy@orgspire.com>                Developer in Broomfield, CO  14086482721   ElasticSearch,Fullstack                                    
+FRI29   ----------------------------------------- kala sentosen                                      oregon          15034885647                                       
+FRI29   -----------------------------------------                                                                                                           
+FRI29   -----------------------------------------                                                                                                           
+FRI29   -----------------------------------------                                                                                                             
+FRI29   -----------------------------------------                                                                                                           
+FRI29   -----------------------------------------                                                                                                                                                                                                                       
+FRI29   -----------------------------------------  
+
+FRI29   ----------------NOTCALL--------------------VikasR@sysmind.com    Infosys                      Saint Louis MO    16098979670     Architec                                 
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION                 PROFILE                PHONE                                                                                                                                                                                                                                             QUERIES                                                              
+MON2   -TS-WFI-------8am-9am PST---------manoj------ richard@arthurgrand.com                      denver, co   java,JavaScript, Angular, NodeJS     +1 757-806-4005                                                                                            
+MON2   -SCHEDULED---8:30am kumar-9am-10am PST---DIDNT RECEIVE CALL-------manoj-------<sai@parsoftllc.com>   raxpes                 San Antonio, TX          REST,Spring            252-296-2035                                                                       
+MON2   SCHEDULED<<IFELTGOOD---10:30am-11am PST-----<<interviewer Salome  <<<REST annotations, challenges, finally{System.exit} , threads  --kala java2018@centizen.com   NIKE          Beaverton OR-oregon                 15034885647 /503-272-8852                                                                                                             
+MON2   ------------11am-12am PST-----------------                                                                                                           
+MON2   ------------12pm-13pm PST-----------------                                                                                                           
+MON2   ------------15pm-16pm PST---------------------manoj-------<sai@parsoftllc.com>   raxpes                 San Antonio, TX          REST,Spring            252-296-2035                                                                                                                                                                                 
+MON2   -TS---------16pm-17pm PST-----------------vani_perumandla@aesinc.us.com                                                                       19724400068                                    
+MON2   ------------17pm-18pm PST-----------------                                                                                                           
+MON2   SCHEDULED---8:30pm----pst---<<<<<Panel Name: Ashish--johnsi@itbmsglobal.com   callfrom any number in the world------johnsi@itbmsglobal.com/mahesh-manager /capgeminy/ahold.  Petaluma, CA      fullstack  732-655-8900 Ext no.1033 (O) | 732-909-2624 (F)              732-655-8900 Ext no.1033 (O) | 732-909-2624 (F)                                                                                                                                                                                                                                        
+MON2   RTR SENT----------------------rajtota- Raushan Kumar <raushan.kumar@idctechnologies.com>  Austin, TX     Java developer                                                                                                 
+MON2   C2C CONTACT SHARED-----------------------johney.singh@mahakaayasolutions.com            Oakland, CA                  Java Developer          17708240669X307                      
+MON2   he will contact alliance------------------mohamed               apple                          ca                                         14086482190       
+MON2   ----------------------------------manoj---sowmya.jayam@fortira.com                                                                   16096815751                
+MON2   f2f------he will share day and time for interview this week----  rachandra                   freemont                                5108968294          
+MON2   -------vendor rejected for lack og springboot------                                          georgia               java lead-spring boot      3072222565         
+MON2   he willsubmitresume----------------------------------------- afreen@erostechnologies.com                        florida               spring boot, Hibernate     5165450730                                    
+MON2   ----------------------------------manoj--- ravi@procorpsystems.co                            ny                    ang, java fullstack        4692770788              
+MON2   f2f---he will check------------------------avnish@vaspiretech.com                                                        springboot, aws, nosql    7323699565             
+MON2   RTR SENT, F2F ----------------------------shashi@enterprisesolutioninc.com     L&T Infotech  Sunnyvale-CA Java/J2ee Developer/Architect      3313052512      3312057421/3313052512                         
+MON2   -he will send resume-----messages---------------------jitin idc tech  << collegue isamohamed   wipro    sunnyvalley   corejava     4083852663                                                                                                                                     
+MON2   --------------------------------------------                                                                                                            
+MON2   -----------------------------------------                                                                                                            
+MON2   -----------------------------------------                                                                                                                                                                                                                  
+MON2   -----------------------------------------                                                                                                            
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<       
+
+
+
+Primary Responsibilities:
+
+ 
+
+1.       Advance the state of the art in building services products with React.js, Node.js,  Java, PHP, Go and mobile (Android/iOS) frameworks.
+
+2.       Full stack development for desktop and mobile for a data learning and services application that’s streamlining user interfaces and workflow processes in an important industry.
+
+3.       Work with other top-notch engineers, product manager, program managers and QA
+
+4.       Gathering functional requirements, architecting framework, developing technical specifications, and project & test planning
+
+5.       Designing/developing web, software, mobile apps, prototypes, or proofs of concepts (POC’s)
+
+6.       Act in a technical leadership capacity: Mentoring junior engineers, new team members, perform code reviews and applying technical expertise to challenging programming and design problems
+
+7.       Resolve defects/bugs during QA testing, pre-production, production, and post-release patches
+
+8.       Experience with Agile Development, SCRUM, or Extreme Programming methodologies
+
+9.       Design and develop the front end for our customer-facing applications using MVC framework
+
+10.   Design and develop supporting components and services for the backend tiers focusing on fault-tolerance and scalability in a multi-tenant enterprise environment
+
+11.   Maintain and improve the functionality and performance of the existing web applications; refactor legacy codebase
+
+12.   Help shape and execute the technical roadmap to develop next generation features; integrate corporate- and product-level architecture principles and goals into the team’s project work through designs, implementation strategies, and project sequencing.
+
+Knowledge Skills and Abilities:
+
+ 
+
+1.       7+ years experience developing web, software, or mobile applications
+
+2.       BS/MS in computer science
+
+3.       Require full-stack development experience with technologies like React.js, Node.js, Java, PHP
+
+4.       Require experience with one of the major relational databases (MySQL, Oracle, Postgres) and noSQL databases (Cassandra, Dynamo DB or Mongo DB)
+
+5.       Require Git, SVN or similar distributed SCM tools experience
+
+6.       Required to have strong object oriented programming experience using C++, C# or Java
+
+7.       Require experience and Strong understanding of entire Software Development Life Cycle (SDLC), Software design/architecture process, CI/CD processes, unit testing & Test Driven Development (TDD)
+
+8.       Required experience with web services (consuming or creating) with REST, SOAP, Dockers and Containers.
+
+9.       Require expert skills in Javascript, HTML5, CSS, Json or Python
+
+10.   Require experience with Cloud technologies e.g. AWS and GCP
+
+11.   Require strong knowledge of SOA, object-oriented programming, design patterns, multi-threaded application development
+
+12.   Essential to have experience in reporting and analytics, queuing and real-time streaming systems
+
+13.   Essential to have experience developing, maintaining, and innovating large scale, consumer facing web or mobile applications
+
+14.   Always Be Learning: Experience with open source technologies (if no practical work experience w/ Big Data, or cutting edge front-end technology—you’re prototyping and/or researching the up and coming technology and solutions
+
+15.   Preferably have a Github account with self-authored projects is a plus
+
+16.   Preferably have experience in mobile (Android/iOS) frameworks
+
+Prefer experience & knowledge of Hadoop, ElasticSearch, Hive, Pig, Kafka and Machine Learning                                                                                                  
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION                 PROFILE                PHONE                                                                                                                                                                                                                                             QUERIES                                                              
+TUE3   ------------8am-9am PST-------------------                                                                                                           
+TUE3   ------------9am-10am PST------------------                                                                                                           
+TUE3   ------------10am-11am PST-----------------                                                                                                           
+TUE3   ------------11am-12am PST-----------------                                                                                                           
+TUE3   SCHEDULED--PH2--12pm-13pm PST ************karan-  kpandya@nisum.com/divya.kumar@adroitresources.com     Macy's   georgia     Good experience with basic JAVA, spring, MVC, hibernate, etc  Comfortable with algorithmic coding                                              
+TUE3   SCHEDULED F2F-14.30pm-16pm PST-Chandramouli<csomu@drishticon.com walmart-sunnyvalley/F2F with drishticon/pleasanton<<<<2201 Walnut Ave, Suite # 210 Fremont, CA-94538                               Senior Java Developer 732-513-9521                                                                      
+TUE3   SCHEDULEDALLWEEK 15pm-16pm PST------UMA wil call-------manoj-----omkar@proximous.com          Sunnyvale CA     ang,micros,nosql,monolithic,nodejs  9723012774                                                                                                                            
+TUE3   ------------16pm-17pm PST-----------------                                                                                                           
+TUE3   ------------17pm-18pm PST-----------------                                                                                                           
+TUE3   -----------------------------------------                                                                                                            
+
+TUE3   -----------------------------------------                                                                                                            
+TUE3   -----------------------------------------                                                                                                            
+TUE3   -----------------------------------------                                                                                                            
+TUE3   -----------------------------------------                                                                                                            
+TUE3   -----------------------------------------                                                                                                            
+TUE3   -----------------------------------------                                                                                                            
+TUE3   -----------------------------------------                                                                                                            
+TUE3   -----------------------------------------      
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                                      
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION                 PROFILE                PHONE                                                                                                                                                                                                                                             QUERIES                                                              
+WED4   ------------8am-9am PST-------------------                                                                                                           
+WED4   ------------9am-10am PST------------------                                                                                                           
+WED4   ------------10am-11am PST-----------------                                                                                                           
+WED4   ------------11am-12am PST-----------------                                                                                                           
+WED4   ------------12pm-13pm PST-----------------                                                                                                           
+WED4   SCHEDULEDALLWEEK f2f--15pm-16pm PST------UMA wil call-------manoj-----omkar@proximous.com                           Sunnyvale CA     ang,micros,nosql,monolithic,nodejs  9723012774                                                                                                                            
+WED4   ------------16pm-17pm PST-----------------                                                                                                           
+WED4   ------------17pm-18pm PST-----------------                                                                                                           
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------                                                                                                            
+WED4   -----------------------------------------     
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                                       
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION                 PROFILE                PHONE                                                                                                                                                                                                                                             QUERIES                                                              
+THU5   ------------8am-9am PST-------------------                                                                                                           
+THU5   ------------9am-10am PST------------------                                                                                                           
+THU5   ------------10am-11am PST-----------------                                                                                                           
+THU5   ------------11am-12pm PST-----------------                                                                                                           
+THU5   ------------12pm-13pm PST-----------------                                                                                                           
+THU5   SCHEDULEDALLWEEK f2f--15pm-16pm PST------UMA wil call-------manoj-----omkar@proximous.com                           Sunnyvale CA     ang,micros,nosql,monolithic,nodejs  9723012774                                                                                                                            
+THU5   ------------16pm-17pm PST-----------------                                                                                                           
+THU5   ------------17pm-18pm PST-----------------                                                                                                           
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------                                                                                                            
+THU5   -----------------------------------------      
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                                      
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                                            QUERIES                                                              
+FRI6   ------------8am-9am PST-------------------                                                                                                           
+FRI6   ------------9am-10am PST------------------                                                                                                           
+FRI6   ------------10am-11am PST-----------------                                                                                                           
+FRI6   ------------11am-12am PST-----------------                                                                                                           
+FRI6   TIMESLOT----12pm-13pm PST-----------------anil.rawat@incedoinc.com     NC                             7327090513                                                                                                            
+FRI6   SCHEDULED f2f--15:30pm-16pm PST---grace---Vineet@1pointsys.com/Shivani@1pointsys.com      manish will call   partner  jdm   ENDC strter communications   de,colorado     8033353586                                                                                                                                                                                                             
+       -------------------------Manager-shivani--Vineet@1pointsys.com/Shivani@1pointsys.com	     manish will call   partner  jdm   ENDC strter communications   de,colorado     8033353586                                                                                                                                                                                                             
+FRI6   ------------16pm-17pm PST-----------------                                                                                                           
+FRI6   ------------17pm-18pm PST-----------------                                                                                                           
+FRI6   ------------18pm-19pm PST-----------------                                                                                                           
+FRI6   ------------19pm-20pm PST-----------------   
+FRI6   SCHEDULED-THEYWERENTONMEETING-saurav csstechsol----20pm-21pm PST-Beryl.Babu@altimetrik.com-https://altimetrik.zoom.us/j/692599751    
+    Interviewer Name : Caballero Diego                                                                                                           
+	Also focus on- Algorithms, Data Structures, Problem solving.
+	And take this interview as a final interview only, after this F2F will be only kind of Managerial / Behavioural round. 
+FRI6   ------------hewillsharetimesforinterview-manoj-Nitesh.Ingale@synechron.com      scala  new jersey    17047801633                                                                                                      
+FRI6   on next monday----telephonic--07/09/2018  03:00 PM MST-03:30 PM MST<<<<<2pmPST----reddy@orgspire.com  CenturyLink for Java Developer      4086482721                                                                                                      
+FRI6   ---------------------------------manoj---anil  network management systems     north caroline             17327090513    sr java,                                                                  
+FRI6   f2flikely----codingtestonmonday--- ram infotech    menlow park,ca--babi<< expect call from ram infotech    ca                 13024496770                                                                            
+FRI6   f2flikely----codingtestonmonday--- ram infotech    menlow park,ca--babi spring,hibernate,react,datastructures,threads    13022738717                                                                                 
+FRI6   -------HIGHRATE-------------------raj-----shivam.shukla@triconitsolutions.com      impl part    ph1telground <<ph2tele<<<ph3f2f      new jersey      17328217400                                                           
+FRI6   -----------hewillsubmitprofile----------manoj---hari@saaspack.com                           Wilmington, DElaware       19258001235                                                                                                        
+FRI6   ----------------------------------------- anil.rawat@incedoinc.com                           Cary, NC  7327090513       Sr. Java Developer 
+FRI6   --------------join on monday-------------hrinish--kanak.garg@biitservices.com    communications denver,colorado           lead,hibernate, 301474                                                                                                                  
+FRI6   -------hewillsharetimesforinterview-manoj--Nitesh.Ingale@synechron.com  wells fargo     North Brunswick, NJ 7047801633  design patterns - Spring IOC/AOP/MVC, advanced multithreading, Concurrency in Java, JDBC JMS, Spring                                                                                          
+FRI6   findfilein folder resume/hari-barclays------chooseoneprobleuploadingithubandshare--hari@saaspack.com    Barclays   Wilmington, DE    19258001235 X 115      Full Stack Developer                          
+FRI6   -----------------------------------                                                   17328217400                                                         
+FRI6   -----PI shared---------------------------sugan@cloudious.com      Health Care              Denver, CO              14084185580    Well versed with PL/SQL                                                         
+	                                            sugan@cloudious.com      sn louis n arizona   14084185580
+FRI6   -----rtr SIGNED-----------------manoj----Satish@softsages.com                              Denver, CO              12132667873/14844027869x110   Sr. Java       
+FRI6   ---------------------------------raj------nandan.ece@gmail.com/pankaj@synapsebsystems.com/nandan@synapsebsystems.com Palo Alto, CA          7037820007x102  algoritms,AWS,MongoDB j1.7                                                       
+FRI6   -----------------------------------------Karan.Singh@itcinfotech.com  Bank of the West    Phoenix, AZ  
+	Charu Sharma form our onsite HR team would connect to discuss further on possible interviews  to  be scheduled on Monday/Tuesday.                                                       17702849470                                                                                                                                  
+FRI6   -----------------------------------------                                                18033353586                                                            
+FRI6   ------------react is a constraint--------manoj----anurag.singh@okayainc.com    Java Developer with API at Atlanta,GA    fullstack                 4931                                                     
+FRI6   -----------------------------------------                                                                                                            
+FRI6   -----------------------------------------          703   42
+FRI6   -----------------3yearsjavalead---------- abishal                16103010406                                                                                           
+FRI6   -----------------------------------------                co     37451                                                                                            
+FRI6   -----------------------------------------          bsanax                          103 72923                                                                                
+FRI6   -----------------------------------------dekansh   solutions    px arizona                                   3022613207  x 105
+FRI6   ------------------------------------raj-----rait infometics           de,colo   lead                   5165379066                                                                              
+FRI6   ----invite accepted  -SCHED-ON next tuesday----babita.patel@raasinfotek.com   ram will call   bhoopender.singh@raasinfotek.com When	Tue Jul 10, 2018 8:30am – 9am (PDT)   	Where	enpodi25  	Who	Akansha Gupta (akansha.gu@hcl.com), Bhoopender Singh*                                                           
+                                                                                            arizona
+FRI6   --------he cantsendmyprofile2times--raj------- harry    jbean            lead     5165379066                                                                                        
+FRI6   ------------------------------------raj--nagendra@us.insigmainc.com   Denver, CO   implenter-debian  endclient-charter communications telecom  techma  only 1 round         17033449671                                                                                                         
+FRI6   -----------------------------------------                                                                                                            
+FRI6   -----------------------------------------                                                                                                            
+FRI6   -----------------------------------------                                                                                                            
+FRI6   -----------------------------------------          
+
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                
+FRI6   TIMESLOT------------12am-13am PST-----------------anil.rawat@incedoinc.com     NC                             7327090513     
+SAT7   TIMESLOT------------11am-12am PST-----------------anil.rawat@incedoinc.com     NC                             7327090513                                                                                   
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+MON9   SCHEDULED wfi---codingtest-8:30am-9am PST----f2flikely---ram infotech    menlow park,ca     spring,hibernate,react,datastructures,threads    2738717                                                                                                                                                                                          
+MON9   ------------9am-10am PST------------------                                                                                                           
+MON9   ------------10am-11am PST-----------------                                                                                                 
+MON9   ------------11am-12pm PST-----------------                                                                                                          
+MON9   ------------12pm-13pm PST-----------------shubham.gautam@itconnectus.com    itcinfotech will call/dont copy alliance                    18476076282
+MON9   ------------13pm-14pm PST-----------------LUNCHTIME-----------LUNCHTIME-----------LUNCHTIME------------LUNCHTIME-----------LUNCHTIME-
+MON9****SCHEDULED---14pm-15pm PST--telephonic--07/09/2018-03:00PMMST-03:30PMMST<<<2pmPST<<<ram- reddy@orgspire.com  CenturyLink for Java Developer      4086482721                                                                                                                                                                                                               
+	When	Mon Jul 9, 2018 2pm – 2:30pm (PDT)
+	Where	Telephonic
+	Who	suman@orgspire.com, manoj, Ram*
+	Please find the below details and join the call at 3pm MST
+	Join by phone 1-888-431-1079 United States,,771478706# 
+	English (United States) 720-888-9891 Broomfield,,771478706# Conference ID: 771478706
+	---------
+	FEEDBACK >>>> DURATION 30 minutes. noframeworks stablished,small team, domine telecommunications, remote (colorado).
+	                                                                              
+																				  
+																				 																			  
+MON9****SCHEDULED------------15pm-16pm PST--------avich    cisco   sanjose   ustglobal                  14086370393     
+     FEEDBACK >>>>>>>> DURATION 40 minutes. support  application deployd with linux, hibernate, spring.     location  san jose  DOMINE  different customers, sport and entertainment, media images, monitor networking
+MON9  CAN'T TAKE IT---CANCELED---3pm – 3:30pm----skype-------sreenath_aramadaka@agilees.com                                                                                      
+	When	Mon Jul 9, 2018 3pm – 3:30pm (PDT)
+	Where	Skype call
+	Who	Minesh, mareboina.rao@wipro.com, nithiya.e58@wipro.com, Sreenath Aramadaka*
+MON9   ------------16pm-17pm PST-----------------                                                                                                           
+MON9   ------------17pm-18pm PST-----------------
+MON9   ******nolimk shared******18pm-19pm PST-------rajdeep--anchal.srivastava@idctechnologies.com        chicago                             4084185779 x-324
+MON9   ------------19pm-20pm PST-----------------   
+MON9   ------------20pm-21pm PST-----------------                                                                                                         
+MON9   -----------------------------------------  richalv southnet              client fox                          6103010406                                                                         
+MON9   -----------------------------------------   himanshu                                                         5107   62        /     68162                                            
+MON9   -----------------------------------------   sulin                                                             6785   63 5 00                   9500                         
+MON9   -----------------------------------------    anurak        corporation                  ca                   5122154931                                                                                        
+MON9   -----------------------------------------                                                                                                            
+MON9   -----------------------------------------                                           1630364                                                                 
+MON9   -----------------------------------------                                                                                                            
+MON9   -----------------FRI6   SCHEDULED-THEYWERENTONMEETING-saurav csstechsol-12486314266---20pm-21pm PST-Beryl.Babu@altimetrik.com-https://altimetrik.zoom.us/j/692599751    Interviewer Name : Caballero Diego                                                                                                           ------------------------                                                                             
+MON9   -----------------------------------------Bhoomi Doshi   bdoshi@kforce.com research company in California and Austin Texas O: 512.231.3604  C: 561.777.4994 Java Developers 
+MON9   -----------------------------------------                                   8033693436                                          
+MON9   ---------->>>>tell to taylor that my employer is softnice <<<<  lead   aslam is manager - vishal    redirect to disis. 
+expect call from taylor endclient foxvagan                               6105560371     spring rest                                       
+MON9   -----------------------------------------no audible                                                                             6303645615
+MON9   ---------------------------manoj----himanshu (represent kapil.kohli@talentanytime.com  in front of annn,enableit.  implement partner is  cpn)  Multiple clients pays expenses  citigroup,openheimer           ny      15107878162                          
+MON9   -----------------------------------------                                                                  17205459443           
+MON9   -----------------------------------------               hcl       sandiego           lead                         1450      
+MON9   Already talked to samlee,Iwaitfornextstep----aditya@econosoftinc.com--(represent econosoftinc.com in front of samlee from selectgroup)   endc:fidelity    nc  14084423663    100% backend                                 
+
+
+MON9   ----------------------------------------	vkumar@softnice.com  16103010406    volkswagen   Auburn Hills, michigan    lead      +apachesolr +springboot
+       taylor will submite my profile to volswagen                                                                                           denver,dallas
+    (represent aslam   in front of taylor 720.545.9443)
+	I have submitted your profile for below position and my business partner “Taylor - 720.545.9443” wants to speak with you so kindly give him a call back immediately for client submission and scheduling the interview.
+	He is in direct touch with hiring manager so kindly give him a call, he has tried to reach you but you didn’t answered.
+	(experience interview/30 minutes)
+MON9   -----------------------------------------rabali  ecosystem       maryland                                      17036628136                                        
+MON9   *************************-------manoj----madhu.m@virinca.com     barclay   delaware   16096660061   remote-fullstack                 
+MON9   ------------------full time - not to take-----------------------     idctechnologies     planotx               14084292680                       
+MON9   ********--------f2f------------viyey  from opusoft      only 1 round        apple                                   14692779688                            
+MON9   -----------------------------------------                                                19194590855                           
+MON9   -------position already shared----hrinish--------pavan@accelintlinc.com   APPS/APPS/2018/887842     San Diego, CA    4696194000 Ext:200    spring rest                                                                        
+MON9                                     
+MON9   -----------------------------------------     allu from softtechnologies      cisco            san jose                                                              
+MON9   ----------------------------------------- stella                                                                                  
+MON9   --------personal information shared--raj------ShivaReddy vejars <shiva.vejars@gmail.com>  APPS/APPS/2018/887842   san diego   D: 972-544-6786 F: 877-864-0416
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+MON9   -----------------------------------------                                                                             
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                                  
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+
+TUE10   -------------------------------raj-------suhail  201)957-1000 ex406
+TUE10   ------------8am-9am PST-------------------babi   ram will call   bhoopender.singh@raasinfotek.com 
+	When	Tue Jul 10, 2018 8:30am – 9am (PDT)
+	Where	enpodi25
+	Who	Akansha Gupta (akansha.gu@hcl.com), Bhoopender Singh*      
+feedback  chiraayu	yoshi
+given a string  ABC find combinations      {ABC},{BCA},{CAB},{ACB},{BAC},{CBA}
+number into strings    1234 -> one thousand   two hundred  thirty four
+frameworks, javascript, php
+
+TUE10   ------------9am-10am PST------------------                                                                                                           
+TUE10   ------------10am-11am PST-----------------                                                                                                           
+TUE10   SCHEDULED---11am-12am PST--skype---1/2 rounds-------anil.rawat@incedoinc.com                    17327090513 core java , spring,rest,struts,hibernate,angular, vnf s, 
+TUE10   ------------12am-13am PST-----------------
+TUE10   CODING TEST-------------------------------rudatitus@idctechnologies.com----Duration: 90 mins  Expires on: 11 Jul 2018 07:05 PM EDT (America - New York)              Virtusa Corporation Hiring Team  <support@hackerrankforwork.com>  JPMC Hiring - Set B invitation                                                                                                            
+	https://click.pstmrk.it/2sm/www.hackerrank.com%2Ftests%2Fdq55hserm39%2Flogin%3Fb%3DeyJ1c2VybmFtZSI6ImVkaWF6LnNmZGV2ZUBnbWFpbC5jb20iLCJwYXNzd29yZCI6Ijk4MWQxNGJjIiwiaGlkZSI6dHJ1ZX0%3D/jhmWzQE/EDcI/7lApdY6gLo/aHJ3LXRlc3QtaW52aXRl
+TUE10   ------------13pm-14pm PST-----------------LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-
+TUE10   ------------15pm-16pm PST-----following of monday------------ vkumar@softnice.com  16103010406    volkswagen   Auburn Hills, michigan    lead      +apachesolr +springboot
+       taylor will submite my profile to volswagen 
+>>>>tell to taylor that my employer is softnice <<<<  lead   aslam is manager - vishal  	   
+TUE10   ------------16pm-17pm PST-----------------                                                                                                           
+TUE10   ------------17pm-18pm PST-----------------  
+TUE10   SCHEDULED---18pm-19pm PST-----hrinish------karan    15103389782                                                                                                         
+TUE10   SCHEDULED-CANCELED NOT AS ARCHITECT--18pm-19pm PST-- “ Java Architect”@ “Lakeland, FL"---jessica_tyler@agilees.com   Sam Eldin is ready to take Skype call tomorrow at 6PM- 7PM EST(10th July'18). 
+TUE10   ------------19pm-20pm PST-----------------   
+TUE10   ------------20pm-21pm PST-----------------                                                                                                         
+TUE10   ------s1r-----------------------------------manav.singh@us.insigmainc.com                              irving tx        17033449674
+
+TUE10   -----------------------------------------mohamed                 missouri                                                                                            
+TUE10   ---------na--------------------------sunil---samrichar                sunyvale         13022311483                                                                                   
+TUE10   --wait and confirm invite for wed 8am---- nitesh                                                                                                             
+TUE10   ----------------------------------------- kanak           missouri                                                                                                
+TUE10   **********for fri,mon and tue*****  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                   
+TUE10   *****one round---manoj--f2f friday core java  atlanta goergia working, princeton new jersey interview---------manoj--------sivakami@itbmsinc.com                                                                                            
+TUE10   -----------------------------------manoj- ramasis   canbconsulting           las vegas                 lead   fullstack             16103010766                                                 
+TUE10   -----------------------------------manoj------ baskaran@krgtech.com      Client: HCL America Inc / Facebook Inc         Menlo Park, CA  661-558-0000 Ext : 601     6508107093     
+                                                                     6615580000
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------          
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------          
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------          
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------          
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------                                                                                                            
+TUE10   -----------------------------------------          
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                                  
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE  
+FRI13   F2F----GETEMAILINVITE--------16pm-17pm EST<<<<<<<<<<<<<<<<<sivakami@itbmsinc.com  itbms    implementer Virtusa / Centene    endcli     <<<<<<<<<<<<<<<<<<<<<                                                                                                                                                                                                                                           QUERIES                                                              
+WED11   SCHEDULED---8am-9am PST------------------- nitesh       wells fargo   1/3 rounds            17047801633                                                                                    
+	When	Wed Jul 11, 2018 8am – 8:45am (PDT)   Where	Conference No. 1-888-444-7770 Passcode : 653192#  	Who	nikhil.karmude@synechron.com, rajeev.baid@wellsfargo.com, vikas.gupta2@wellsfargo.com*
+WED11   ------------9am-10am PST-----------------------------
+WED11   ------------10am-11am PST-----------------------------
+WED11   ------------11am-12pm PST-----------------------------
+WED11   SCHEDULED---12pm-13pm PST-----------------vani_perumandla@aesinc.us.com 972-440-0068 vani_perumandla@aesinc.us.com Your interview is confirmed tomorrow(07/11/18) at 12:00-1:00 PM PST. Please confirm that you would be available to take the Skype Interview.                                                                                                          
+	Skype Interview tomorrow(07/11/18) at 12:00-1:00 PM PST.
+	Wipro is an Implementation partner and end-client is Capital One. Core Java-L3 
+	App-Cloud Services-L3 (Mandatory) Spring-L3  <<<<only core java
+	When	Wed Jul 11, 2018 12pm – 1pm (PDT)
+	Where	Mc Lean, VA
+	Who	Minesh, Raj Thota, Sreenath Aramadaka, Vani Perumandla*
+	feedback, interviewer jagan from wipro is the interviewer, AWS is used, location is richmond virginia (next to washington)
+WED11   ------------13pm-14pm PST-----------------LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-LUNCHTIME-                                                                                                         
+WED11   TS------------14pm-15pm PST---------------vani_perumandla@aesinc.us.com        972-440-0068                                                                                                        
+WED11   TS PH2------------15pm-16pm PST-----------------following of monday------------ vkumar@softnice.com  16103010406    volkswagen   Auburn Hills, michigan    lead      +apachesolr +springboot
+       taylor will submite my profile to volswagen 
+>>>>tell to taylor that my employer is softnice <<<<  lead   aslam is manager - vishal                                                                                            
+WED11   ------------16pm-17pm PST-----------------                                                                                                           
+WED11   ------------17pm-18pm PST-----------------                                                                                                           
+WED11   
+WED11   ------------19pm-20pm PST-----------------   
+WED11   ------------20pm-21pm PST-----------------                                                                                                                                                                                
+WED11  ----cb-----------------------------manoj---tim.leckenby@accionlabs.com          Boston, MA    17242993387         Sr. Java Developer-                                           
+        difference beetween Queue and topic. 2 way to override multithreaded code: extends Thread or implement Runnable interface
+WED11-TUE10---resumepreviouslysubmitted-----manoj--- kumar@cloudious.com    expect call from manager  lucxmy only one round   implementer endclara   at&t   cloudis   washinton  senior java   14086093720
+WED11   -----------------------------------------bhardy@apexsystems.com       Walmart     14082167670                                                                                                          
+WED11   -------------full time, not to take----------------------------shankar_gyara@aesinc.us.com        Windsor ,CT  19724400076                                                                                     
+WED11   ---------shewilldiscussrate--------------------------------preethi.c@vdartinc.com>              px, arizona    16787204602                                                                                                           
+WED11   ------------------------------hrinish-----perry@nuevainc.com------          techmahindra/morgan                19178489418                                                                     
+WED11   ---------hewillsubmitmyprofile-----oj----balraj@spruceinfotech.com             Denver CO                       16106520113      fullstack                                                         
+WED11   ------------documenting application------seema.adhikari@spectraforce.com            Technical Writer at Alameda, CA  19192309952-ext- 4420 / 800-204-6186                                                                
+WED11   TS---callinterrupted for intervieat12pm------he will send my profile--------------------------manoj-Karan.Gaur@xoriant.com    Telenav   Santa Clara, CA                   408-550-1208     Back-end Java Developer                                                        
+WED11   ICANTPUTMICROSERVICESANDSPRINGBOOTONMYRESUME--Interview- Phone & Skype----------raj----pavan@1pointsys.com   Saint Louis, MO 8033693739                                                                                                           
+WED11   ---------shewillsubmitprofile-----sunil--cady.k@vdartinc.com    staples                    16787203288
+WED11   ---------I gave personalinfo---manoj------Arun <arun@vhltec.com>              arizona               13155143281                                                                               
+WED11   -----------------------------------------                            manav.singh@us.insigmainc.com  9674                                                          
+WED11   -------------------------------sunil-----ranjeet  enterprisesolutions                sunnyvale,ca             14082167923                                                                               
+WED11   --------------------------------sunil----deep idc    impl tata/endc comcast       philadelphia               14084592498          java,spring,bigdata,                                                                      
+WED11   -----no questionaire attached-----raj---chandan.mishra@idctechnologies.com / deepak.kumar1@idctechnologies.com    sunyvale          408-457-9381 Ext: 4056                                                                                        
+WED11   --------------voicemachine. extension needed---------------------------                                16092167354
+
+pawan.pandey@ramyinfotech.com(408 819 2141)-Pawan,
+soumen.m@joulestowatts.com(806-223-4573)-Soumen, 
+sarath@bluestar.technology(856-624-9044)-Sarath, 
+baskaran@krgtech.com(661-558-0000)-Baskaran,
+Satish@softsages.com(213 266-7873)-Satish, 
+ramashish@cambaycs.com(610-301-0766)-Ramashish
+                   
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                         
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                         
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                                                                                                            
+WED11   -----------------------------------------                         
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                   
+
+
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE 
+THU12-FRI13   F2F------------16pm-17pm EST<<<<<<<<<<<<<<<<<sivakami@itbmsinc.com  itbms    implementer Virtusa / Centene    endcli     <<<<<<<<<<<<<<<<<<<<<                                                                                                                                                                                                                                            QUERIES                                                              
+THU12   ------------8am-9am PST-------------------                                                                                                           
+THU12   ------------9am-10am PST------------------                                                                                                           
+THU12   SCHEDULED---10am-11am PST-----------------anil.rawat@incedoinc.com>   int katan  end client  verizon    irving,tx  Will you be available for Skype interview on Thursday(7/12) at 10 AM PST ? 7327090513                                                                                                        
+
+	feedback  interviewer ketan, duration 50 minutes,  microservices and springboot, vector threadsafe is deprecated in java,  interceptors in struts2, 
+THU12   TS-----------11am-12pm PST-------------manoj------Arun <arun@vhltec.com>              arizona               13155143281                                                                                                          
+THU12   TS----------12pm-13pm PST-----------------following of monday------------ vkumar@softnice.com  16103010406    volkswagen   Auburn Hills, michigan    lead      +apachesolr +springboot
+       taylor will submite my profile to volswagen 
+>>>>tell to taylor that my employer is softnice <<<<  lead   aslam is manager - vishal                                                                                                            
+THU12   TS----------15pm-16pm PST-----------------bhardy@apexsystems.com   Walmart   Phone Interview:Thursday Any time after 1 PM/PST                                                                                                           
+THU12   TS------------16pm-17pm PST-----------------------he will send my profile--------------------------manoj-Karan.Gaur@xoriant.com    Telenav   Santa Clara, CA                   408-550-1208     Back-end Java Developer                                                                                                                             
+THU12   TS------------17pm-18pm PST---------------manoj------Arun <arun@vhltec.com>              arizona               13155143281                                                                                                            
+THU12   ------------18pm-19pm PST-----------------
+THU12   ------------19pm-20pm PST-----------------   
+THU12   ------------20pm-21pm PST-----------------                                                                                                         
+THU12   -----------------*76------------------------                                                   9724400076                                                      
+THU12   --------------------------*76---------------                                                    
+THU12   ------------------------------*76-----alli------                                                                67872030288                                                  
+THU12   -------------------------------*76----------ipone   1pointsystems                  misouri                                                                                       
+THU12   ----------------------------*76---------manoj----arun                             px, arizona                    3155143281                                                                        
+THU12   -------------------------*76----------------chandran                                                             4086688606                                                       
+THU12   ----------------------*76-------------------allurmar                               connecticut                   6787435986                                                        
+THU12   -------------------*76----------------------anurak     keyanat                                                   5122154931                                                        
+THU12   ----------------*76-------------------------        technologies           nc                                    9192309952   x8342
+THU12   -------------*76----------------------------    technograph             misouri or new jersey                    6146647840                                                      
+THU12   -------------*76--------------------manoj--- mohit                                                               6094365403
+THU12   -----------------------------------------                                                                     972440076                                                                                       
+THU12   -----------fulltime nottotake------------ kranthi@aristontek.com                             Bothell, WA     12018446515    Microservices                                                                recent          
+THU12   -----------------------------------------  allianceit                                                             recent   19254629708                                             
+THU12   -----------------------------------------paragb@jobcloudinc.com                                         recent   17323338933      tester                             
+THU12   -----------------------------------------                                                               recent                                                
+THU12   -----------------------------------------                                                               recent                                      
+THU12   -----------hecantsubmitprofile----manoj--pawan.pandey@ramyinfotech.com(408 819 2141)-Pawan                                                                                                            
+THU12   -----------hewillsumbitfornewposition-manoj--soumen.m@joulestowatts.com               (806-223-4573)-Soumen                                                                                                  
+THU12   -----------------------------------------isam      technologies           montreal                               17037386662                                                            
+THU12   ----------------------------------------- deavanon   krgtech                                                                                              
+THU12   ----------------------------------------- barat      aptu                                                                                                     
+THU12   f2fNY------------------------------manoj-(  i represent  <kapil.kohli@talentanytime.com> in front of anna.tkach@enableit.us.com  )NY   16467575295                                                                                 
+          implement partner is  cpn)  Multiple clients pays expenses  citigroup,openheimer           ny      15107878162  
+		SCREENIG FEEDBACK <<< endclient   cpm  , runnable vs callable
+		WAITFOREMAILINVITATION   tecnichal interview with manoj  tomorrow 9.30pmEST  6:30pmPST
+THU12   ----------------fl-------------------------denish                              atlan, tenesse                      16093183358                             
+THU12   -----------------------------------------Das Menon <dmenon@aptuity.com>                        Boca Raton, FL    16148747318    lead                      
+THU12   ----------------------------------jul9th-------kapel  recluter himanshu   talent     impl  enableit      15107228551                                                                                         
+THU12   ----------------------------------------- sunil@reliantvision.com  endc png procted and   gamble corporation CA    17327345016   full                               
+THU12   -----------------------------------------                                                                                                     
+THU12   -----------------------------------rajdeep------annur tecnograph   milwaken                                   16146647840                                 
+THU12   -----------------------------------------Akanksha Jakhmola <akanksha.j@nityo.com>           cognizant/collscorporation    melbourne                                                      
+THU12   ----------------------------------sunil--ricard from pyramid                                                17702557578  spring,hibernate,angular                                                
+THU12   ----------------------------------sunil--hemant@whizglobal.com    Denver, CO  synecron transamerica, atlanta    16786589214    lead                              
+THU12   -----------------------------------------     itforce                                                          14803826820                           
+THU12   -----------------------------------------gunamlesh  itcloud                                                    13023531959                               
+THU12   ------------kafka is constraint---sunil--Sunil Varaganti sunilv@systelinc.com                                  16782509837                            
+THU12   -----------------------------------------                                                                      19732954574                               
+THU12   ----------hewilldiscussratetalktomyemployer----manager saresh-- Rahul.Panchal@artech.com johnoson n johnson  hiring manager  new jersey      19739673388   lead     tech  shada  19732954574                
+THU12   -----------------------------------------                                                                      13023531959                               
+THU12   -----------------------------------------                                                                      19737570277                            
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                   
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+FRI13   ------------8am-9am PST-------------------                                                                                                           
+FRI13   TSALLWEEK------------9am-10am PST---------wait call from manish---------***************cb*****not answering  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                                                                                                                              
+FRI13   TSALLWEEK------------10am-11am PST--------wait call from manish---------***************cb*****not answering  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                                                                                                                              
+FRI13   TSALLWEEK------------11am-12pm PST--------wait call from manish---------***************cb*****not answering  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                                                                                                                                                                                                                                         
+FRI13   SCHEDULED ASSESSMENT TEST 12pm-13pm PST---deliver at 7PM---raj--manish.verma@spectraforce.com   i asked for assessment test link   Druham, NC    9198876786 X 4342  
+https://test.interviewmocha.com/AuthenticateKey?id=7764c3b746                                                                                                          
+FRI13   ts------------15pm-16pm PST-----------------Rahul.Panchal@artech.com johnoson n johnson  new jersey      19739673388   lead     tech shada  19732954574                                                                                                                           
+FRI13   F2F------------16pm-17pm EST<<<<<<<<<<<<<<<<<sivakami@itbmsinc.com  itbms    implementer Virtusa / Centene    endcli     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                                          
+FRI13   ts------------17pm-18pm PST-----------------Rahul.Panchal@artech.com johnoson n johnson  new jersey      19739673388   lead     tech shada  19732954574                                                                                                                           
+FRI13   CANCELLED-Butmanojtoldmebyphoneitisstillactive    anna.tkach@enableit.us.com as PREVIOUS ASSESSMENT ON MAY 21 SCHEDULED---18pm-19pm PST---WhenFri Jul 13, 2018 6:30pm – 7pm (PDT) WhereManoj calls Enrique via skype Whokapil.kohli@talentanytime.com, anna.tkach@enableit.us.com* 
+	You are all set for you technical screening. 
+	Our technical specialist - Manoj  19737570277- will call you on your phone at 6.30 PM PST on Friday 7/13.
+	Please accept this invitation.
+FRI13   ------------19pm-20pm PST-----------------   
+FRI13   ------------20pm-21pm PST-----------------                                                                                                         
+FRI13   ---------------9:30pm--------------------------                                                                                                            
+FRI13   -----------------------------------------alurina  fitness         exercise program            9259652152                                                                                    
+FRI13   -----------------------------------------manoj alliance         92545                                                                                                   
+FRI13   --------------lefta vm--------------------    itservices            ny   3026014005     full                                                                                    
+FRI13   ----------------------------------------- anun       dailymorning           48038260                                                                                         
+FRI13   ------------------notanswering-cb---------anton faxy                     2488383314                                                                             
+FRI13   ------------extentionneeded---------------aminish   technlogies    nc                                         9192309952   full     documenting                                                      
+                                                 seema.adhikari@spectraforce.com                                       919-230-9952-ext- 4420 / 800-204-6186
+FRI13   -----------------------------------------prat  jobcloudingcorportion sf                                        7323338933       tester                                                                
+FRI13   ---------------------not a voice-----------                                 6098530818                                                                                                  
+FRI13   ------------discussrate------------------venkattrinitycloud00@gmail.com                                        3023531959
+FRI13   ------------scheduled confirm----9:30pm--manoj  enableit.us.com          19737570277
+FRI13   ---------hewillsubmitprofile----sunil----vinil@3bstaffing.com implementer synechron    silicon iowa,colorado   1908778036 18048007028
+FRI13   -----------------------------------------                                18048007028
+FRI13   ---TUE17   SCHEDULED-----WAITFORINVITEANDCONFIRM-------15pm-16pm PST----webex----bhardy@apexsystems.com   Walmart   Phone Interview:Thursday Any time after 1 PM/PST   14082167670                 
+FRI13   ------------------------------sunil----- ravi@palnar.com             ny           16095783260     full
+FRI13   -----------------------------------------vinil                         18048007028
+FRI13   ---------------wf email------------------ambika.rs@vdartinc.com      implem maintree endc  amaxjpt               ca     16787204521
+FRI13   -----------------------------------------                         16787204521
+FRI13   -------------------------------manoj-----shivan          wipro/  cisco             19724402078
+FRI13   -----------------------------------------jeff                         19739882122
+FRI13   -----------------------------------------qcel                         14083929291
+FRI13   -----------isharedupdatedresume----------sunil--ashoks@clovity.com           capitalone     richmond                   14084091006      aws,nosql
+FRI13   -----------------------------------------                             16095783260
+FRI13   SAT14------8am-9am PST---------expect call from TCS-----------ranjeet                      14082167923      sunil-----ranjeet  enterprisesolutions    endc apple            sunnyvale,ca             14082167923
+
+FRI13   ----------hewillsubmitprofile   ifacceptedstart onmonday----sharat         medinpack    san diego    ca        14083929291
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FRI13   -----------------------------------------                         
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                   
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+MON16   ------------8am-9am PST-------------------                                                                                                           
+MON16   TSALLWEEK------------9am-10am PST---------wait call from manish---------***************cb*****not answering  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                                                                                                                              
+MON16   TSALLWEEK------------10am-11am PST--------wait call from manish---------***************cb*****not answering  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                                                                                                                              
+MON16   TSALLWEEK------------11am-12pm PST--------wait call from manish---------***************cb*****not answering  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                                                                                                                                                                                                                                       
+MON16   ts------------12pm-13pm PST-----------------Rahul.Panchal@artech.com johnoson n johnson  new jersey      19739673388   lead     tech  shada 19732954574                                                                                                                           
+MON16   ts------------15pm-16pm PST------TUE17   SCHEDULED-----WAITFORINVITEANDCONFIRM-------15pm-16pm PST----webex----bhardy@apexsystems.com   Walmart   Phone Interview:Thursday Any time after 1 PM/PST   14082167670                                                                                                            
+MON16   ts----------16pm-17pm PST--------ranjeet                      14082167923      sunil-----ranjeet  enterprisesolutions                sunnyvale,ca             14082167923                                                                                                           
+MON16   screening  SCHEDULED --16pm-17pm PST-Hangout video call--sunil----ashoks@clovity.com        capitalone                  14084091006 Mobile 19252987869
+	When	Mon Jul 16, 2018 4pm – 4:30pm (PDT)
+	Where	Hangout video call with ENRIQUE POMPOSO DIAZ_16 July @4:00PM_PST_Java Developer III # 12828-1 With Capital One
+	Who	gauravm@clovity.com, srinivasanr@clovity.com, Ashoka Sahu*
+MON16   ts------------17pm-18pm PST----------------Rahul.Panchal@artech.com johnoson n johnson  new jersey      19739673388   lead     tech  shada 19732954574                                                                                                                  
+MON16   TS------------18pm-19pm PST--------------sudhakar hsssoft   expect a call fro interview
+MON16   TS------------20:30pm-21:30 PST----------
+MON16   -----------------------------------------                                                                                                            
+MON16   -----------------------------------------                                                                                                            
+MON16   -heasked ts forTueNwed---------raj-------dave axilabs                                        san antonio      17242993383                                                                         
+MON16   -----shared my employer-------------------Purnima Moharana Purnima.Moharana@xoriant.com>       WECJP00006376               camel constraint            14083376282                                                                      
+MON16   -----shared my employer ----------------- sunita.singh@collabera.com        wells fargo  san leandro           9256405858          j2ee   camel                                                 
+MON16   ----------------------------------------- nishanth@kanisol.com                                         16096435337                                                                  
+MON16   -----------------------------------------                          17035744725                                                                                  
+MON16   -----IsentBackAnswersDoc------s.kumar----chandan.mishra@idctechnologies.com                Philadelphia, PA   4086688606                                                                                        
+MON16   ------------------------------raj--------hemendra.kumar@insigmainc.com                      Portland OR       7034683058                                                                     
+MON16   -----expect call from nivas from techm---manoj------gokul@gemscorp.com     Tech Mahindra     S  NY    7035744725    spring framework, N tier Architecture (MVC, JEE), and ORM 
+MON16   ----------callcannotbecompleted----------                                                                    14158777279                                        
+MON16   -----expect call from --vigia ----sunil--satish techsolutions              san ramon, ca                     18134402798     aws constraint                                  
+MON16   -----------------------------------------anthony@deegit.com         atlanta, georgia                         8474402436 X341    Mulesoft Integration Developer                                                                            
+MON16   --------acknowledged rtr-----------------raj---sonia sbhatia@bayonesolutions.com  er.soniabhatia@gmail.com          sunnyvale              19253990605                                        
+MON16   ---------passportshared------------raj--- suresh@hsssoft.com                                  columbus ohio 17322187489 /16464158555 Core java developer and Full stack                                                 
+MON16   -----------------------------------------                                                                     14084423662                                       
+MON16   -------shewillcalltomorrowmorning--------sunanda@acetechnologies.com                                        408-442-3662 X4344   plsql                                                                     
+MON16   -----------------------------------------                                                                                                            
+
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                              
+TUE17   ------------8am-9am PST-------------------                                                                                                           
+TUE17   ------------TSALLWEEK------------9am-10am PST---------wait call from manish---------***************cb*****not answering  s.kumar@allianceit.com--  implementer-infosys, endclient notprovided----Shukla.Deep@pyramidci.com New York NY O:7322769938 M:4133915009  Java, Oracle, Spring                                                                                                                                                                                                              
+TUE17   ------------10am-11am PST--------                                                                                                                                                                                                              
+TUE17   ------------11am-12pm PST--------                                                                                                                                                                                                                                                                                                                       
+TUE17   *************SCHEDULED------12pm-13pm PST-----------expect call from shalya--------client---credit union --------------grace--sara@successdrivesystems.com             ashvin virginia  
+        represent sara@successdrivesystems.com   in front of  shalya or shely      4334       15102242316      x 106 
+        david dixon    client     navysadril   credit union		
+		atlanta georgia
+TUE17   SCHEDULED-----WAITFORINVITEANDCONFIRM---WEBEX----15pm-16pm PST----webex----bhardy@apexsystems.com   Walmart   Phone Interview:Thursday Any time after 1 PM/PST   14082167670
+Here is the collabEdit link:  http://collabedit.com/pdrhm
+	Meeting Number: 745 376 138
+·   Meeting Password: 1234  
+	https://walmart.webex.com/walmart/j.php?MTID=m2a7588435fd220a73e2ad38b63692695
+	samslabs  open source      mosst java azure backend sunnyvale.   how to work with child threads
+	5 year agreement with microsoft azure
+	aly(6505046586)  is the manager and benjamin   bhardy  is the recruiter
+	
+	
+TUE17   TS------------16pm-17pm PST---------zoom--------dave axilabs      <<<ranjeet interviewer     san antonio      17242993383                                                                                                
+TUE17   TS------------17pm-18pm PST----------raj----ankur        debian/charter comunications  denver colorado   17033449674 X115  telco,  microservices      java lead                                                                                                        
+TUE17   SCHEDULED-----18:00pm-19pm PST---- Skype------venkatesh_solti@aesinc.us.com      Hillsboro,OR  RESTful APIs for business-critical production systems
+ venkatesh_solti@aesinc.us.com      Your interview is confirmed for Skype call today at 6:00 PM TO 6:30 PM PST.
+ feedback several questions lost
+            wipro, client nike   interviewer rajesh manimala
+TUE17   SCHEDULED--movedtotomorrow--19pm-20pm PST-------venu@mutexsystems.com     call from synechron                 9087778036 
+TUE17   ---------------------------------ali--------soria informatics   den,colorado                     5166668075                                                                         
+TUE17   -----------------------------------------ravi  chinfanci    ny                            7035744714                                                                            
+TUE17   -----------------------------------------raj  vdart                                       6787201532                                                                          
+TUE17   -----------------------------------------sonia                                            9253990605                                                                        
+TUE17   ----------------------------------sunil--satish   atikssolutions                          8134402798                                                           
+TUE17   -----------------------------------------soni                                             9253990605                                                                           
+TUE17   -----------------------------------------no voice                                         6464158555                                                                           
+TUE17   -----------------------------------------no voice                                         6464158555                                                                        
+TUE17   -----------------------------------------vinit infotech  missouri                         6098530818             X                                                               
+TUE17   -----------------------------------------                                                 8472300036                                                           
+TUE17   *****-rate confirmed----------shafia-------sai_nalla@aesinc.us.com  agileenterprisesolutions    tstglobal  Albuquerque,New Mexico   19724400081                                                                           
+TUE17   ----------------------------------manoj--veronica@srishtitek.com                          Boston, MA            2107145645 Microservices, API Integration     
+TUE17   ----I was notified that allianceit doesn´t work with itscient----sunil--armandeep  itscient      washington         15105167870           swagger,docker,kubernetes,microservices 
+TUE17   -----------------------------------raj---darmendra tcs  cdk        portland,oregon   17034683058           
+TUE17   -----------------------------------sunil-lakshi       debiancomunications           missouri          14152025201           
+TUE17   ----------------------------------raj----Sukhpreet Kaur  9192309952           X   4441                                              
+TUE17   -------wed and thur TS>>>>>>>>>>skype------deepak.kumar1@idctechnologies.com     idc                          14084579381 X 4056
+TUE17   *******----------expect call from shalya-------------------------grace--sara@successdrivesystems.com             ashvin virginia                                                       
+TUE17   -----------------------------------------                                                            
+TUE17   -----------------------------------------srini clientsynechron                             8472300036                               
+TUE17   -----------------------------------------             ptm                                  7036524333          
+TUE17   -----------------------------------------sara                                             15102242316          
+TUE17   ****************--------hangouts-sunil---anshul@inficaretech.com  hclamerica/google san jose 17036524333            raj    17036529499                                       
+TUE17   -----------------------------------------shahi info                                       19084289052      api rest 
+TUE17   -----------------------------------------karanpandey                                      15103389782                     
+TUE17   -----------------------------------------deep Pyramindconsulting   barkleys               17322769938 expect call from  vishal-barkleys                                         
+TUE17   ---confirm meeting-------------------------------------- deepak               14084579381           
+TUE17   ---expect codetest  2round skype--sunil----Vignesh <vignesh@softnice.com>         Mclean, VA virginia   16102288917   expect codetest  2round skype     
+TUE17   -----------------------------------------                                                            
+TUE17   ----------------------------------------- IBS Group - Recruiter <recruiter@ibs-g.com>   Deerfield, IL      18176785420      SpringBoot Framework     
+TUE17   -----------------------------------------venu@mutexsystems.com     call from synechron              9087778036   srini mutexsystems.com  19087778043          
+TUE17   ----------------------------------------- srini     mutexsystems.com                                        19087778043             
+TUE17   -----------------------------------------                                              17326239638              
+TUE17   -----------------------------------------venu                                            8479932001  X 203         
+TUE17   -----------------------------------------                                                7326239638    varum        
+TUE17   -----------------------------------------                                           1238 8472300036  srini  technologies   venu          
+TUE17   -----------------------------------------                                           117  6103351106   alsum   mc lean virginia            
+TUE17   -----------------------------------------                                           218  7326239638  varum synechron               
+TUE17   -----------------------------------------                                                7326239638            
+TUE17   ------------------------------------raj---veera.b@vdartinc.com      sheridas             Carlsbad, CA          16787203599    SQLandORM-JPA2, Hibernate.JMS        
+TUE17   ------------------------------------raj--dinesh.t@axiustek.com      cisco        sanjose                                 
+TUE17   -----------------------------------------         xtension require                      14084423662           
+TUE17   -----------------------------------------                                                6505046586           
+
+
+DATE     STATUS      TIME              ACONTACT   CNAME                 END CLIENT                   LOCATION           PHONE          PROFILE                                                                                                                                                                                                                                             QUERIES                                                                                                                                                      
+WED18   TS------------9am-10am PST--------raj----ankur        debian/charter comunications  denver colorado   17033449674    microservices   telco   java lead                                                                                                          
+WED18   ts------------10-11----------------------amveera.b@vdartinc.com      sheridas             Carlsbad, CA          16787203599    SQLandORM-JPA2, Hibernate.JMS                                                                                               
+WED18   TS waitconfirmation PHONE-15pm-16pm PST---------------raj---anuja@us.insigmainc.com                           sf,ca                             17033449679                                                                                                                                                                                  
+      15:30  monarch screening with manager<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	  infosys   sanjey    
+WED18   TS---NOTCONFIRMED-16pm-17pm PST---------zoom--------dave axilabs      <<<ranjeet interviewer     san antonio      17242993383                                                                
+WED18   SCHEDULED-----16pm-17pm PST---------karanpandya           arun.yadav@adroitresources.com   
+    When	Wed Jul 18, 2018 4pm – 4:30pm (PDT)
+	Where	Chris (Director-AppZen) will call Enrique @ 415 715 7029  	
+	Who	divya.kumar@adroitresources.com, arun.yadav@adroitresources.com, mausami@adroitresources.com*
+	
+	
+	2620135   chris     apis  reports        java   spring       future  aws, migrating cloud
+	small projects  
+	mysql   mongodb   jooq
+	
+	
+	
+WED18   SCHEDULED---17pm-18pm PST---wait for call-----deepak.kumar1@idctechnologies.com     idc                          14084579381 X 4056  
+         Skype interview availability on tomorrow (Wednesday) at 05:00-06:00 PM PST With Wipro/Apple.   
+	When	Wed Jul 18, 2018 5pm – 5:30pm (PDT)
+	Where	SKYPE on Laptop only :: enpodi25  	Who	'Rohit Prasad Singh <rohit.singh@idctechnologies.com> (rohit.singh@idctechnologies.com)'...		 
+	NOBODY CALLED
+WED18   ----------------------------------raj----(manish) mkumar1@tekshapers.com        extension needed          Norwood, MA          12485654747       full                                             
+WED18   -----------------------------------------                                                                                                            
+WED18   -----------------------------------raj---anuja@us.insigmainc.com                           sf,ca                             17033449679                      
+WED18   --<noreply@interviewmocha.com>------------Hexaware: Invitation for Core Java -Freddie Mac -001 assessment   https://test.interviewmocha.com/AuthenticateKey?id=c398c6cc2a                                                                                                             
+WED18   ------updated resume shared-------------- vinnu@sovereigntec.com                          Boca Raton, FL       18166668318                                                            
+WED18   -----------------------------------------                                                                      14122232066                                        
+WED18   --------waitforhisemail------------raj---abhishek.shrivastava@softnice.com                        pensylvania          16109000212                                                             
+WED18   ********************---------------raj---Amar@softsages.com     client   fidelity invesment  nc                12132983629  4844027869 x129     aws,docker,kuber                              
+WED18   -----------------------------------------aimanis   tecicles                                                     2485654747 x 134                                    
+WED18   -----------------------------------------rainketish   enterprisesolutios                                        9724400059                                     
+WED18   ---------hewillsubmit my profile-----   -vishnu.d@vdartinc.com   Accenture   PHILADELPHIA PA 19103              6787204823   Application Lead 8392586                                  
+     vishnu-----velina                         pensilvanya                      16787201573  
+WED18   -----------------------------------------suvenir                                                                4122232066                                     
+WED18   -----------------------------------------  karanpanddey                                                                                                          
+WED18   >>>**********************-------------------Ravi Kumar  rkotla@aptude.com   rapidsmichigan                      6303645615 x 104    full   senior development
+WED18   -----------------------------------------                                                  15107228845                                  
+WED18   ---------------------------------manoj---kishore@promatrixcorp.com                 san jose                   17329641952     senior                                                      
+WED18   -----------------------------------------                                                                    16787202947                                        
+WED18   -----------------------------------------O: 732-276-9938 M: 413-391-5009                                                                  16505046586                                       
+WED18   ----------------------------------manoj---aman.verma@pridevel.com  prival           San Diego CA              6303695331  X 5290                                                                            
+WED18   -----------------------------------------Shukla.Deep@pyramidci.com       I asked feedback about barclays. he submitted my profile.                                                                                                            
+WED18   ------------------------------------                                                                          16305365865
+WED18   ----------------------------------------- vishnu   vdart                                                      14242625292                                                                            
+WED18   ----------------------------------manoj--Monarch.Soni@xduce.com bank     infosys/mercedz benz   atlanta  newjersey         17324754023  reference data & master data
+WED18   -----------------------------------------Chad@technocraftsol.com>            client TCS                       19722324173 X 116
+WED18   -----------------------------------------                                                                     19254629697
+WED18   -----------------------------------------                                                                     5103448858
+WED18   -------------replied--------------------- pramod.dwivedi@okayainc.com        Telecom Background in Denver,CO  +1-631-267-4883 *272      lead
+WED18   -----------------------------------------                                                                     
+WED18   -----------------------------------------                                                                     
+WED18   -----------------------------------------                                                                     
+WED18   -----------------------------------------                                                                     
+WED18   -----------------------------------------                                                                     
+WED18   -----------------------------------------                                                                     
+WED18   -----------------------------------------                                                                     
+FEEDBACK<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                                                   
+
+
