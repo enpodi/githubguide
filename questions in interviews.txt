@@ -1,0 +1,727 @@
+
+Oracle diagnostic packs
+AWR(automatic workload repository), ADDM(automatic database Diagnostic monitor) , ASH (active session tool-monitor real time session data)   to create oracle reports abouts queries
+Oracle Database Tuning Pack
+SQL Tuning Advisor, SQL Access	Advisor
+http://bit.ly/1rv9nYZ  not found
+http://www.nocoug.org/download/2007-08/SystematicOracletuning.pdf
+https://www.adfontessoftware.nl/dl-23917-1-37696/download/yapp_methodology-anjo_kolk.pdf
+
+
+https://www.interviewcake.com/concept/java/linked-list
+https://www.interviewcake.com/article/python/data-structures-coding-interview#ram
+https://www.mulesoft.com/ty/webinars/api-first-development-raml-and-soapui
+bactracking in colecciones de arboles  (nodes)
+
+runtimeexception, checked exception unchecked exception
+
+Final class can't be inherited, final method can't be overridden and final variable value can't be changed. 
+Finally is used to place important code, it will be executed whether exception is handled or not. 
+Finalize is used to perform clean up processing just before object is garbage collected.
+
+DROP and TRUNCATE are DDL commands, whereas DELETE is a DML command.
+truncate is not "transactional" in the sense that it commits and can't be rolled back, and can modify object storage attributes. 
+So it's not ordinary DML - Oracle classifies it as DDL. delete is an ordinary DML statement.
+
+feature object
+how to do re-try in spring
+3 ways to inject an instance in spring
+concurrent vs 
+cucumber framework
+
+@autowired Vs @inject
+Both of these annotations use the 'AutowiredAnnotationBeanPostProcessor' to inject dependencies. 
+'@Autowired' and '@Inject' can be used interchangeable to inject Spring beans. However 
+the '@Resource' annotation uses the 'CommonAnnotationBeanPostProcessor' to inject dependencies.
+
+The @Resource annotation is part of the JSR-250 annotation collection and is packaged with Java EE. 
+This annotation has the following execution paths, listed by precedence:
+Match by Name
+Match by Type
+Match by Qualifier
+
+
+SOLID principle
+Single responsibility principle[6]
+a class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
+Open/closed principle[7]
+"software entities Ö should be open for extension, but closed for modification."
+Liskov substitution principle[8]
+"objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program." See also design by contract.
+Interface segregation principle[9]
+"many client-specific interfaces are better than one general-purpose interface."[4]
+Dependency inversion principle[10]
+one should "depend upon abstractions, [not] concretions."[4]
+
+
+http://zetcode.com/java/h2database/
+cd  C:\development\h2-2018-03-18\h2
+$ java -jar bin/h2-1.4.197.jar -baseDir ~/tmp/h2dbs
+jdbc:h2:tcp://localhost/testdb
+jdbc:h2:tcp://localhost/testdb
+
+spring.datasource.url = jdbc:h2:mem:mydb
+spring.datasource.username =sa
+C:\development\h2-2018-03-18\h2\bin
+
+http://10.1.10.43:8082/test.do?jsessionid=1a84ef37c567dc0a8a9251b7f5e94c8c
+
+https://www.youtube.com/watch?v=3eXjpve0QaI&index=4&list=PL4AFF701184976B25
+
+linux questions https://www.youtube.com/watch?v=l0QGLMwR-lY
+
+drop table VEHICLE_USER_DETAIL 
+drop table USER_DETAIL_VEHICLE 
+drop table USER_DETAIL 
+drop table VEHICLE 
+
+
+AWS    maintainable, resilient       55 services
+
+                local development                              AWS development
+				everything runs locally on same machine        One service = oe responsability
+				Files stored on server                         Files served from S3
+				Database on same server as application         Database as a service
+				connections done manually                      connections done with AWS SDK
+				
+
+AIM
+EC2
+
+latency
+redundancy
+resilient
+
+queue vs topic in JMS
+
+
+//javascript version
+node -p process.versions.v8
+6.2.414.54
+
+given ABC combinations      {ABC},{BCA},{CAB},{ACB},{BAC},{CBA}
+number into strings    1234 -> one thousand   two hundred  thirty four
+
+
+What is Provisioning (Computer Networking)? 
+In telecommunication, provisioning involves the process of preparing and equipping a network to allow it to provide new services to its users.
+routers,switches,bridges
+
+
+
+
+spring boot
+    Spring Framework 5: Beginner to Guru
+    Spring Framework 5: Learn Spring Framework 5, Spring Boot 2, Spring MVC, Spring Data JPA, Spring Data MongoDB, 
+    https://www.udemy.com/spring-framework-5-beginner-to-guru/
+Hibernate
+
+
+microservices
+    BOUGHT Microservices with Spring Cloud
+    https://www.udemy.com/microservices-with-spring-cloud/
+    https://www.udemy.com/cart/success/149096430/
+maven profiles   -
+maven goals
+junit mockito
+kafka
+    BOUGHT https://www.udemy.com/apache-kafka-deep-dive-hands-on-using-javabuilt-in-scripts/
+    Apache Kafka for Beginners - Learn Kafka by Hands-On
+vert.x
+    BOUGHT https://www.udemy.com/vertx-35-java-apis-fast-and-simple/
+    https://www.udemy.com/cart/success/149095260/
+docker
+    BOUGHT Docker from A to Zô: Swarm + Jenkins     /   1806WORLDCUPBASE10
+    https://www.udemy.com/a-practical-guide-to-docker-swarm-and-jenkins/
+JMS  ActiveMQ
+sonar
+swagger
+transaction management EJB3 vs spring
+TDD test driven development
+REACT
+    React - Mastering Test and Behavior Driven Development
+    https://www.udemy.com/react-tdd/
+Jenkins-Sonar
+    DevOps with GIT(Flow) Jenkins, Artifactory, Sonar, ELK, JIRA
+AWS
+    AWS Certified Solutions Architect - Associate 2018
+    https://www.udemy.com/cart/success/149096798/
+    https://www.udemy.com/cart/checkout/express/course/362328/?discountCode=1806WORLDCUPBASE10
+
+    AWS Certified Developer - Associate 2018
+    https://www.udemy.com/cart/success/149096748/
+
+http://codingbat.com/doc/practice/makebricks-introduction.html
+
+arraylist vs vector
+How does class loader works in Java?
+
+how to cømake an akøjax call in jquery
+how to try catch in oracle stored procedures}
+
+javascript holystics   >>>>>>>>>>>><<   calls to code are not ordered
+https://vimeo.com/238559416?from=outro-embed
+
+http://codingbat.com/doc/java-example-solution-code.html
+
+https://en.wikipedia.org/wiki/Java_Classloader         CLASS LOADER IN JAVA
+
+
+visa  >> vertex as container instead of tomcat
+Java with Kafka and Vertex/Spr
+
+angular lifecycle
+how to use a queue to rotate elements
+how to find ellements in an array shos sum is a given constant for instance 17
+
+
+
+Git Complete: The definitive, step-by-step guide to Git
+Shell Scripting: Discover How to Automate Command Line Tasks
+Angular & NodeJS - The MEAN Stack Guide
+NodeJS for beginners
+Node with React: Fullstack Web 
+The Complete Node.js Developer Course (2nd Edition)
+Ethical Hacking with Metasploit: Exploit & Post Exploit
+Practice Your First Penetration Test: Kali & Metasploit Lab
+Linux Shell Scripting: A Project-Based Approach to Learning
+Curso de GNU/Linux con CentOS y Debian (I - GestiÛn y Admin)
+Learn Ethical Hacking Advance Level Using Kali Linux
+Linux Administration Bootcamp: Go from Beginner to Advanced
+Linux Administration with Advance Troubleshooting Skills
+Docker Technologies for DevOps and Developers
+Learn Kubernetes from a DevOps guru (Kubernetes + Docker)
+Kubernetes (:2018) -A Comprehensive Course
+Master Jenkins CI For DevOps and Developers
+Jenkins Bootcamp: Fully Automate Builds Through Deployment
+Java Programming - advanced
+Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+The Complete JavaScript Course 2018: Build Real Projects!
+----------------------------------------------------------------
+Accounting, Finance and Banking - A Comprehensive Study
+Java for Beginners in 2 hours: Build a Banking Application
+Build An Online Bank With Java, Angular 2, Spring and More
+
+six thread states:  runnable, blocked, waiting, timed_waiting, new, terminated.
+RUNNABLE The thread is actively invoking code (native methods, native machine code)
+WAITING The threat will wait indefinitely unless some other thread wakes it up.   <<  Object.wait()  << LockSupport.park()
+TIMED_WAITING timed waiting  << Thread.sleep(time)  << LockSupport.parkNanos()
+BLOCKED  The thread is waiting for a monitor lock to become available.
+
+
+threads   TRANSIENT
+transient is a Java keyword which marks a member variable not to be serialized when it is persisted to streams of bytes. When an object is transferred through the network, the object needs to be 'serialized'. Serialization converts the object state to serial bytes.
+
+The fundamental difference is wait() is from Object and sleep() 
+is static method of Thread . The major difference is that wait() releases the lock while sleep() doesn't releas any lock while waiting. The wait() is used for inter-thread communication while sleep() is used to introduce pause on execution, generally.
+
+The most obvious difference is that the JPA specification defines the persist method. You can use it with all JPA implementations. The save method, on the other hand, is Hibernate-specific. It is, therefore, not available in other JPA implementations.
+Another obvious difference between these 2 methods is their return type. JPAís persist method returns void and Hibernateís save method returns the primary key of the entity.
+Hibernate executes the same SQL statements when you call the persist or the save method. Which and when it does that depends on your primary key generation strategy:
+>>>Not generated<<<
+If you set the primary key value programmatically, e.g. to a natural identifier, Hibernate only performs an SQL INSERT statement when it flushes the persistence context.
+>>>Generated with IDENTITY strategy<<<
+If you use the IDENTITY strategy to generate the primary key value, Hibernate needs to execute the INSERT statement when you call the save or persist method to retrieve the primary key value from the database.
+>>>Generated with SEQUENCE strategy<<<
+And if you use the SEQUENCE, Hibernate performs an SQL SELECT statement to retrieve the next value from the database sequence. Hibernate then delays the INSERT statement until it flushes the persistence context. In this example, the flush happens when the transaction gets committed.
+>>>Generated with TABLE strategy<<<
+You shouldnít use the TABLE strategy because it requires row level locks on the primary key table and doesnít scale well. If you use this strategy anyways, Hibernate performs an SQL SELECT statement to retrieve the next primary key value from the database and writes the new value to the database table. It delays the execution of the SQL INSERT statement for the new entity until it flushes the persistence context.
+
+singleton
+This scopes the bean definition to a single instance per Spring IoC container (default).
+prototype
+This scopes a single bean definition to have any number of object instances.
+request
+This scopes a bean definition to an HTTP request. Only valid in the context of a web-aware Spring ApplicationContext.
+session
+This scopes a bean definition to an HTTP session. Only valid in the context of a web-aware Spring ApplicationContext.
+global-session
+This scopes a bean definition to a global HTTP session. Only valid in the context of a web-aware Spring ApplicationContext.
+
+
+
+keith
+10.30 AM-----Infosys/Apple     Neil Nextsap    Skype Screening call/ Enrique/ Core Java Developer/ 1:10 ... @ Wed May 30
+Location: Sunnyvale, CA
+Core Java Developer      Object Oriented Design
+Java Concurrency-Java Collections and multithreading-Web services-Java 8 Knowledge-Java Lambda-Service Oriented Architecture-Spring hibernate-Data structure
+>>>>> use of hibernate proxy; Two controller one inject a service with spring annotation, the other using new keyword. what happens?
+
+hibernate
+https://www.youtube.com/watch?v=RmnrgocuivQ&index=14&list=PL4AFF701184976B25
+lamda
+https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
+
+
+
+
+springboot
+https://www.youtube.com/watch?v=du99WcQztNU&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x&index=27
+
+
+
+2.30 PM PST-----VIRTUSA/FDC SKype call
+Role : Sr. Fullstack Java Developer
+Long term Contract
+Location - Durham, NC
+Client ñ Virtusa / Fidelity
+>>> 30 min meeting. questions about lifecycle in spring, spring beans scope. sql select from table where having   group by  order by. java 8 lambdas.
+
+
+ng new appName
+cd appName
+ng serve
+
+
+
+
+
+
+C:\Users\ediaz\AppData\Roaming\npm\node_modules\@angular\cli\bin
+
+
+
+
+
+
+
+
+
+    HAVING filters records that work on summarized GROUP BY results.
+    HAVING applies to summarized group records, whereas WHERE applies to individual records.
+    Only the groups that meet the HAVING criteria will be returned.
+    HAVING requires that a GROUP BY clause is present.
+    WHERE and HAVING can be in the same query.
+
+
+
+    SELECT COUNT(Id), Country 
+      FROM Customer
+     GROUP BY Country
+    HAVING COUNT(Id) > 10
+
+Count 	Country
+11 	France
+11 	Germany
+13 	USA
+
+
+
+    SELECT COUNT(Id), Country 
+      FROM Customer
+     WHERE Country <> 'USA'
+     GROUP BY Country
+    HAVING COUNT(Id) >= 9
+     ORDER BY COUNT(Id) DESC
+
+
+
+Count 	Country
+11 	France
+11 	Germany
+9 	Brazil
+
+
+
+
+Problem: List all customer with average orders between $1000 and $1200.
+
+    SELECT AVG(TotalAmount), FirstName, LastName
+      FROM [Order] O JOIN Customer C ON O.CustomerId = C.Id
+     GROUP BY FirstName, LastName
+    HAVING AVG(TotalAmount) BETWEEN 1000 AND 1200
+
+Average 	FirstName 	LastName
+1081.215000 	Miguel 	Angel Paolino
+1063.420000 	Isabel 	de Castro
+1008.440000 	Alexander 	Feuer
+1062.038461 	Thomas 	Hardy
+1107.806666 	Pirkko 	Koskitalo
+1174.945454 	Janete 	Limeira
+1073.621428 	Antonio 	Moreno
+1065.385000 	Rita 	M¸ller
+1183.010000 	JosÈ 	Pedro Freyre
+1057.386666 	Carine 	Schmitt
+
+
+Aggregate Functions (Transact-SQL)
+sum()   count()  avg()   max()   min()
+
+
+
+
+
+SessionFactory sf = new Configuration().configure().buildSessionFactory();
+Session s = sf.openSession();
+s.beginTransaction();
+...
+s.save(user)
+...
+s.getTransaction().commit();
+
+
+
+
+Server Tomcat v7.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greatest Sum: Write a function that, given a list of integers (both positive and negative)
+-- returns the sum of the contiguous subsequence with maximum sum. 						
+-- Thus, given the sequence (1, 2, -4, 1, 3, -2, 3, -1) it should return 5.
+                             ^            ^
+ #1: 1, 2 = 3
+ #2: 1, 2, -4, 1 = 0
+ #3: 3, -2 , 3 = 5
+
+
+
+
+
+findPairs
+1. given two parameters: sum, list of random numbers 
+2. --> returns list of pairs that add up to sum
+3. ex: 
+-- Param1: 10
+-- Param2: {9, 1, 2, 8, 2, -11 ...}  n x n
+           {9, 1, 2, 8, 2, -11, 9, 1, 9 ...}
+--> returns:
+           {{1, 9}, {2, 8}, ...{9,1} , {1, 9}}
+ 
+ 
+          
+       map   
+       findPairs(param1, param2)   
+  for(param2  ind i){
+  int second = param1-param2[i];
+        1    =   10    -(-11)
+    for(param2 ind j){
+    
+    if (param2[j]== second)
+      {  
+        map.put(param2[i],param2[j]);
+         //return   param2[i],  param2[j]     
+      }    
+  } 
+  pleelalu@visa.com
+  hi. Are you still there?
+  yes
+  
+
+
+
+
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> When	Wed Jun 6, 2018 9am ñ 10am (PDT)  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Sharad Mishra <Sharad.Mishra@kpit.com>
+Attachments11:29 AM (1 hour ago)
+to me, Aniket, Priya, Himanshu, Neeraj
+Where	Webex
+Who	Priya Raman (DT), Aniket Kokate, Himanshu Thube, Neeraj Varma, Sharad Mishra*
+Please join the WebEx Call :                                                                                                   
+https://kpit.webex.com/join/aniket.kokate
+please acknowledge the email with acceptance.
+call lasted 40 minutes. I felt good. I didn¥t answer a way to improve a query except indexes.
+
+
+
+
+
+
+Second Largest Element ?
+{1,2,3,6,6,2,7,1,1,99}   n
+array2 = arrayList;
+Int temp = 0;
+Int difference=0;
+For {
+tempGreatest = array[i];
+difference =(Greatest-array[i]);
+//array2.add(difference);
+    if(difference >0){
+    tempGreatest = array[i];
+    }
+}
+Retun   Greatest-difference ;
+
+
+
+
+hibernate criteria
+hibernate strategy
+
+
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"     xmlns:xsi="http://www.w3.org    /2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd" version="2.0">
+<persistence-unit name="serv2010pool" transaction-type="RESOURCE_LOCAL">
+<provider>org.hibernate.ejb.HibernatePersistence</provider> 
+    <properties>
+        <property name="hibernate.show_sql" value="false" /> 
+        <property name="hibernate.format_sql" value="true" /> 
+        <property name="use_sql_comments" value="true" /> 
+        <property name="hibernate.autocommit" value="false" /> 
+        <property name="javax.persistence.jdbc.driver"     value="oracle.jdbc.OracleDriver"/>
+        <property name="hibernate.dialect" value="org.hibernate.dialect.Oracle10gDialect"/>
+        <property name="hibernate.connection.insee.poolName" value="serv2010pool" />
+        <property name="hibernate.connection.provider_class" value=
+            "fr.insee.config.hibernate.InseeConnectionProvider"/>           
+    </properties>
+</persistence-unit>
+
+
+
+
+INFORMACI”N: Loaded JDBC driver: org.h2.Driver
+jun 08, 2018 6:10:22 P.M. org.springframework.web.context.support.XmlWebApplicationContext refresh
+ADVERTENCIA: Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [jpaContext.xml]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: No persistence units parsed from {classpath*:META-INF/persistence.xml}
+
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:956)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:747)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: No persistence units parsed from {classpath*:META-INF/persistence.xml}
+	at org.springframework.orm.jpa.persistenceunit.DefaultPersistenceUnitManager.obtainDefaultPersistenceUnitInfo(DefaultPersistenceUnitManager.java:666)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.determinePersistenceUnitInfo(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:314)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:318)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	... 21 more
+
+jun 08, 2018 6:10:22 P.M. org.springframework.web.context.ContextLoader initWebApplicationContext
+GRAVE: Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [jpaContext.xml]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: No persistence units parsed from {classpath*:META-INF/persistence.xml}
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:956)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:747)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: No persistence units parsed from {classpath*:META-INF/persistence.xml}
+	at org.springframework.orm.jpa.persistenceunit.DefaultPersistenceUnitManager.obtainDefaultPersistenceUnitInfo(DefaultPersistenceUnitManager.java:666)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.determinePersistenceUnitInfo(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:314)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:318)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	... 21 more
+
+jun 08, 2018 6:10:22 P.M. org.apache.catalina.core.StandardContext listenerStart
+GRAVE: ExcepciÛn enviando evento inicializado de contexto a instancia de escuchador de clase org.springframework.web.context.ContextLoaderListener
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [jpaContext.xml]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: No persistence units parsed from {classpath*:META-INF/persistence.xml}
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:956)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:747)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: No persistence units parsed from {classpath*:META-INF/persistence.xml}
+	at org.springframework.orm.jpa.persistenceunit.DefaultPersistenceUnitManager.obtainDefaultPersistenceUnitInfo(DefaultPersistenceUnitManager.java:666)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.determinePersistenceUnitInfo(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:314)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:318)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	... 21 more
+
+jun 08, 2018 6:10:22 P.M. org.apache.catalina.core.StandardContext startInternal
+GRAVE: Error listenerStart
+jun 08, 2018 6:10:22 P.M. org.apache.catalina.core.StandardContext startInternal
+GRAVE: FallÛ en arranque del Contexto [/FitnessTracker] debido a errores previos
+jun 08, 2018 6:10:22 P.M. org.apache.catalina.core.ApplicationContext log
+INFORMACI”N: Closing Spring root WebApplicationContext
+jun 08, 2018 6:10:22 P.M. org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+GRAVE: La aplicaciÛn web [/FitnessTracker] registrÛ el conductor JDBC [org.h2.Driver] pero fallÛ al anular el registro mientras la aplicaciÛn web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+jun 08, 2018 6:10:22 P.M. org.apache.coyote.AbstractProtocol start
+INFORMACI”N: Starting ProtocolHandler ["http-bio-8080"]
+jun 08, 2018 6:10:22 P.M. org.apache.coyote.AbstractProtocol start
+INFORMACI”N: Starting ProtocolHandler ["ajp-bio-8009"]
+jun 08, 2018 6:10:22 P.M. org.apache.catalina.startup.Catalina start
+INFORMACI”N: Server startup in 32213 ms
+
+
+
+
+
+
+
+<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.springframework.boot</groupId>
+					<artifactId>spring-boot-maven-plugin</artifactId>
+				</plugin>
+				<plugin>
+					<groupId>org.raml.plugins</groupId>
+					<artifactId>raml-jaxrs-maven-plugin</artifactId>
+					<version>1.0-SNAPSHOT</version>
+					<configuration>
+						<!-- Use sourcePaths if you want to provide a single RAML file or a 
+							list of RAML files -->
+						<sourceDirectory>${basedir}/src/main/resources/raml</sourceDirectory>
+						<!-- Optionally configure outputDirectory if you don't like the default 
+							value: ${project.build.directory}/generated-sources/raml-jaxrs -->
+						<!-- Replace with your package name -->
+						<basePackageName>com.acme.api</basePackageName>
+						<!-- Valid values: 1.1 2.0 -->
+						<jaxrsVersion>2.0</jaxrsVersion>
+						<useJsr303Annotations>false</useJsr303Annotations>
+						<!-- Valid values: jackson1 jackson2 gson none -->
+						<jsonMapper>jackson2</jsonMapper>
+						<removeOldOutput>true</removeOldOutput>
+					</configuration>
+					<executions>
+						<execution>
+							<goals>
+								<goal>generate</goal>
+							</goals>
+							<phase>generate-sources</phase>
+						</execution>
+					</executions>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+
+
+
+
+
+#%RAML 1.0
+title: Hello world # required title
+
+/helloworld: # optional resource
+  get: # HTTP method declaration
+    responses: # declare a response
+      200: # HTTP status code
+        body: # declare content of response
+          application/json: # media type
+            type: | # structural definition of a response (schema or type)
+              {
+                "title": "Hello world Response",
+                "type": "object",
+                "properties": {
+                  "message": {
+                    "type": "string"
+                  }
+                }
+              }
+            example: | # example of how a response looks
+              {
+                "message": "Hello world"
+              }
+
+
+
+
+
+
+
+1 2 3 4     1+2+3+4=10   n(n+1)/2
+1 2 2 3     1+2+2+3=8    10-8=2
+
+1 2 3 4 5    1+2+3+4+5=15
+1 2 3 3 4    1+2+3+3+4=13   15-13=2
+
+1 2 3 4 5 6     1+2+3+4+5+6=21
+1 2 3 4 5 5     1+2+3+4+5+5=20
+
+
+
+
+
+Master Data versus Reference Data
+Master data is defined as data about the key business entities of an organization. Examples include customer, product, organizational structure, and chart of accounts. A common question about master data is, ‚ÄúWhat is the difference between master data and reference data?‚Äù Some people take the position that they are the same thing, but it can be argued that not all reference data is master data. For example, lookup and code tables that are used to encode information, such as state names and order codes, are not strictly master data tables.
+
+The diving line between master data and reference data is not always clear cut. One solution is to break master data into two types: master reference data and master business entity data. Master reference data has well defined and simple data structures, has simple keys and governance rules, is often standardized (US state codes, for example), involves only a few applications, and is reasonably stable. Master business entity data, such as customer, on the other hand, is usually ill-defined, has complex data structures and relationships, requires compound and intelligent keys and complex governance rules, is not usually standardized, involves many business processes, and changes frequently.
+
+Does this distinction really matter? When developing data quality management and master data management systems it can do. Cleaning and managing master reference status is a reasonable easy job. The opposite is true for master business entity data. 
+
+
+
+ `
+    <!--The content below is only a placeholder and can be replaced.-->
+    <div style="text-align:center">
+      <h1>
+        Welcome to {{title}}!
+      </h1>
+      <img width="300" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+    </div>
+    <h2>Here are some links to help you start: </h2>
+    <ul>
+      <li>
+        <h2><a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a></h2>
+      </li>
+      <li>
+        <h2><a target="_blank" rel="noopener" href="https://github.com/angular/angular-cli/wiki">CLI Documentation</a></h2>
+      </li>
+      <li>
+        <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
+      </li>
+    </ul>
+    
+  `

@@ -14,14 +14,16 @@ WED01   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                  
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
 TUE31   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+MON30   SCHEDULED wait email from grace--8:30am-9am PST-------- -----Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                             
 MON30   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
 MON30   SCHEDULED----5pm-6pm PST-skype- ---------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                           
 
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
-FRI27   ------------8am-9am PST-------- ---------                                                                      
+FRI27   SCHEDULED wait email from grace--8:30am-9am PST-------- ------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                                                                                                   
 FRI27   TS----------9am-10am PST-------raj-------sathesh.k@alchemysolutions.us    hcl america      Cary, NC             3024762536 API Developer                                                                                                                                                                                                                                                
 FRI27   TS----------10am-11am PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
-FRI27   ------------11am-12pm PST------ ---------                                                                      
+FRI27   ------------11am-11:30         raj-------rakesh.kumar@idctechnologies.com                   Jupiter ,FL       14086482229                                                                      
+FRI27   SCHEDULEDbyshafia----------11:30-12pm PST---Raghav <raghav@allianceit.com>---jessica_tyler@agilees.com  venkatesh_solti@aesinc.us.com
 FRI27   TS----------12pm-13pm PST------ ---------Krish@americanunit.com                                                                      
 FRI27   TC----------14pm-15pm PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
 FRI27   TS----------15pm-16pm PST------raj-------sathesh.k@alchemysolutions.us    hcl america      Cary, NC             3024762536 API Developer 
@@ -39,19 +41,19 @@ DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIEN
 THU26   ------------8am-9am PST-------- ---------                                                                      
 THU26   TS----------9am-10am PST------- ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                                 
 THU26   TS----------10am-11am PST------ ---------venkatesh_solti@aesinc.us.com   Please give me the available slots tomorrow for Skype call because you will be having a client discussion(i.e., 26th July'18).                                                                      
-THU26   TS----------11am-12pm PST------ ---------martin insourcis     capgemini                    ny 6 m              19724402109   spr,ang,hib
+THU26   SCHEDULED---11::30am-12pm PST-- ---------shafia@allianceit.com-venkatesh_solti@aesinc.us.com       INCOMPLETETESTCODINGmartin insourcis     capgemini                    ny 6 m              19724402109   spr,ang,hib
 THU26   ------------12pm-13pm PST------ ---------aarti.ramola@neerinfo.com 
 THU26   TC----------14pm-15pm PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
 THU26   TS----------15pm-16pm PST------ ---------venkatesh_solti@aesinc.us.com   Please give me the available slots tomorrow for Skype call because you will be having a client discussion(i.e., 26th July'18).                                                                                                                                                                                                          
-THU26   SCHEDULED---16:30pm-17pm PST--- ---------jessica_tyler@agilees.com                           HEDIDNTREPLY>>>>>aarti.ramola@neerinfo.com                                                                       
-THU26   TS----------17pm-18pm PST------ --------- Krish@americanunit.com                                                                     
+THU26   SCHEDULEDbyshafia---16:30pm-17pm PST--- ---------jessica_tyler@agilees.com                           HEDIDNTREPLY>>>>>aarti.ramola@neerinfo.com                                                                       
+THU26   SCREENING---17:30pm-18pm PST--- ---------nizam@accelerize360.com                HEDIDNTREPLY>>>>>Krish@americanunit.com                                                                     
 THU26   SCHEDULED---18pm-19pm PST-Skype expect interviwer----sunil--neta    expect(pending name) mukeshdev@qainfotech.com(12482461572)     infotech/walmart     arkansa   14087082801     Spring, Hibernate, Web Services (SOAP), Web Services (Restful)                                                            
 	When	Wed Jul 25, 2018 6pm – 6:30pm (PDT) Where	Skype Video call Discussion. Who	mukeshdev@qainfotech.com*                                                                
 THU26   ------------ ------------------ ---------gayathri.venugopal@photoninfotech.net   jpmc ny,ads ohio,walgo ca                                                                      
 THU26   ------------ ------------------ ---------pravinKaspeks                                                        15109366850       
-THU26   ------------ ------------------ ---------                                                                       
-THU26   ------------ ------------------ ---------                                                                       
-THU26   ------------ ------------------ ---------                                                                       
+THU26   ------------ ------------------raj-------rakesh.kumar@idctechnologies.com                   Jupiter ,FL       14086482229                                  
+THU26   ------------ ------------------ ---------deb@resource-logistics.com                                           17325530566                            
+THU26   ------------ ------------------manoj-----sgarg@ccsglobaltech.com  flaxto mortagage          michigan          18583488392  
 THU26   ------------ ------------------ ---------                                                                       
 THU26   ------------ ------------------ ---------                                                                       
 
