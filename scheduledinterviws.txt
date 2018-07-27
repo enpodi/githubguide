@@ -1,42 +1,75 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
 gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com SDxNEWohio photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
 manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc infosys/nortWesternMmutual MON23    nipoon raidu/sunil  strong over rest and create soap ws.   plus AWS and NodeJS
-venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com           Pittsburgh Wipro/PNC Bank             MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
+venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com/NIKE nextroundcodinginterview 15032606847 Pittsburgh Wipro/PNC Bank             MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
 
 
 
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
-FRI03   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
-THU02   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
-WED01   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
-TUE31   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+FRI03   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+THU02   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+
+WED01   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+        TS           3pm-4pm                     anny
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+        TS           3pm-4pm                     anny
+TUE31   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
 MON30   SCHEDULED wait email from grace--8:30am-9am PST-------- -----Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                             
 MON30   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
 MON30   SCHEDULED----5pm-6pm PST-skype- ---------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                           
+MON30   TS-----------3pm-4pm---------------------annie.joy@tekishub.com                            Boston,MA3+months    3026132500 x103 / 3022485020 x103
+MON30	SCHEDULED    5pm-6pm pst-----------manoj-----sgarg@ccsglobaltech.com  flaxto mortagage          michigan          18583488392
+MON30   ------------------------------- ---------                                                                      
+MON30   ------------------------------- ---------
 
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
-FRI27   SCHEDULED wait email from grace--8:30am-9am PST-------- ------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                                                                                                   
+SAT28   SCHEDULED   9.45 am skype-coding--------Yatish.Golla@itcinfotech.com                    minezota             16465699010 javascript.ang
+
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+FRI27   SCHEDULED-CANCELLED wait email from grace--8:30am-9am PST-Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                                                                                                   
 FRI27   TS----------9am-10am PST-------raj-------sathesh.k@alchemysolutions.us    hcl america      Cary, NC             3024762536 API Developer                                                                                                                                                                                                                                                
 FRI27   TS----------10am-11am PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
 FRI27   ------------11am-11:30         raj-------rakesh.kumar@idctechnologies.com                   Jupiter ,FL       14086482229                                                                      
-FRI27   SCHEDULEDbyshafia----------11:30-12pm PST---Raghav <raghav@allianceit.com>---jessica_tyler@agilees.com  venkatesh_solti@aesinc.us.com
+FRI27   SCHEDULED---11:30-12pm PST-----raghav----jessica_tyler@agilees.com  venkatesh_solti@aesinc.us.com Suresh Guruswamy wandmsgs@pro-unlimited.com NIKE
+	The interview will be on 27 Jul, 2018 at 11:30 AM Pacific Time. Interviewer to call the Candidate at 415-715-7029. Interviewers: John Bouck
+	nike headquareters  director>build teams to develop custom  software>   digital images for nikes products. 2 custom systems spa  aws,backjava, frontreact&ang
+	team 8p agile methodology   unit test integration test  define a contract   devops
+	oregon, fullstack. testbackframeworks junit testfrontframeworks karma, jasmine 
+	expectations: partcipate,planning, unit test,peer,  next round  coding interview     15032606847
 FRI27   TS----------12pm-13pm PST------ ---------Krish@americanunit.com                                                                      
+                    13pm                         navish altimetrics veenmelov
 FRI27   TC----------14pm-15pm PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
 FRI27   TS----------15pm-16pm PST------raj-------sathesh.k@alchemysolutions.us    hcl america      Cary, NC             3024762536 API Developer 
 FRI27   SCHEDULED---16:30pm-17pm PST--Skype------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                          
 FRI27   ------------17pm-18pm PST------ ---------                                                                      
-FRI27   ------------18pm-19pm PST------ ---------mukeshdev@qainfotech.com   Skype Video call :: JavaScript :: Arkansas, Bentonville. Tomorrow i:e Wednesday @ 6 :00 PM PST
-    When	Wed Jul 25, 2018 6pm – 6:30pm (PDT)
-	Where	Skype Video call Discussion.
-	Who	mukeshdev@qainfotech.com*
-FRI27   ------------ ------------------ ---------atica/antik   itconnect       mountain                                 18472683262
+FRI27   SCHEDULED---18pm-19pm PST------ ---------ankit_ch@hcl.com When	Fri Jul 27, 2018 6pm – 6:30pm (PDT)
+Where	415 715 7029
+Who	Vishwas Sp - ERS, HCL Tech, Ankit Chaturvedi*
+
+
+FRI27   ------------ ------------------ ---------atica/antik   itconnect       mountain                                18472683262
+FRI27   ------------ ------------------ ---------venu@mutexsystems.com Synechron HarrisonNY,CedarRapidsIA,DenverCO     19087778036                       
+FRI27   ------------ hewillconfirmtimeshivakumar-sunny.k@saranshtech.com                          georgiaorStLouise,MO 16092012676 lead
+FRI27   ------------fulltime----------- ---------seishu ourconsulting  expect gupta(17035857915)  NJ                   17034967454  
+FRI27   ------------ ------------------ ---------deepa@s2ssoft.com                                Washington           19252891056             
+FRI27   ------------ ------------------ ---------Suresh Guruswamy wandmsgs@pro-unlimited.com Congratulations! You have been confirmed for a phone interview at NIKE, Inc. for the APPL ENG - PROF SR (U) position.
+         The interview will be on 27 Jul, 2018 at 11:30 AM Pacific Time. Interviewer to call the Candidate at 415-715-7029. Interviewers: John Bouck                                                              
+FRI27   ------------ ------------------ ---------rahul.singh2@idctechnologies.com                 sunnyvale            14084185778           
+FRI27   ------------ ------------------ ---------jessica_tyler@agilees.com                                             19724400088 
+FRI27   ------------ ------------------ ---------ankit from ichel   5pm screeing  expect                                                              
+FRI27   ------------ ------------------ ---------sairaj from centraprise          expect centel                        16093575468                                        
+FRI27   ------------ ------------------ ---------monika asciigroup   TCS/Sony Pictures                Culver city, CA  13134620012 senior                                                                                         
+FRI27   ------------ ------------------ ---------annie.joy@tekishub.com                            Boston,MA3+months    3026132500 x103 / 3022485020 x103                 
+FRI27   ------------ ------------------ ---------imthyas@xforia.com   infosys/verizon                                  12142388286 469 848 6849 
+FRI27   ------------ ------------------ ---------                                                                       
+FRI27   ------------ ------------------ ---------Yatish.Golla@itcinfotech.com                    minesota              16465699010 javascript
+FRI27   ------------ ------------------ ---------                                                                       
+FRI27   ------------ ------------------ ---------                                                                       
 FRI27   ------------ ------------------ ---------                                                                       
 
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                   LOCATION           PHONE       PROFILE             QUERIES
+DATE     STATUS      TIME              ACONTACT  CNAME                   END CLIENT                LOCATION            PHONE       PROFILE             QUERIES
 
 THU26   ------------8am-9am PST-------- ---------                                                                      
 THU26   TS----------9am-10am PST------- ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                                 
@@ -54,6 +87,10 @@ THU26   ------------ ------------------ ---------pravinKaspeks                  
 THU26   ------------ ------------------raj-------rakesh.kumar@idctechnologies.com                   Jupiter ,FL       14086482229                                  
 THU26   ------------ ------------------ ---------deb@resource-logistics.com                                           17325530566                            
 THU26   ------------ ------------------manoj-----sgarg@ccsglobaltech.com  flaxto mortagage          michigan          18583488392  
+THU26   ------------ ------------------ ---------
+THU26   ------------ ------------------ ---------                                                                       
+THU26   ------------ ------------------ ---------                                                                       
+THU26   ------------ ------------------ ---------                                                                       
 THU26   ------------ ------------------ ---------                                                                       
 THU26   ------------ ------------------ ---------                                                                       
 
