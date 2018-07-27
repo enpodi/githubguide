@@ -21,7 +21,7 @@ Finalize is used to perform clean up processing just before object is garbage co
 
 DROP and TRUNCATE are DDL commands, whereas DELETE is a DML command.
 truncate is not "transactional" in the sense that it commits and can't be rolled back, and can modify object storage attributes. 
-So it's not ordinary DML - Oracle classifies it as DDL. delete is an ordinary DML statement.
+So it's not ordinary DML - Oracle classifies it as DDL(Data Definition Language). delete is an ordinary DML  (Data Manipulation Language) statement.
 
 feature object
 how to do re-try in spring
