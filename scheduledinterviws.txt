@@ -18,9 +18,8 @@ DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIEN
 TUE31   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
 MON30   SCHEDULED wait email from grace--8:30am-9am PST-------- -----Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                             
-MON30   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
-MON30   SCHEDULED----5pm-6pm PST-skype- ---------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                           
 MON30   TS-----------3pm-4pm---------------------annie.joy@tekishub.com                            Boston,MA3+months    3026132500 x103 / 3022485020 x103
+MON30   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
 MON30	SCHEDULED    5pm-6pm pst-----------manoj-----sgarg@ccsglobaltech.com  flaxto mortagage          michigan          18583488392
 MON30   ------------------------------- ---------                                                                      
 MON30   ------------------------------- ---------
