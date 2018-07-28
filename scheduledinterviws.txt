@@ -47,8 +47,14 @@ FRI27   ------------17pm-18pm PST------ ---------
 FRI27   SCHEDULED---18pm-19pm PST------ ---------ankit_ch@hcl.com When	Fri Jul 27, 2018 6pm – 6:30pm (PDT)
 Where	415 715 7029
 Who	Vishwas Sp - ERS, HCL Tech, Ankit Chaturvedi*
+executor api
+serial vs uid
 
-FRI27   SCHEDULED---18:30pm                       harit  wipro                                                         16504316865
+client interview by phone
+spring, multithreads,  small team 3, lead, bishfas.
+
+
+FRI27   SCHEDULED---7:45pm-----------------------harit  wipro                                                         16504316865
 
 
 FRI27   ------------ ------------------ ---------atica/antik   itconnect       mountain                                18472683262
