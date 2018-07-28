@@ -41,11 +41,14 @@ FRI27   TS----------12pm-13pm PST------ ---------Krish@americanunit.com
                     13pm                         navish altimetrics veenmelov
 FRI27   TC----------14pm-15pm PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
 FRI27   TS----------15pm-16pm PST------raj-------sathesh.k@alchemysolutions.us    hcl america      Cary, NC             3024762536 API Developer 
+        
 FRI27   SCHEDULED---16:30pm-17pm PST--Skype------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                          
 FRI27   ------------17pm-18pm PST------ ---------                                                                      
 FRI27   SCHEDULED---18pm-19pm PST------ ---------ankit_ch@hcl.com When	Fri Jul 27, 2018 6pm – 6:30pm (PDT)
 Where	415 715 7029
 Who	Vishwas Sp - ERS, HCL Tech, Ankit Chaturvedi*
+
+FRI27   SCHEDULED---18:30pm                       harit  wipro                                                         16504316865
 
 
 FRI27   ------------ ------------------ ---------atica/antik   itconnect       mountain                                18472683262
@@ -64,6 +67,10 @@ FRI27   ------------ ------------------ ---------annie.joy@tekishub.com         
 FRI27   ------------ ------------------ ---------imthyas@xforia.com   infosys/verizon                                  12142388286 469 848 6849 
 FRI27   ------------ ------------------ ---------                                                                       
 FRI27   ------------ ------------------ ---------Yatish.Golla@itcinfotech.com                    minesota              16465699010 javascript
+FRI27   ------------ ------------------ ---------  itconnectus                       mountainview                      18475637076 
+FRI27   ------------ ------------------ ---------leia santiago               bobocars hackerrank                       12136396810 
+FRI27   ------------ ------------------ ---------                                                                       
+FRI27   ------------ ------------------ ---------                                                                       
 FRI27   ------------ ------------------ ---------                                                                       
 FRI27   ------------ ------------------ ---------                                                                       
 FRI27   ------------ ------------------ ---------                                                                       
