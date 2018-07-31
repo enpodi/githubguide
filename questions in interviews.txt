@@ -1,4 +1,16 @@
 
+why concurrenthashmap was created when hashtable was already thread safe
+
+compisicion vs asociation
+anonymous classifiesinner class
+
+singlrton vs clone()
+
+sudo apt-get install git-core
+https://github.com/PacktPublishing/Spring-5.0-Cookbook
+grep -r "mydomain.com" /etc/apache2/
+
+
 Oracle diagnostic packs
 AWR(automatic workload repository), ADDM(automatic database Diagnostic monitor) , ASH (active session tool-monitor real time session data)   to create oracle reports abouts queries
 Oracle Database Tuning Pack

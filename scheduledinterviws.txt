@@ -1,28 +1,97 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
 gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com SDxNEWohio photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
 manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc infosys/nortWesternMmutual MON23    nipoon raidu/sunil  strong over rest and create soap ws.   plus AWS and NodeJS
-venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com/NIKE nextroundcodinginterview 15032606847 Pittsburgh Wipro/PNC Bank             MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
-
+venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com/NIKE nextroundcodinginterview 15032606847 Pittsburgh Wipro/PNC Bank MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
+View on Google Calendar
 
 
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
 FRI03   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
 THU02   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
 
-WED01   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
-        TS           3pm-4pm                     anny
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
-        TS           3pm-4pm                     anny
-TUE31   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+WED01   SCHEDULED----7:30am PST-------- ---------                                                                      
+WED01   ------------8am-9am PST-------- ---------                                                                      
+WED01   ------------9am-10am PST------- ---------                                                                      
+WED01   ------------10am-11am PST------ ---------                                                                      
+WED01   ------------11am-12pm PST------ ---------                                                                      
+WED01   ------------12pm-13pm PST------ ---------  
+WED01   ------------14pm-15pm PST------ ---------                                                                  
+WED01   TS----------15pm-16pm PST------ ---------anny                                                                      
+WED01   TS----------16pm-17pm PSTskype- ---------pravinKaspeks
+
 DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
-MON30   SCHEDULED wait email from grace--8:30am-9am PST-------- -----Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                             
-MON30   TS-----------3pm-4pm---------------------annie.joy@tekishub.com                            Boston,MA3+months    3026132500 x103 / 3022485020 x103
-MON30   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                        15109366850
-MON30	SCHEDULED    5pm-6pm pst-----------manoj-----sgarg@ccsglobaltech.com  flaxto mortagage          michigan          18583488392
+TUE31   SCHEDULED----7:30am PST-------- ---------deepa@s2ssoft.com /manager vala                                       19252891056                                                                 
+TUE31   ------------8am-9am PST-------- ---------                                                                      
+TUE31   TS----------9am-10am PST------- ---------                                                                      
+TUE31   TS----------10am-11am PST------ ---------                                                                      
+TUE31   ------------11am-12pm PST------ ---------                                                                      
+TUE31   ------------12pm-13pm PST------ ---------  
+TUE31                                                                     
+TUE31   TS----------15pm-16pm PST------ ---------                                                                      
+TUE31   TS----------16pm-17pm PST----------------bishfas hcl                                                        15109366850
+
+
+
+
+DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+MON30   SCHEDULED-NOTCONFIRMED wait email from grace--8:30am-9am PST-------- -----Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland SHE NOT CONFIRMEDgloria_max@aesinc.us.com                                             
+        interviewer jetty kishore babu  screening    11am  expect sandeep codeforce
+MON30	SCHEDULED   1PM-2:30PMPST-skype-raghav --venkatesh_solti@aesinc.us.com Wipro/FedEx         Location: Collierville, TN  
+      java 1.7    Struts1 to Struts2   2 onsite 12 offshore angular 2-4
+	    -------------2:30PST---5:30PMCST---------nizam@accelerize360.com 		3129340022 x110  10 input 2 output        a publish , x receives from A
+MON30   scheduled----3pm-4pm--6 p.m. EST    raj-- vishwasx.s.premachandra@intel.com   Mon Jul 30, 2018 3pm – 4pm (PDT) Where	Skype Meeting Who Murty, Kurella, Premachandra, VishwasX S*
+        enclient mult flavors  electronics client. small 2 or 3 people  A any language <-> adapter in java  <->  X python   . 
+		edge computing     AWS    green grass provides a framework  in X devices  <<<<<<<<<<<<  extension to AWS IoT
+		santa clara. team on site. funding  till the end of the year
+		connect deves from electronic customers like siemens, etc
+		https://www.forbes.com/sites/janakirammsv/2017/06/07/amazon-makes-foray-into-edge-computing-with-aws-greengrass/
+		https://techcrunch.com/2016/11/30/aws-greengrass-brings-lambda-to-iot-devices/
+		https://www.forbes.com/sites/janakirammsv/2017/06/07/amazon-makes-foray-into-edge-computing-with-aws-greengrass/#3f0fc75f3298
+		AWS Greengrass has a small footprint that can run on system-on-a-chip devices like Raspberry Pi and BeagleBone powered by ARM processors. 
+		It can also run in full-blown x86 servers in large data center environments. The compute layer of Greengrass is delivered through AWS Lambda, 
+		the first serverless computing platform, which was introduced a few years ago.
+		So, why should enterprise customers care about AWS Greengrass? It delivers three benefits:
+	Reduced latency between the devices and data processing layer
+	Reduced bandwidth costs involved in ingesting large amount of data to the cloud
+	Compliance and security by retaining the sensitive data locally
+MON30   waitforreschedule  4pm                 Harit    there was bad network
+MON30   SCHEDULED       4:30PST  7:30 p.m. EST skype  anchal.srivastava@idctechnologies.com  VIrtusa**Java Microservices Architect,Lead
+        technical screenin 20 minutes
+		NOBODY CALLED
+mon30   SCHEDULED----5pm-------------------------soumen.m@joulestowatts.com   Tata Elxsi                               18062234573    
+	    Please be available for the interview at 08:00 PM (EST) 07/30/2018 (Monday).
+		NOBODY CALLED
+MON30	SCHEDULED    6pm pst---9est  skype--------manoj-----sgarg@ccsglobaltech.com  flaxto mortagage    michigan       18583488392
+	interviewer  amit  abhishek.das@tavant.com
+	16512144742
+	boot, microservices, orm, angular5,    testng junit, integration testing UI, 
+	location michigan  spring seurity, boot, angular5
+MON30   ts-----------7pm-------------------------hcl 
+
+MON30   -------------------------------manoj-----ratan@csican.com                                  west,iowa           14163646376 full tdd
+MON30   -------------NOT TN------------ ---------richard.roy@fluxteksol.com                        sandiego            18325582010  lead  x119   
+MON30   -------------------------------s.kumar---srinivask@codeforce.com                           Burbank CA           4707477226
+MON30   ------------------------------- ---------Varun.Rawal@synechron.com /srini                  ny                  17326239638
+MON30   -------------------------------raj-------asravan@futransolutions.com                       Delaware            16099450787 software developer position, focusing on web development using various technologies
+MON30   ------------------------------- ---------ravali@incorporaninc.com      notanswering                            16095420481
+MON30   ------------------------------- ---------                                                                      19016512067
+MON30   ------------------------------- ---------   idc        paypal/jpm  x needed                texas, ny           14084185779
+MON30   ------------------------------- ---------anchal.srivastava@idctechnologies.com                                 4084185779x324 4087400514                                   
+MON30   ------------------------------- ---------shubham.gautam@itconnectus.com                    mountainView ca     18476076282 splunk (debuging)
+MON30   ------------------------------- ---------sgarg  cssglobaltech                                                                      
+MON30   ------------------------------- ---------satish                                            virginia            19092066516 deve
+MON30   -------------------------------manoj-----anamika@csican.com         hp                     boil idaho          14163646376 x2063 18662744848 x2063    hib,spr,aws
+MON30   -------------------------------raj-------babtn            xneeded                            georgia  iy         16786069824
+MON30   ------------------------------- ---------mohamed  idc                                      oregon              14086482525 java8,aws
+MON30   ------------------------------- ---------withoutvoice                                                          14087400514
+MON30   ------------------------------- ---------                                                                      14084185779
+MON30   ------------------------------- ---------                                                                   1002
+MON30   -------------------------------raj ------vinay@info-ways.com      staples-retail           maasach             16098580802 
+MON30   ------------------------------- ---------                                                                      19252160131
 MON30   ------------------------------- ---------                                                                      
-MON30   ------------------------------- ---------
+MON30   ------------------------------- ---------                                                                      
 
 SAT28   SCHEDULED   9.45 am skype-coding--------Yatish.Golla@itcinfotech.com                    minezota             16465699010 javascript.ang
 
@@ -42,7 +111,7 @@ FRI27   TS----------12pm-13pm PST------ ---------Krish@americanunit.com
 FRI27   TC----------14pm-15pm PST------ ---------Monarch.Soni@xduce.com/rushi expect prashan(infosys)    Infosys - Carefirst BCBS  maryland
 FRI27   TS----------15pm-16pm PST------raj-------sathesh.k@alchemysolutions.us    hcl america      Cary, NC             3024762536 API Developer 
         
-FRI27   SCHEDULED---16:30pm-17pm PST--Skype------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                          
+FRI27   SCHEDULED-CANCELLED--16:30pm-17pm PST--Skype------soumen.m@joulestowatts.com  The client (Tata Elxsi) needs time slots (EST time zone) for your interview. Therefore, please fill the bellow mentioned table and confirm me.                                                                                                                                          
 FRI27   ------------17pm-18pm PST------ ---------                                                                      
 FRI27   SCHEDULED---18pm-19pm PST------ ---------ankit_ch@hcl.com When	Fri Jul 27, 2018 6pm – 6:30pm (PDT)
 Where	415 715 7029
