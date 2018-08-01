@@ -1,36 +1,131 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
+josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com/Kamran Hassan18632486952  Anthem Inc  virginia  WED01 14122232066
+Varun.Rawal@synechron.com /srini                  ny                  17326239638
 gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com SDxNEWohio photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
 manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc infosys/nortWesternMmutual MON23    nipoon raidu/sunil  strong over rest and create soap ws.   plus AWS and NodeJS
 venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com/NIKE nextroundcodinginterview 15032606847 Pittsburgh Wipro/PNC Bank MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
 View on Google Calendar
 
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+MON06   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+FRI03   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
+fri		TS			12pm                         vineela.vings@gmail.com
 
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+
+
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 FRI03   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+THU02   ------------8am-9am PST-------- ---------                                                                      
+THU02   ts----------9am-10am PST------- ---------rakesh.kumar@idctechnologies.com                                      408-648-2229                                                    
+THU02   ts----------10am-11am PST------raj-------tanu   tanishasystems.com     erizent                 austin              12127296543 cloud,nodejs,rest
+THU02   ts----------11am-12pm PST------c2c ---------narish  sq  brofile winscounsin                                    13024663225 
+        SCHEDULED---12pm-------------------------vineela.vings@gmail.com
+THU02   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
 THU02   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+THU02   SCHEDULED wait for calendar---19pm-20pm PST----------------sathesh.k@alchemysolutions.us Your interview is confirmed on Thursday 7:00 PM - 8:00 PM PST. 
+	Also, Vikas from HCL will send an calendar invite. Please accept that to confirm your availability.	
+THU02   ------------- ----------------- ---------                                                                       
+THU02   ------------- ----------------- ---------                                                                       
 
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 WED01   SCHEDULED----7:30am PST-------- ---------                                                                      
 WED01   ------------8am-9am PST-------- ---------                                                                      
 WED01   ------------9am-10am PST------- ---------                                                                      
-WED01   ------------10am-11am PST------ ---------                                                                      
-WED01   ------------11am-12pm PST------ ---------                                                                      
-WED01   ------------12pm-13pm PST------ ---------  
-WED01   ------------14pm-15pm PST------ ---------                                                                  
-WED01   TS----------15pm-16pm PST------ ---------anny                                                                      
-WED01   TS----------16pm-17pm PSTskype- ---------pravinKaspeks
+WED01   ts----------10am-11am PST------raj-------tanu   tanishasystems.com     erizent             austin              12127296543 cloud,nodejs,rest
+WED01   SCHEDULED---11am-12pm PST------shafia----Varun.Rawal@synechron.com/spinninti@saventech.com Harrison NY         17326239638  Please let me know when you can join this project in Harrison NY? Please make it at your earliest.                     
+WED01   SCHEDULED---12:30pm-13pm PST---josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com expect > Manager Name : Kamran Hassan18632486952  Anthem Inc  virginia  14122232066 
+	feedback Kamran Hassan 18632486952               signature markup      css box modelling   javascript closure    digest
+	from angularjs  https://www.ng-book.com/p/The-Digest-Loop-and-apply/
+	https://www.w3schools.com/css/css_boxmodel.asp
+	https://www.w3schools.com/js/js_function_invocation.asp
+	https://www.w3schools.com/js/js_function_closures.asp
+	Variables created without the keyword var, are always global, even if they are created inside a function.
+	Global variables live as long as your application (your window / your web page) lives.
+	Local variables have short lives. They are created when the function is invoked, and deleted when the function is finished.
+	The counter should be local to the add() function, to prevent other code from changing it:
+	// Initiate counter
+var counter = 0;
+// Function to increment counter
+function add() {
+    var counter; 
+    counter += 1;
+}
+We can remove the global counter and access the local counter by letting the function return it:
+function add() {
+    var counter; 
+    counter += 1;
+    return counter;
+}
+-------------------------------
+Remember self-invoking functions? What does this function do?
+var add = (function () {
+    var counter = 0;
+    return function () {counter += 1; return counter}
+})();
+The variable add is assigned the return value of a self-invoking function.
+The self-invoking function only runs once. It sets the counter to zero (0), and returns a function expression.
+This way add becomes a function. The "wonderful" part is that it can access the counter in the parent scope.
+This is called a JavaScript closure. It makes it possible for a function to have "private" variables.
+The counter is protected by the scope of the anonymous function, and can only be changed using the add function.
+	
+WED01   ------------14pm-15pm PST----------------                                                                  
+WED01   ------------15:30pm-16pm PST------ ---------                                                                  
+WED01   ------------16pm-17pm PSTskype- ---------pravinKaspeks
+WED01   scheduled   6pm       PST----------------alok.srivastava@wipro.com khusnuma.parwin@wipro.com wipro,fedex memphis 19254138847 
+WED01   TS----------19pm-20pm PST----------------sathesh.k@alchemysolutions.us
+WED01   -------------dropt vm---------- ---------aartineerinfo                                                         16186145454
+WED01   ------------- ----------------- ---------vignesh@softnice.com       ezent                 Austin, TX           16102288917
+WED01   ------------- ----------------- ---------dinesh              x needed                                          17037386662 
+WED01   ------------- ----------------- ---------ranjeet@enterprisesolutioninc.com TCS                                 14082167923
+WED01   ------------- ----------------- ---------pavan@srinav.net    Cigna/CGI                    Windsor, CT          15105096419 full
+WED01   ------------- ----------------- ---------khusnuma.parwin@wipro.com                                              4157157029                          
+WED01   ------------- ----------------- ---------    softnice                                     san antonio          16105560522 salesfoce
+WED01   ------------- -----------------raj-------sasidhar@keylent.com                                                  14074017302 
+WED01   ------------- -----------------c2c-------mahima.s@intelliswift.com                        UI) Developer        15109643618 
+WED31   ---------- -------------------- ---------bhavaniithr@gmail.com                                                 18324315511 
+WED31   ---------- -------------------- ---------david@competentsystems                                                16788859500 
+WED31   ---------- -------------------- ---------josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com   Anthem Inc  virginia  14122232066        
+WED31   ---------- -------------------- ---------asingh@pindisolutions.com                                             16108864786                        
+WED31   ---------- -------------------- ---------vineela.vings@gmail.com                                               18324769544                       
+WED31   ---------- -------------------- ---------pavan  1pointsys                                                      restricted                 
+WED31   ---------- --------------------c2c ------naresh.scubeinc@gmail.com brofile winscounsin                         13024663225 
+WED31   ---------- --------------------raj-------john.miller@applabsystems.com                    Dallas, TX           17328101356 
+WED31   ---------- -------------------- ---------nchinta@ghsltechnologies.com                                                                 13022565004 full
+WED31   ---------- -------------------- ---------alok.srivastava@wipro.com khusnuma.parwin@wipro.com wipro,fedex memphis 19254138847 
+WED31   ---------- -------------------- ---------rakesh.kumar@idctechnologies.com                                      408-648-2229                                                                         
+WED31   ---------- -------------------- ---------monarch                                                                7324754023
+WED31   ---------- -------------------- ---------mainin infotech sunnyvale                                              7038531803
+WED31   ---------- -------------------- ---------jegathesan.r@idctechnologies.com  hexaware                            14088199594
+WED31   ---------- -------------------- ---------                                                                       
 
-DATE     STATUS      TIME              ACONTACT  CNAME                 END CLIENT                  LOCATION            PHONE       PROFILE             QUERIES
-TUE31   SCHEDULED----7:30am PST-------- ---------deepa@s2ssoft.com /manager vala                                       19252891056                                                                 
-TUE31   ------------8am-9am PST-------- ---------                                                                      
-TUE31   TS----------9am-10am PST------- ---------                                                                      
-TUE31   TS----------10am-11am PST------ ---------                                                                      
-TUE31   ------------11am-12pm PST------ ---------                                                                      
-TUE31   ------------12pm-13pm PST------ ---------  
-TUE31                                                                     
-TUE31   TS----------15pm-16pm PST------ ---------                                                                      
-TUE31   TS----------16pm-17pm PST----------------bishfas hcl                                                        15109366850
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+TUE31   SCHEDULED----7:30am PST-------- ---------deepa@s2ssoft.com /manager vala                                       19252891056                                                                                                                                    
+TUE31   ----------16pm-17pm PST----------------bishfas hcl                                                             15109366850
+TUE31   TS----------19pm-20pm PST----------------sathesh.k@alchemysolutions.us                                         US: +1 302 476 2536 | India: +91 7708794984
+TUE31   ------------------------------- ---------bbm                                                                    6786069824
+TUE31   ------------------------------- ---------mohamed idc                                                            4086482190
+TUE31   ------------------------------- ---------venegan             hcl america                                        6098580802
+TUE31   ------------------------------- ---------varum                                 syn                              7326239638
+TUE31   ------------------------------- ---------shafia                                                                 9254629746
+TUE31   -------------------------------raj-------shubam itconnectus     expect  15m rahundrs,behal  sanf ca lead       18476076282                   
+TUE31   -------------------------------manoj-----cameron             capitalone                     Mc Lean - Virginia  19724400070 
+TUE31   ------------------------------- ---------shubam              promoficia                                        18475637077  full spring,hib
+TUE31   ------------------------------- ---------ankit xduce                                                           17033763676
+TUE31   -------------------------------raj-------pardeep@unicagroup.com Phoenix, AZ/ Richmond, VA                      17175166070 x303                       
+TUE31   -------------------------------raj-------satish@burgeonits.com                                                 13023719586 
+TUE31   ----------ONLYONEROUND--------- ---------josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com 14122232066 Anthem Inc Norfolk,VA 19252890802 full   
+TUE31   ---------- -------------------- ---------david@competentsystems.com xperis                 Alpharetta,GA       16788859500 
+TUE31   ---------- -------------------- ---------nytesh synechron                                                      17047801633 
+TUE31   ----------FULLTIMENOTTOTAKE---- ---------                                                                      19252157664 
+TUE31   ---------- -------------------- ---------idc                                                                   14084590313 
+TUE31   ---------- --------------------raj-------tanu tanishasystems.com     erizen                austin              12127296543 cloud,nodejs,rest
+TUE31   ---------- ------------------------------nalini_vunnam@aesinc.us.com                       Jersey city, NJ     19724402121                           
+TUE31   ---------- --------------------manoj-----asingh@pindisolutions.com                         santa clara         16108864786 angular
+TUE31   ---------- -------------------- ---------                                                                       
+TUE31   ---------- -------------------- ---------                                                                       
+
 
 
 
