@@ -73,7 +73,10 @@ The counter is protected by the scope of the anonymous function, and can only be
 WED01   ------------14pm-15pm PST----------------                                                                  
 WED01   ------------15:30pm-16pm PST------ ---------                                                                  
 WED01   ------------16pm-17pm PSTskype- ---------pravinKaspeks
-WED01   scheduled   6pm       PST----------------alok.srivastava@wipro.com khusnuma.parwin@wipro.com wipro,fedex memphis 19254138847 
+WED01   scheduled   6pm       PST----------------alok.srivastava@wipro.com khusnuma.parwin@wipro.com wipro,fedex memphis tenese 19254138847 
+        NOONECALLED 19012833243   shesgari lakhshimi vasu
+		springboot, postman                existing app   facefaces-sprin-restful      new app   spring boot-aws  swagger
+		junit 
 WED01   TS----------19pm-20pm PST----------------sathesh.k@alchemysolutions.us
 WED01   -------------dropt vm---------- ---------aartineerinfo                                                         16186145454
 WED01   ------------- ----------------- ---------vignesh@softnice.com       ezent                 Austin, TX           16102288917
