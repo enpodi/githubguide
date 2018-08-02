@@ -1,31 +1,52 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
-josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com/Kamran Hassan18632486952  Anthem Inc  virginia  WED01 14122232066
+alok.srivastava@wipro.com 19254138847 khusnuma.parwin@wipro.com wipro  memphis tenese   fedex            WED01    shesgari lakhshimi vasu 19012833243 		springboot, postman                existing app   facefaces-sprin-restful      new app   spring boot-aws  swagger 		junit 
+josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com/Kamran Hassan18632486952  Anthem Inc  virginia   WED01 14122232066
 Varun.Rawal@synechron.com /srini                  ny                  17326239638
-gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com SDxNEWohio photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
+gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com/sathyanarayanan.baabu@photoninfotech.net Volvo THU02 
+SDxNEWohio photon/medimpact healtcare MON23    Gothan              springbatch, inner joins
 manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc infosys/nortWesternMmutual MON23    nipoon raidu/sunil  strong over rest and create soap ws.   plus AWS and NodeJS
 venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com/NIKE nextroundcodinginterview 15032606847 Pittsburgh Wipro/PNC Bank MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
 View on Google Calendar
 
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 MON06   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
-DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
-FRI03   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
-fri		TS			12pm                         vineela.vings@gmail.com
-
-
 
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
-FRI03   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+FRI03	TS			11pm               william smith
+FRI03	TS			12pm                         vineela.vings@gmail.com
+FRI03   TS----------15pm-16pm PST------raj--------surendra@iTechUS.net
+FRI03   SCHEDULED-wait for invitation---4pm-5pm PST---venkatesh.b@axiustek.com   This is Venkatesh form Axius technologies , Please let me know your availability to take webex/skype video interview for the below position                                                      15109366850
+
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 THU02   ------------8am-9am PST-------- ---------                                                                      
 THU02   ts----------9am-10am PST------- ---------rakesh.kumar@idctechnologies.com                                      408-648-2229                                                    
-THU02   ts----------10am-11am PST------raj-------tanu   tanishasystems.com     erizent                 austin              12127296543 cloud,nodejs,rest
-THU02   ts----------11am-12pm PST------c2c ---------narish  sq  brofile winscounsin                                    13024663225 
-        SCHEDULED---12pm-------------------------vineela.vings@gmail.com
-THU02   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
-THU02   TS-----------4pm-5pm PST-skype- ---------pravinKaspeks                                                         15109366850
+THU02   ts----------10am-11am PST------raj-------sara@successdrivesystems.com 15102242316 x106 /satya photon 7029/
+        sathyanarayanan.baabu@photoninfotech.net        
+THU02   SCHEDULED---11am-12pm PST----------------alok  wipro/2round  int  ramya
+        interviewer ramysh  feedback corresponding person will talk to me in next round
+THU02	SCHEDULED   2pm pst                      Nitesh.Ingale@synechron.com  interviewer   mahesh   wellsfargo
+	When	Thu Aug 2, 2018 2pm – 2:30pm (PDT)
+	Where	Contact Numbers: 415 715 7029
+	Who	manoj, Nikhil Karmude, Nitesh Ingale*
+THU02   TS----------15pm-16pm PST-----raj--------surendra@iTechUS.net
+                                                  NOTCONFIRMED ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
+THU02   TS-----------4pm-5pm PST-skype- ---------sara                                                         15109366850
 THU02   SCHEDULED wait for calendar---19pm-20pm PST----------------sathesh.k@alchemysolutions.us Your interview is confirmed on Thursday 7:00 PM - 8:00 PM PST. 
 	Also, Vikas from HCL will send an calendar invite. Please accept that to confirm your availability.	
+	                 2pm pst                      nytesh 
+THU02   SCHEDULED----7pm PST phone--------------- When	Thu Aug 2, 2018 7pm – 7:30pm (PDT) Where	Telephonic Discussion- Vengala Rao Pachava Who	Alexarvinraj Amalaraj , Tidel Park - Chennai, Vinodhkumaran J, Maheshwer Annamalai, HCL America...  
+THU02   ------------- -----------------raj-------jegathesan.r@idctechnologies.com                                      14088199594 x2179                         
+THU02   ------------- ----------------- ---------sara@successdrivesystems.com                                          15102242316 x106                             
+THU02   ------------- ----------------- ---------alok  wipro                                                           19254138847          
+THU02   ------------- ----------------- ---------surendra@iTechUS.net | itus                       pleasanton          14695138468  469-513-8468 Main: 802 383 1500 Ext. 134
+THU02   ------------- ----------------- ---------NYTESH sinechron                                                                       
+THU02   ------------- ----------------- ---------rya  techus     american express                 arizona              17038294055               
+THU02   -------------fiil skills,share raj det---keshav.p@itscient.com    infosys    cupertino                         15105167895 full
+THU02   ------------- ----------------- ---------chetana@acetechnologies.com                                           14084423662 x4343
+THU02   ------------- -----------------raj-------aravind@sparinfosys.com TECHM                    NY                   12015285307 x361 
+THU02   ------------- ----------------- ---------ajaykumar.s@reveilletechnologies.com                                  13364996139 x96 core java
+THU02   ------------- ----------------- ---------sunny itk tech                                   ny                   19164907530 
+THU02   ------------- ----------------- --------- satya photon                volvo             onsite    visa, degree certificate, current full address                                                                      
 THU02   ------------- ----------------- ---------                                                                       
 THU02   ------------- ----------------- ---------                                                                       
 
@@ -87,21 +108,21 @@ WED01   ------------- ----------------- ---------khusnuma.parwin@wipro.com      
 WED01   ------------- ----------------- ---------    softnice                                     san antonio          16105560522 salesfoce
 WED01   ------------- -----------------raj-------sasidhar@keylent.com                                                  14074017302 
 WED01   ------------- -----------------c2c-------mahima.s@intelliswift.com                        UI) Developer        15109643618 
-WED31   ---------- -------------------- ---------bhavaniithr@gmail.com                                                 18324315511 
-WED31   ---------- -------------------- ---------david@competentsystems                                                16788859500 
-WED31   ---------- -------------------- ---------josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com   Anthem Inc  virginia  14122232066        
-WED31   ---------- -------------------- ---------asingh@pindisolutions.com                                             16108864786                        
-WED31   ---------- -------------------- ---------vineela.vings@gmail.com                                               18324769544                       
-WED31   ---------- -------------------- ---------pavan  1pointsys                                                      restricted                 
-WED31   ---------- --------------------c2c ------naresh.scubeinc@gmail.com brofile winscounsin                         13024663225 
-WED31   ---------- --------------------raj-------john.miller@applabsystems.com                    Dallas, TX           17328101356 
-WED31   ---------- -------------------- ---------nchinta@ghsltechnologies.com                                                                 13022565004 full
-WED31   ---------- -------------------- ---------alok.srivastava@wipro.com khusnuma.parwin@wipro.com wipro,fedex memphis 19254138847 
-WED31   ---------- -------------------- ---------rakesh.kumar@idctechnologies.com                                      408-648-2229                                                                         
-WED31   ---------- -------------------- ---------monarch                                                                7324754023
-WED31   ---------- -------------------- ---------mainin infotech sunnyvale                                              7038531803
-WED31   ---------- -------------------- ---------jegathesan.r@idctechnologies.com  hexaware                            14088199594
-WED31   ---------- -------------------- ---------                                                                       
+WED01   ---------- -------------------- ---------bhavaniithr@gmail.com                                                 18324315511 
+WED01   ---------- -------------------- ---------david@competentsystems                                                16788859500 
+WED01   ---------- -------------------- ---------josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com   Anthem Inc  virginia  14122232066        
+WED01   ---------- -------------------- ---------asingh@pindisolutions.com                                             16108864786                        
+WED01   ---------- -------------------- ---------vineela.vings@gmail.com                                               18324769544                       
+WED01   ---------- -------------------- ---------pavan  1pointsys                                                      restricted                 
+WED01   ---------- --------------------c2c ------naresh.scubeinc@gmail.com brofile winscounsin                         13024663225 
+WED01   ---------- --------------------raj-------john.miller@applabsystems.com                    Dallas, TX           17328101356 
+WED01   ---------- -------------------- ---------nchinta@ghsltechnologies.com                                                                 13022565004 full
+WED01   ---------- -------------------- ---------alok.srivastava@wipro.com khusnuma.parwin@wipro.com wipro,fedex memphis 19254138847 
+WED01   ---------- -------------------- ---------rakesh.kumar@idctechnologies.com                                      408-648-2229                                                                         
+WED01   ---------- -------------------- ---------monarch                                                                7324754023
+WED01   ---------- -------------------- ---------mainin infotech sunnyvale                                              7038531803
+WED01   ---------- -------------------- ---------jegathesan.r@idctechnologies.com  hexaware                            14088199594
+WED01   ---------- -------------------- ---------                                                                       
 
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 TUE31   SCHEDULED----7:30am PST-------- ---------deepa@s2ssoft.com /manager vala                                       19252891056                                                                                                                                    
