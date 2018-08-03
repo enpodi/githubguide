@@ -1,4 +1,5 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
+sara@successdrivesystems.com     VOLVO   do hackerrank test from photon  180802    https://click.pstmrk.it/2sm/www.hackerrank.com%2Ftests%2Fe0mal6rrnih%2Flogin%3Fb%3DeyJ1c2VybmFtZSI6ImVkaWF6LnNmZGV2ZUBnbWFpbC5jb20iLCJwYXNzd29yZCI6Ijk1ZTc4NjUxIiwiaGlkZSI6dHJ1ZX0%3D/T-_w6gE/EDcI/8oCqfR2Fgk/aHJ3LXRlc3QtaW52aXRl
 alok.srivastava@wipro.com 19254138847 khusnuma.parwin@wipro.com wipro  memphis tenese   fedex            WED01    shesgari lakhshimi vasu 19012833243 		springboot, postman                existing app   facefaces-sprin-restful      new app   spring boot-aws  swagger 		junit 
 josephinnevetha.s2ssoft@gmail.com/asugan@ceiamerica.com/Kamran Hassan18632486952  Anthem Inc  virginia   WED01 14122232066
 Varun.Rawal@synechron.com /srini                  ny                  17326239638
@@ -8,14 +9,43 @@ manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc in
 venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com/NIKE nextroundcodinginterview 15032606847 Pittsburgh Wipro/PNC Bank MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
 View on Google Calendar
 
+singleton in threads
+
+server container configuration
+https://docs.oracle.com/middleware/1212/wls/WLPRG/classloading.htm#WLPRG282
+
+java based rest client
+https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/index.html
+
+suport json and xml in rest
+https://www.nabisoft.com/tutorials/java-ee/producing-and-consuming-json-or-xml-in-java-rest-services-with-jersey-and-moxy
+https://stackoverflow.com/questions/22362607/can-a-restful-service-return-both-json-and-xml-for-the-same-resource-depending
+https://stackoverflow.com/questions/35270660/accepting-returning-xml-json-request-and-response-spring-mvc
+@Produces({ MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON })
+https://www.journaldev.com/8934/spring-rest-xml-and-json-example
+https://restfulapi.net/json-vs-xml/
+https://docs.oracle.com/cd/E19226-01/820-7627/6nisfjmk8/index.html
+https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/java-rest-high.html
+https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/index.html
+
+
+
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 MON06   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
 
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
-FRI03	TS			11pm               william smith
-FRI03	TS			12pm                         vineela.vings@gmail.com
-FRI03   TS----------15pm-16pm PST------raj--------surendra@iTechUS.net
-FRI03   SCHEDULED-wait for invitation---4pm-5pm PST---venkatesh.b@axiustek.com   This is Venkatesh form Axius technologies , Please let me know your availability to take webex/skype video interview for the below position                                                      15109366850
+FRI03	TS-----------11am-------------- ---------sankar@psrtek.com
+FRI03	TS-----------12pm-------------- ---------vineela.vings@gmail.com
+FRI03   TS----------15pm-16pm PST------raj-------surendra@iTechUS.net
+FRI03   SCHEDULED-wait for invitation---4pm-5pm PST---venkatesh.b@axiustek.com   This is Venkatesh from Axius technologies , Please let me know your availability to take webex/skype video interview for the below position                                                      15109366850
+FRI03   ------------- ----------------- ---------sankar@psrtek.com                                 Tampa or Chicago    16093186109                  
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
 
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 THU02   ------------8am-9am PST-------- ---------                                                                      
@@ -29,12 +59,15 @@ THU02	SCHEDULED   2pm pst                      Nitesh.Ingale@synechron.com  inte
 	Where	Contact Numbers: 415 715 7029
 	Who	manoj, Nikhil Karmude, Nitesh Ingale*
 THU02   TS----------15pm-16pm PST-----raj--------surendra@iTechUS.net
-                                                  NOTCONFIRMED ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
-THU02   TS-----------4pm-5pm PST-skype- ---------sara                                                         15109366850
-THU02   SCHEDULED wait for calendar---19pm-20pm PST----------------sathesh.k@alchemysolutions.us Your interview is confirmed on Thursday 7:00 PM - 8:00 PM PST. 
-	Also, Vikas from HCL will send an calendar invite. Please accept that to confirm your availability.	
-	                 2pm pst                      nytesh 
-THU02   SCHEDULED----7pm PST phone--------------- When	Thu Aug 2, 2018 7pm – 7:30pm (PDT) Where	Telephonic Discussion- Vengala Rao Pachava Who	Alexarvinraj Amalaraj , Tidel Park - Chennai, Vinodhkumaran J, Maheshwer Annamalai, HCL America...  
+THU02   SCHEDULED----5:30pm  skype           Rajesh.D03@mphasis.com   
+		When	Thu Aug 2, 2018 5:30pm – 6pm (PDT)
+		Where	Mayank will call Enrique on 415 715 7029 and Skype# enpodi25
+		Who	Aneel Tirumalasetty, Maunesh Sahoo, Mayank Kastwar, Rajesh D03*
+        feedback  soapws and restful   how secure soap and rest,  return both json and xml depending over request
+THU02   SCHEDULED----19pm-20pm PST---------------sathesh.k@alchemysolutions.us 
+		When	Thu Aug 2, 2018 7pm – 7:30pm (PDT) 
+		Where	Telephonic Discussion- Vengala Rao Pachava Who	Alexarvinraj Amalaraj , Tidel Park - Chennai, Vinodhkumaran J, Maheshwer Annamalai, HCL America...  
+		Feedback will get back to you  12109659334
 THU02   ------------- -----------------raj-------jegathesan.r@idctechnologies.com                                      14088199594 x2179                         
 THU02   ------------- ----------------- ---------sara@successdrivesystems.com                                          15102242316 x106                             
 THU02   ------------- ----------------- ---------alok  wipro                                                           19254138847          
@@ -47,6 +80,10 @@ THU02   ------------- -----------------raj-------aravind@sparinfosys.com TECHM  
 THU02   ------------- ----------------- ---------ajaykumar.s@reveilletechnologies.com                                  13364996139 x96 core java
 THU02   ------------- ----------------- ---------sunny itk tech                                   ny                   19164907530 
 THU02   ------------- ----------------- --------- satya photon                volvo             onsite    visa, degree certificate, current full address                                                                      
+THU02   ------------- ----------------- ---------hari@tekdoors.com             notslow, louder    Phoenix, AZ          14809932211
+Hexaware <noreply@interviewmocha.com  Assessment Link: https://test.interviewmocha.com/AuthenticateKey?id=c398c6cc2a    Hexaware: Invitation for Core Java -Freddie Mac -001 assessment
+THU02   ------------- ----------------- ---------                                                                       5016
+THU02   ------------- ----------------- ---------                                                                       
 THU02   ------------- ----------------- ---------                                                                       
 THU02   ------------- ----------------- ---------                                                                       
 
@@ -92,13 +129,16 @@ This is called a JavaScript closure. It makes it possible for a function to have
 The counter is protected by the scope of the anonymous function, and can only be changed using the add function.
 	
 WED01   ------------14pm-15pm PST----------------                                                                  
-WED01   ------------15:30pm-16pm PST------ ---------                                                                  
+WED01   ------------15:30pm-16pm PST------ ---------  Narendra singh bhati                                                                
 WED01   ------------16pm-17pm PSTskype- ---------pravinKaspeks
 WED01   scheduled   6pm       PST----------------alok.srivastava@wipro.com khusnuma.parwin@wipro.com wipro,fedex memphis tenese 19254138847 
         NOONECALLED 19012833243   shesgari lakhshimi vasu
 		springboot, postman                existing app   facefaces-sprin-restful      new app   spring boot-aws  swagger
 		junit 
-WED01   TS----------19pm-20pm PST----------------sathesh.k@alchemysolutions.us
+WED01   TS----------19pm-20pm PST----------------sathesh.k@alchemysolutions.us vikash-g@hcl.com
+		When	Thu Aug 2, 2018 7pm – 7:30pm (PDT)
+		Where	Telephonic Discussion- Vengala Rao Pachava
+		Who	Alexarvinraj Amalaraj , Tidel Park - Chennai, Vinodhkumaran J, Maheshwer Annamalai, HCL America...
 WED01   -------------dropt vm---------- ---------aartineerinfo                                                         16186145454
 WED01   ------------- ----------------- ---------vignesh@softnice.com       ezent                 Austin, TX           16102288917
 WED01   ------------- ----------------- ---------dinesh              x needed                                          17037386662 
