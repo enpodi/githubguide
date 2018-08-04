@@ -25,6 +25,30 @@ https://www.interviewcake.com/article/python/data-structures-coding-interview#ra
 https://www.mulesoft.com/ty/webinars/api-first-development-raml-and-soapui
 bactracking in colecciones de arboles  (nodes)
 
+
+
+
+singleton in threads
+
+server container configuration
+https://docs.oracle.com/middleware/1212/wls/WLPRG/classloading.htm#WLPRG282
+
+java based rest client
+https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/index.html
+
+suport json and xml in rest
+https://www.nabisoft.com/tutorials/java-ee/producing-and-consuming-json-or-xml-in-java-rest-services-with-jersey-and-moxy
+https://stackoverflow.com/questions/22362607/can-a-restful-service-return-both-json-and-xml-for-the-same-resource-depending
+https://stackoverflow.com/questions/35270660/accepting-returning-xml-json-request-and-response-spring-mvc
+@Produces({ MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON })
+https://www.journaldev.com/8934/spring-rest-xml-and-json-example
+https://restfulapi.net/json-vs-xml/
+https://docs.oracle.com/cd/E19226-01/820-7627/6nisfjmk8/index.html
+https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/java-rest-high.html
+https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/index.html
+
+
+
 runtimeexception, checked exception unchecked exception
 
 Final class can't be inherited, final method can't be overridden and final variable value can't be changed. 
