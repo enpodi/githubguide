@@ -42,6 +42,25 @@ git remote set-url origin https://github.com/enpodi/githubguide.git
  
  http://michaelwales.com/articles/make-gitconfig-work-for-you/           XXXXXXXXXXXXXXXXXXX
 https://git-scm.com/docs/pretty-formats                XXXXXXXXXXXXXXXXXXXXXXXXXx
+
+
+https://stackoverflow.com/questions/9483757/how-to-exit-git-log-or-git-diff
+git config --global core.pager cat
+
+git show-ref master
+
+#after commiting locally
+git fetch
+#there are 2 branches: master (local) and origin/master.
+# so from our local head branch (master) we run:
+git merge origin/master       #WE ARENOT REWRITING HISTORY. MERGES NEVER DO THAT. INSTEAD, THEY JUST ADD NEW OBJECTS.
+#"git  push"   followed by    "git merge"   is reduced with:
+git pull
+
+git --no-pager log --oneline -n 10
+--no-pager will encounter the (END) word
+-n 10 will show only the last 10 commits
+--oneline will show the commit message, ignore the author, date information
   
 GRAPH
 

@@ -9,11 +9,49 @@ manoj/rushi/Monarch.Soni@xduce.com                  Maryland or milwakee wisc in
 venkatesh_solti@aesinc.us.com /jessica_tyler@agilees.com/NIKE nextroundcodinginterview 15032606847 Pittsburgh Wipro/PNC Bank MON23    darshan and rajesh  Design Patterns, Stack and heap memory in java, Rest configuration in spring. 
 View on Google Calendar
 
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+THU09   -------------pm-PST------------ ---------                                                                      
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+WED08   -------------pm-PST------------ ---------                                                                      
+DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+TUE07   SCHEDULED-Jai Balaji-CANCELLED--2pm-PST-----------sunil-----giri@erostechnologies.com Infogain/JPMC           Sunnyvale  CA, ny   15165450728 Core Java, Collections, Multithreading, Webservice, spring                                      
+		jaibalaji.t@infogain.com 		When	Tue Aug 7, 2018 2pm – 3pm (PDT) Where	Skype Who	Robin Tolentino, chandan_kumar@apple.com, Kulwant Singh, Jaibalaji Thiruvengdam*
+TUE07   -------------pm-PST------------ ---------                                                                      
 
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 MON06   TS----------15pm-16pm PST------ ---------ranjeet@enterprisesolutioninc.com TCS             Sunnyvale, CA       14082167923
-MON06   waitinvit----5:30pm   webex--------------hari@tekdoors.com 14809932211/ amit 14802405240 from interah Phoenix, AZ 
+MON06   SCHEDULED---4pm-call---------------------anil @yash.com sara@successdrivesystems.com  expect Geetha Madayala from yash  mark pharma   missouri 14083733609
+		Direct Implementation partner Call 
+		When	Mon Aug 6, 2018 4pm – 4:30pm (PDT) Who	Anil Rao, Dinesh Vishwakarma, Geetha Madayala*
+		FEEDBACK hrinosh yash 13097157411
+MON06	SCHEDULED    5pm  	tata XLS  EST   FEEDBACK  30 minutes  interviewer sriya
+MON06   SCHEDULED----5:30pm  zoom--------------hari@tekdoors.com 14809932211/ amit 14802405240 from interah Phoenix, AZ 
+    	When	Mon Aug 6, 2018 5:30pm – 6pm (PDT) Where	https://zoom.us/j/728497283 Who	kumar s, Amit Patra*
 MON06   S------------7pm pst           raj       cynthia                                                               17327345016
+MON06   -------------pm-PST------------ ---------                                                                      
+MON06   -------------pm-PST------------ ---------                                                                      
+MON06   -------------pm-PST------------ ---------                                                                      
+MON06   -------------RTR SENT--------------------shashank                                                              15716455905
+MON06   -----------------------------------------anil                                                                  14083733609 lead     
+MON06   -----------------------------------------                                                                      847 several
+MON06   -----------------------------------------                                                                      215 
+MON06   ***********************--------sunil-----giri@erostechnologies.com Infogain/JPMC           NY,sunnyvale        15165450728 java developer,JIRA and Splunk
+MON06   DO CODING TONIGHT------------------------abubakkar.s@reveilletechnologies.com mphasis      Tampa               13364996139 X-90          
+        Java MCQ & Coding (CIB - UK)-Mphasis Hiring Team <support@hackerrankforwork.com Mphasis Hiring Team 
+		https://click.pstmrk.it/2sm/www.hackerrank.com%2Ftests%2Fe1mopege4ib%2Flogin%3Fb%3DeyJ1c2VybmFtZSI6ImVkaWF6LnNmZGV2ZUBnbWFpbC5jb20iLCJwYXNzd29yZCI6Ijk3MDE0YTRkIiwiaGlkZSI6dHJ1ZX0%3D/LY1y7gE/EDcI/LDgNCzvlYA/aHJ3LXRlc3QtaW52aXRl                                                                    
+MON06   Rohit Srivastav--------I have asked concern person to send test once more /you already know what to do next /passing marks - 22/30                                                                       
+MON06   ------------- -----------------raj-------                   wipro                                              18474402436 selenium,python
+MON06   ------------- -----------------raj-------sam kumar                                         ny                  14086482520 lead, angular
+MON06   ------------- -----------------raj-------sasidhar@keylent.com  (407)-401-7302 lead   Please let me know whether you can attend virtual drive tomorrow (Tuesday 8/7/2018) – If yes respond to this email ASAP.                                                                  
+MON06   ------------- -----------------raj-------surendra@itechus.net                                                  14695138468 18023831500 x134                   
+MON06   ------------- -----------------raj-------mayank@alphasilicon.com                           ny                  15127722051                       
+MON06   ------------- ----------------- ---------abby@omcomputersllc.com springboot, cloudfoundry                      19293286532                                                  
+MON06   ------------- ----------------- ---------                                                                      
+MON06   ------------- ----------------- ---------                                                                      
+MON06   ------------- ----------------- ---------                                                                      
+MON06   ------------- ----------------- ---------                                                                      
+MON06   ------------- ----------------- ---------                                                                      
+
 
 DATE     STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 FRI03	TS-----------11am-------------- ---------sankar@psrtek.com  Rajesh.D03@mphasis.com   JPMC 
@@ -33,6 +71,11 @@ FRI03   ------------- -----------------raj-------cynthia
 FRI03   ------------- ----------------- ---------tejaswini_badagouni@aesinc.us.com                 Richmond, VA        19724402076
 FRI03   ------------- ----------------- ---------vineela   anusha                                                       8324315511
 FRI03   ------------- ----------------- ---------                                                                      15713508648 
+
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
+FRI03   ------------- ----------------- ---------                                                                       
 FRI03   ------------- ----------------- ---------                                                                       
 FRI03   ------------- ----------------- ---------                                                                       
 FRI03   ------------- ----------------- ---------                                                                       
