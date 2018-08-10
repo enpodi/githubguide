@@ -15,9 +15,21 @@ Infogain
 
 
 
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+MON13   -------------pm-PST------------ ---------                                                                      
+MON13   -------------pm-PST------------ ---------                                                                      
+MON13   -------------12-1-2pm----------raj-------SURESH               syntel/paypal                                     15108700497
+MON13   ------------------------------- ---------krish  expect sai    syntel/ame express                                16093339000 x41    
+MON13   ------------------------------- ---------                                                                      
+MON13   ------------------------------- ---------                                                                      
+MON13   ------------------------------- ---------                                                                      
+
 DATE    STATUS      TIME              ACONTACT  CNAME                END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 FRI10   -------------pm-PST------------ ---------                                                                      
 FRI10   TS-----------3pm-PST------------ --------karl@teksoftsystems.com                           GladstoneNJ7934    12027799685 lead
+FRI10   -------------pm-PST------------ ---------                                                                      
+
 DATE    STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION             PHONE       PROFILE             QUERIES
 THU09   -------------pm-PST------------ ---------                                                                      
 THU09   TS-----------3pm-PST------------ --------karl@teksoftsystems.com                           GladstoneNJ7934     12027799685 lead
