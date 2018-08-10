@@ -17,16 +17,17 @@ Infogain
 
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
-MON13   -------------pm-PST------------ ---------                                                                      
+MON13   SCHED-waitZoominvite-12:30pm-PST-zoom------ ---------arun.j@tachyontech.com /krish.mujje@tachyontech.com       469-425-3376 Ext 117     
+        When	Mon Aug 13, 2018 12:30pm – 1pm (PDT) Where	https://tachyontech.zoom.us/j/741258162 Who	muralikrishna.c@tachyontech.com, sudhir.arya@atos.net, krish.mujje@tachyontech.com*
 MON13   -------------pm-PST------------ ---------                                                                      
 
 DATE    STATUS      TIME              ACONTACT  CNAME                END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 FRI10   -------------pm-PST------------ ---------                                                                      
-FRI10   TS-----------3pm-PST------------ --------karl@teksoftsystems.com                           GladstoneNJ7934    12027799685 lead
 FRI10   -------------pm-PST------------ ---------                                                                      
 FRI10   -------------12-1-2pm----------raj-------SURESH               syntel/paypal                                    15108700497
 FRI10   SCHED--------12:00-----------------------arun.j@tachyontech.com expect atos                NY                  14694253370
 FRI10   SCHED--------12:15pm----------- ---------krish  expect sai    syntel/ame express                               16093339000 x41    
+FRI03   SCHED--------1pm--------------- ---------geetha.madayala@yash.com   When	Fri Aug 10, 2018 1pm – 1:30pm (PDT) Who	Bala Krishna Pallinti, Anil Rao, Geetha Madayala*                                                              13126839888 
 FRI10   -------------fulltimenottotake- ---------kiranZtec                                                                      
 FRI10   ------------------------------- ---------sunny  lakshmi.v@saranshtech.com                                      16092012676
 FRI10   ------------------------------- ---------mehul.shah_3@tnmhr.com                            Eden Prairie, MN    12489861021
@@ -34,6 +35,15 @@ FRI10   ------------------------------- ---------arun.j@tachyontech.com         
 FRI10   ------------------------------- ---------chetana                                                               14084423662 xneeded
 FRI10   ------------------------------- ---------arun idc                                          california          14086689522
 FRI10   ------------------------------- ---------                                                                      13469982226
+FRI10   -------------2pm-PST----------- ---------kvalli   expect                                                       1678
+FRI10   ------------------------------- ---------ruda idc                                                              14086689713
+FRI03   ------------- ----------------- ---------anil yash      malk                                                    2812651545
+FRI10   ------------------------------- ---------navya                                                                 15104430090
+FRI10   ------------------------------- ---------                                                                      13092038409
+FRI10   ------------SCREENING---------- ---------geetha.madayala@yash.com / balak            yashtechnologies    illinois    18059915899   sboot angular,react,res  aws,angular  2nd                              
+FRI10   ------------------------------- ---------                                                                      19088223593
+FRI10   ------------------------------- ---------Navyatha ntalluri@nisum.com                                                                      
+FRI10   ------------------------------- ---------                                                                      
 FRI10   ------------------------------- ---------                                                                      
 FRI10   ------------------------------- ---------                                                                      
 FRI10   ------------------------------- ---------                                                                      
@@ -160,7 +170,7 @@ FRI03	TS-----------11am-------------- ---------sankar@psrtek.com  Rajesh.D03@mph
 		Where	https://bluejeans.com/260581940    Who	daniel.suresh.vinukonda@chase.com, Maunesh Sahoo, manish.rauniyar@chase.com, Rajesh D03*
 		feedback  
 FRI03	TS-----------12pm-------------- ---------vineela.vings@gmail.com
-FRI03   TS----------15pm-16pm PST------raj-------surendra@iTechUS.net
+
 FRI03   -----------------------------------------venkatesh.b@axiustek.com                                         17037386662 x2243
 FRI03   ------------- ----------------- ---------sankar@psrtek.com    JPMC                         Tampa or Chicago    16093186109                  
 FRI03   hrinish-shashank.s@cynetsystems.com  represent cynetsystems.com in front of client  workforceservices saltlake 15716455905 
@@ -173,7 +183,6 @@ FRI03   ------------- ----------------- ---------tejaswini_badagouni@aesinc.us.c
 FRI03   ------------- ----------------- ---------vineela   anusha                                                       8324315511
 FRI03   ------------- ----------------- ---------                                                                      15713508648 
 
-FRI03   ------------- ----------------- ---------                                                                       
 FRI03   ------------- ----------------- ---------                                                                       
 FRI03   ------------- ----------------- ---------                                                                       
 FRI03   ------------- ----------------- ---------                                                                       
