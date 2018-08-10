@@ -16,19 +16,29 @@ Infogain
 
 
 
-DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 MON13   -------------pm-PST------------ ---------                                                                      
 MON13   -------------pm-PST------------ ---------                                                                      
-MON13   -------------12-1-2pm----------raj-------SURESH               syntel/paypal                                     15108700497
-MON13   ------------------------------- ---------krish  expect sai    syntel/ame express                                16093339000 x41    
-MON13   ------------------------------- ---------                                                                      
-MON13   ------------------------------- ---------                                                                      
-MON13   ------------------------------- ---------                                                                      
 
 DATE    STATUS      TIME              ACONTACT  CNAME                END CLIENT                    LOCATION            PHONE       PROFILE             QUERIES
 FRI10   -------------pm-PST------------ ---------                                                                      
 FRI10   TS-----------3pm-PST------------ --------karl@teksoftsystems.com                           GladstoneNJ7934    12027799685 lead
 FRI10   -------------pm-PST------------ ---------                                                                      
+FRI10   -------------12-1-2pm----------raj-------SURESH               syntel/paypal                                    15108700497
+FRI10   SCHED--------12:00-----------------------arun.j@tachyontech.com expect atos                NY                  14694253370
+FRI10   SCHED--------12:15pm----------- ---------krish  expect sai    syntel/ame express                               16093339000 x41    
+FRI10   -------------fulltimenottotake- ---------kiranZtec                                                                      
+FRI10   ------------------------------- ---------sunny  lakshmi.v@saranshtech.com                                      16092012676
+FRI10   ------------------------------- ---------mehul.shah_3@tnmhr.com                            Eden Prairie, MN    12489861021
+FRI10   ------------------------------- ---------arun.j@tachyontech.com                            NY                  14694253370
+FRI10   ------------------------------- ---------chetana                                                               14084423662 xneeded
+FRI10   ------------------------------- ---------arun idc                                          california          14086689522
+FRI10   ------------------------------- ---------                                                                      13469982226
+FRI10   ------------------------------- ---------                                                                      
+FRI10   ------------------------------- ---------                                                                      
+FRI10   ------------------------------- ---------                                                                      
+FRI10   ------------------------------- ---------                                                                      
+
 
 DATE    STATUS      TIME              ACONTACT  CNAME               END CLIENT                    LOCATION             PHONE       PROFILE             QUERIES
 THU09   -------------pm-PST------------ ---------                                                                      
