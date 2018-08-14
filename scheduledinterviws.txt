@@ -27,7 +27,9 @@ THU     F2FSCHEDULED ------------------ ---------beryl  bbalamurugan@altimetrik.
 		
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 WED15   wairforinvite	10am pst ----------------Nitesh.Ingale@synechron.com / Asif @ 415 696 3388   macon georgia atlanta      17047801633
-WED15   TS waitforTs supreeth.b@brillio.com  19088223593
+WED15   TS waitforTs  3:30 pst ----expect interviewer wasn from brillio   end client fredimark-> mortgage------- supreeth.b@brillio.com  19088223593   
+		string pool, SQL/PLSQL, demon thread, maven, git, multi threading, spring mvc, weblogic, apache
+		https://brillio.zoom.us/j/328568519
 WED15   SCHE--------10:30am---------------------arun.j@tachyontech.com / krish.mujje@tachyontech.com
 		When	Wed Aug 15, 2018 10:30am – 11am (PDT) Where	https://tachyontech.zoom.us/j/346424221   Who	ramesh.k@tachyontech.com, sudhir.arya@atos.net, krish.mujje@tachyontech.com*
 WED15	waitforinvitation  vus		30pm pst                      supreet
