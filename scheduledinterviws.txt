@@ -15,7 +15,11 @@ Infogain
 nitin.dahiya@idctechnologies.com     ENRIQUE WE DON’T WORK WITH IDC
 HackerRank.com
 
-
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+THU     F2FSCHEDULED ------------------ ---------beryl  bbalamurugan@altimetrik.com  paypal        san jose 2:30pm-3pm thursday                                                                      
+		When	Thu Aug 16, 2018 2pm – 3:30pm (PDT) Where	2211 N 1st St, San Jose, CA 95131,USA. Who	Shirke, suchita, Subramanian, Megha(AWF, Thirukumaran Muthiah, Balaji Balamurugan*
+        Team : Risk Payments 		Role : Java Engineer   
+		Location : 2211 N 1st St, San Jose, CA 95131,USA. 		Room : TBD
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 WED     TS waitforTs supreeth.b@brillio.com  19088223593
 
@@ -26,7 +30,17 @@ TUE14   ------------ ------------------ ---------
 TUE14   TS---------11am---------------grace----damodar_singh@agilees.com
 TUE14   TS---------2pm---------------grace----damodar_singh@agilees.com
                    12:30pm pst
-
+TUE14   ------------w2nottotake-------- ---------nambrita                                          ohio,               17327196138
+TUE14   ------------ ------------------ ---------ajith@krgtech.com    apple                                            16615580000 sr
+TUE14   ------------ ------------------ ---------                                                                      17047135137
+TUE14   ------------w2nottotake-------- ---------abhiraj.aditya432@gmail.com   expect amit         LA f2f              14084423663
+TUE14   ------------ ------------------faruk mohamed allience ---mohdabdul.waseem@idctechnologies.com     3pm-6pm       wipro capital one, 14086481846
+TUE14   ------------ ------------------ ---------beryl altimetrics                                             
+TUE14   ------------ ------------------ --------- jacob@aesinc.us.com                              Quincy, MA          19724400078
+TUE14   ------------5:30 pst --by phone ---------pavan codeforce   ande   jpm morgan expect pretem arkshal                                                              
+TUE14   ------------ ------------------ ---------                                                                      
+TUE14   ------------ ------------------ ---------                                                                      
+TUE14   ------------ ------------------ ---------                                                                      
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 MON13   ------------- 10:30 AM PST to 11:30 AM PST   pm-PST------------ ---------	jaibalaji.t@infogain.com                                                                      
