@@ -782,3 +782,174 @@ Does this distinction really matter? When developing data quality management and
     </ul>
     
   `
+  
+  
+  
+  
+  
+  
+ /**
+         * This method is used to fetch the last handset lookup  or excel details by current user from the <b>HANDSET_LOOKUP_REPORT</b>
+         * table
+         *
+         * @param  currentTimestamp Timestamp
+         * @param  userId String
+         * @throws HandsetException
+         * @return HandsetLookup instance
+         */
+        public HandsetLookup getLastExcelByUserAndTimestamp(Timestamp currentTimestamp, String userId)throws HandsetException{
+                log.debug("In getLastExcelByUser method");
+
+                HttpSession session = ServletActionContext.getRequest().getSession(
+                                false);
+
+                Connection connection = null;
+                PreparedStatement preparedSt = null;
+                HandsetLookup handsetLookup = null;
+
+                try {
+                        connection=DBUtility.getConnection();
+                        preparedSt = connection.prepareStatement(QueryCollection.Hl_lAST_LOOKUP_QUERY_BY_TIMESTAMP);
+                        preparedSt.setString(1, userId);
+                        preparedSt.setTimestamp(2, (Timestamp)session.getAttribute("timestamp"));
+                        ResultSet rs = preparedSt.executeQuery();
+
+                        if(rs != null) {
+                                rs.next();
+                                        handsetLookup = new HandsetLookup();
+                                        handsetLookup.setUserId(rs.getString("USER_ID"));
+                                        handsetLookup.setLoadedDate(rs.getTimestamp("LOADED_DATE"));
+                                        handsetLookup.setFileName(rs.getString("FILE_NAME"));
+                                        handsetLookup.setTotalLoadedHandset(rs.getInt("TOTAL_LOADED_HANDSET"));
+                                        handsetLookup.setLookupedHandset(rs.getInt("LOOKUPED_HANDSET"));
+                                        handsetLookup.setNotLookupedHandset(rs.getInt("NOT_LOOKUPED_HANDSET"));
+                                        handsetLookup.setExcelReportName(rs.getString("REPORT_NAME"));
+                                rs.close();
+                        }
+                } catch (Exception ex) {
+                        log.error("Error occurred while getting lookup data ",ex);
+                        throw new HandsetException("message.error.getting.lookup.data",ex);
+                } finally {
+                        try {
+                                if(preparedSt != null) {
+                                        preparedSt.close();
+                                }
+                                if(connection != null) {
+                                        connection.close();
+                                }
+                        } catch (SQLException e) {
+                                log.error("message.error.closing.the.connection", e);
+                        }
+                }
+                log.debug("End getHandsetLookupList method");
+                return handsetLookup;
+        }
+
+        /**
+         * This method is used to call the procedure <b>HL_LOOKUP_VALIDATION_PR(?,?,?,?,?,?,?,?)</b>
+         *
+         * @param  handsetLookup HandsetLookup
+         * @param  currentTimestamp Timestamp
+         * @param  userId String
+         * @throws HandsetException
+         * @return handsetLookup HandsetLookup
+         */
+        public Map<String,String> getHandsetUploadResult(HandsetLookup handsetLookup, Timestamp currentTimestamp, String userId) throws HandsetException{
+                log.debug("In getHandsetUploadResult method");
+                HttpSession session = ServletActionContext.getRequest().getSession(false);
+                Map<String,String> resultMap = new HashMap<String, String>();
+                Connection connection = null;
+                CallableStatement callableSt = null;
+                log.debug("START CALL HL_LOOKUP_VALIDATION_PR");
+                try {
+                        connection=DBUtility.getConnection();
+                        callableSt = connection.prepareCall(QueryCollection.CALL_LOOKUP_VALIDATION);
+                        callableSt.setString(1, userId);
+                        callableSt.setString(2, handsetLookup.getFileName());
+                        callableSt.setTimestamp(3, currentTimestamp);
+                        callableSt.registerOutParameter(4, java.sql.Types.NUMERIC );
+                        callableSt.registerOutParameter(5, java.sql.Types.NUMERIC );
+                        callableSt.setString(6, handsetLookup.getRegion());
+                        callableSt.setInt(7,count);
+                        callableSt.setString(8, handsetLookup.getExcelReportName());
+                        callableSt.setString(9, session.getId());
+                        callableSt.execute();
+                        resultMap.put("successCount",String.valueOf(callableSt.getInt(4)));
+                        resultMap.put("errorCount",String.valueOf(callableSt.getInt(5)));
+                } catch (SQLException sqlex) {
+                        log.error("Error occurred while uploading the file ",sqlex);
+//                      throw new HandsetException("message.error.uploading.the.file",ex);
+                        throw new HandsetException(sqlex.getMessage(),sqlex);
+                } catch (Exception ex) {
+                        log.error("Error occurred while uploading the file ",ex);
+                } finally {
+                        try {
+                                if(callableSt != null) {
+                                        callableSt.close();
+                                }
+                                if(connection != null) {
+                                        connection.close();
+                                }
+                        } catch (SQLException e) {
+                                log.error("message.error.closing.the.connection", e);
+                        }
+                }
+                log.debug("END CALL HL_LOOKUP_VALIDATION_PR");
+                log.debug("End getHandsetUploadResult method");
+                return resultMap;
+        }
+
+		
+		
+
+		
+		
+		
+
+public class DBUtility {
+
+        /**
+         * This method is used to get the connection to the database
+         *
+         * @return connection Connection
+         */
+        /*public static Connection getConnection() {
+                Connection connection = null;
+                try {
+                        String driver = DBHelper.dbDriver;
+                        String url = DBHelper.dbURL;
+                        String user = DBHelper.dbUser;
+                        String password = DBHelper.dbPassord;
+
+                         *//** System.out.println("driver===" + driver);
+                         * System.out.println("url===" + url); System.out.println("user==="
+                         * + user); System.out.println("password===" + password);*//*
+
+                        Class.forName(driver);
+                        connection = DriverManager.getConnection(url, user, password);
+                } catch (ClassNotFoundException e) {
+                        e.printStackTrace();
+                } catch (SQLException e) {
+                        e.printStackTrace();
+                }
+                return connection;
+        }*/
+
+        /**
+         * This method is used to get the jndi connection to the database
+         *
+         * @return connection Connection
+         */
+        public static Connection getConnection() {
+                DataSource ds = null;
+                Connection connection = null;
+                try {
+                        ds =(DataSource) new InitialContext().lookup(DBHelper.dbJndi);
+                        connection = ds.getConnection();
+                }catch (SQLException e) {
+                        e.printStackTrace();
+                } catch(Exception e){
+                        e.printStackTrace();
+                }
+                return connection;
+        }
