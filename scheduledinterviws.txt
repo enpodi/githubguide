@@ -27,6 +27,20 @@ THU16   ------------ ------------------ ---------
 THU16   ------------ ------------------ ---------                                                                      
 THU16   SCHED-------7am PST-skype------ ---------Rohit Srivastav rohit.ramy90@gmail.com     / sam@kanisol.com                                                                 
 		When	Thu Aug 16, 2018 7am – 7:45am (PDT)  Where	Skype id: enpodi25 / Contact: 415 715 7029 Who	sam@kanisol.com, Elanthiraiyan Subramani*
+		FEEDBACK   interviewer   skypeId Pranob Samani    virtusa pranuva      first data ca   mountain view ca,  several small teams  5, developer   backend restfull .   play framework, aws, postman 
+		how to join two arrays and count number of times for repeated elements
+		how to fin repeated values in a set of (k,v).  for instance k is book reservation   and client is value. So a client doesn't reserve two times the same fligth
+        why is pathparam used instead of query param	
+		https://softwareengineering.stackexchange.com/questions/270898/designing-a-rest-api-by-uri-vs-query-string		
+		Query components are for retrieval of non-hierarchical data; there are few things more hierarchical in nature than a family tree! 
+		Ergo, regardless of whether you think it is "REST-y" or not, to conform to the formats, protocols, and frameworks of developing on the internet, you must not use the query string to identify this information.
+		https://stackoverflow.com/questions/11552248/when-to-use-queryparam-vs-pathparam
+		If there is a scenario to retrieve a record based on id, for example you need to get the details of the employee whose id is 15, then you can have resource with @PathParam.
+		GET /employee/{id}
+		If there is a scenario where you need to get the details of all employees but only 10 at a time, you may use query param
+		GET /employee?start=1&size=10
+		This says that starting employee id 1 get ten records.
+
 THU16     F2FSCHEDULED ------------------ ---------beryl  bbalamurugan@altimetrik.com  paypal        san jose 2:30pm-3pm thursday                                                                      
 		When	Thu Aug 16, 2018 2pm – 3:30pm (PDT)
 		Where	2211 N 1st St, San Jose, CA 95131,USA.//SJN/14.3.045 RULES
@@ -56,13 +70,16 @@ WED15   SCHED-------3:30 pst ----supreeth.b@brillio.com   end client fredimark->
 		string pool, SQL/PLSQL, demon thread, maven, git, multi threading, spring mvc, weblogic, apache
 		https://brillio.zoom.us/j/328568519
 		Front End Development
-	JavaScripts (Bootstrap JS) JQuery Spring MVC Junit (Mockito Framwework) Front end / Back end   J
-WED15	waitforinvitation  vus		3:30pm pst     supreeth.b@brillio.com                 supreet
+	JavaScripts (Bootstrap JS) JQuery Spring MVC Junit (Mockito Framwework) Front end / Back end   
 WED15   ------------ ------------------raj-------satya@rwaltz.com   washington                                         14702310488
 WED15   ------------ ------------------ ---------                                                                      16502428223
 WED15   ------------ ------------------ ---------Sunita.Rani@artech.com  accenture ci/cd                               19732954576
 WED15   ------------ ------------------raj-------     infosystems                                  ny                  17324901408
 WED15   ------------ ------------------ ---------harishwar_paramati@insoursysinc.com              syntel/amex          19724400086
+WED15   ------------ ------------------ ---------bala kkasociates                                 dallas, ny           16144419543
+WED15   ------------ ------------------hrinish---peter@conq-tech.com                               New York City, NY   13022869010 x104
+WED15   ------------ ------------------ ---------                                                                      
+WED15   ------------ ------------------ ---------                                                                      
 WED15   ------------ ------------------ ---------                                                                      
 WED15   ------------ ------------------ ---------                                                                      
 WED15   ------------ ------------------ ---------                                                                      
