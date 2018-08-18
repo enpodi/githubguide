@@ -12,22 +12,78 @@ WED14   SCHEDULED----5:30pm------andy.nair@codeforce.com-----skypeid jaideep.har
 		When	Tue Aug 14, 2018 5:30pm – 6:30pm (PDT) Where	Telephonic - 07:30 PM CDT, Aug 14th Who	sumanth.prakash@accenture.com, 'Anil Agrawal, Aditya' (aditya.anil.agrawal@accenture.com)...
         skypeid jaideep.haryani		someone will get in contact from Accenture jpmorgan accenture   maybe chicago, lead java 6 months, existing team, unit test, integration, selenium, cucumber, 
 
-DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
-SAT18   visa saturday----------------------------shrikantp@apex-2000.com          visa saturday                        17032910958
-
 BLACKLIST
 ravi@resource-logistics.com    raj deep:    no don't send him because after six months of project they want c2h
 Infogain
 nitin.dahiya@idctechnologies.com     ENRIQUE WE DON’T WORK WITH IDC
 HackerRank.com
 
+8110294013  laura valdez houston
+
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+TUE21   TS  --------10am pst ------------------  Jyotsna.Gupta@artech.com                          Baton Rouge , LA    19732954561  
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+MON20   TS----------10am pst ------------------  Jyotsna.Gupta@artech.com                          Baton Rouge , LA    19732954561                                                                      
+
+   
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+SAT18   PX ARIZONA NOT TO TAKE     WALK N DRIVE visa saturday----shrikantp@apex-2000.com          visa saturday                        17032910958
+SAT18   TS----------10am--------------- ---------rahul@lorventech.com>                             NYC, NY             16097994202 x230
+SAT18   TS----------12pm--------------- ---------rahul@lorventech.com>                             NYC, NY             16097994202 x230
+SAT18   TS----------3pm --------------- ---------rahul@lorventech.com>                             NYC, NY             16097994202 x230
+
+
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+FRI17   SCHEDULED---9am---------------- ---------michael.obrien@artech.com When	Fri Aug 17, 2018 9am – 9:30am (PDT)
+		Where	Direct Call...........Best No- (415) 715-7029 Who	Terrie R Johnson, Jamie Scott Richardson (Jamie.Scott.Richardson@ibm.com), Kristie Loupe (kloupe@us.ibm.com)                                                                      
+FRI17   ------------ ------------------ ---------                                                                      
+FRI17   ------------ ------------------ ---------                                                                      
+FRI17   ------------ ------------------ ---------                                                                      
+FRI17   ------------ ------------------ ---------anamika@csican.com   virtusa                      ohio                14163646376 x2063/18662744848 x2063
+FRI17   ------------ ------------------ ---------VivekS@sysmind.com                                Sunnyvale, CA       16098979670 x3529  LEAD  1-Java 2-REST web service 3-Spring framework
+FRI17   ------------ ------------------ ---------Jyotsna.Gupta@artech.com                          Baton Rouge , LA    19732954561  
+FRI17   ------------ ------------------ ---------rkotla@aptude.com                                 Grand Rapids MI     16303645615 x104 SR REST / JSON o SOAP / XML         
+FRI17   ------------ ------------------ ---------Nidhi.Dhawan@artech.com                           Dallas, TX          19739673381                                                                      18476275199
+FRI17   ------------w2nottotake-------- ---------sadarth idctech                                   ny                  14088826518
+FRI17   ------------ ------------------ ---------rakesh@aitrg.com                                  Dallas, TX          18722396961 Java PL/SQL Developer @                           
+FRI17   ------------ ------------------ ---------yogendra.kumar@nityo.com                          ohio                16098530818
+FRI17   ------------ ------------------ ---------rahul@lorventech.com>                             NYC, NY             16097994202 x230
+FRI17   ------------ ------------------ ---------rajesh@celticbluetech.com /varun                  ny or washi         16093105165
+FRI17   ------------ ------------------ ---------mahendra@kksoftwareassociates.com                 washington          16148592951                                           
+FRI17   ------------ ------------------sunil-----rsteve@futransolutions.com expect sahi            Houston, TX         16099451939
+FRI17   ------------ ------------------ ---------vincent@skyrpo.com                     St.Louis,MO & Minneapolis,MN   16174184334
+FRI17   ------------ ------------------ ---------balak               visa                          phoenix             16144419543
+FRI17   ------------ ------------------ ---------sam /   atul                                                          16312674883 scala
+FRI17   ------------ ------------------ ---------                                                                      
+FRI17   ------------ ------------------ ---------                                                                      
+FRI17   ------------ ------------------ ---------                                                                      
+FRI17   ------------ ------------------ ---------                                                                      
+
+Questions:
+How java collections API works internally
+What collections class you would use in order to gain faster element access
+What collections class you would use in order to gain faster element addition/aggregation
+Explain polymorphism
+Explain concurrency
+Program palindrome function 
+Given an n x n matrix which only contains integer numbers, and given a number K, find the matrix position (indexes) where K is located
+Given a service A, which consumes the services: B, C, D and E, whose response time is 600 ms, 1200 ms, 500 ms and 800 ms respectively, what is the best way the for service A to no take more than 2000 ms on its execution?
+What approach would you take in order to debug an application which is taking to much time to return a response?
+Given an integer array, for example: [5,7,91,3,44,1,12,6,8,10] and a number n find all the couple of number which sum n 
+Regards!
+
+
+
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 THU16   ------------ ------------------ ---------                                                                      
-THU16   ------------ ------------------ ---------                                                                      
-THU16   ------------ ------------------ ---------                                                                      
+                                                                
 THU16   SCHED-------7am PST-skype------ ---------Rohit Srivastav rohit.ramy90@gmail.com     / sam@kanisol.com                                                                 
 		When	Thu Aug 16, 2018 7am – 7:45am (PDT)  Where	Skype id: enpodi25 / Contact: 415 715 7029 Who	sam@kanisol.com, Elanthiraiyan Subramani*
-		FEEDBACK   interviewer   skypeId Pranob Samani    virtusa pranuva      first data ca   mountain view ca,  several small teams  5, developer   backend restfull .   play framework, aws, postman 
+		FEEDBACK   interviewer   skypeId Pranob Samani  17044960873  implementer virtusa  EndClient first data ca   mountain view ca,  several small teams  5, developer   backend restfull .   play framework, aws, postman 
 		how to join two arrays and count number of times for repeated elements
 		how to fin repeated values in a set of (k,v).  for instance k is book reservation   and client is value. So a client doesn't reserve two times the same fligth
         why is pathparam used instead of query param	
@@ -40,8 +96,10 @@ THU16   SCHED-------7am PST-skype------ ---------Rohit Srivastav rohit.ramy90@gm
 		If there is a scenario where you need to get the details of all employees but only 10 at a time, you may use query param
 		GET /employee?start=1&size=10
 		This says that starting employee id 1 get ten records.
-
-THU16     F2FSCHEDULED ------------------ ---------beryl  bbalamurugan@altimetrik.com  paypal        san jose 2:30pm-3pm thursday                                                                      
+    
+THU16   ------------12:30-13 ------------------ ---------Nitesh.Ingale@synechron.com    Dial : 888 444 7770 ; Code : 307475#  
+		Where	Bridge no : 888 444 7770 ; Passcode : 307475#
+THU16   F2FSCHEDULED ------------------ ---------beryl  bbalamurugan@altimetrik.com  paypal        san jose 2:30pm-3pm thursday                                                                      
 		When	Thu Aug 16, 2018 2pm – 3:30pm (PDT)
 		Where	2211 N 1st St, San Jose, CA 95131,USA.//SJN/14.3.045 RULES
 		Who	Vaidyanathan, Sriraj, uttam@allianceit.com, Thirukumaran Muthiah, Shirke, suchita...
@@ -50,11 +108,11 @@ THU16     F2FSCHEDULED ------------------ ---------beryl  bbalamurugan@altimetri
         Team : Risk Payments 		Role : Java Engineer   
 		Location : 2211 N 1st St, San Jose, CA 95131,USA. 		Room : TBD
 THU16   ------------ ------------------ ---------                                                                      
-THU16   ------------ ------------------ ---------                                                                      
-THU16   ------------ ------------------ ---------                                                                      
-THU16   ------------ ------------------ ---------                                                                      
-THU16   ------------ ------------------ ---------                                                                      
-THU16   ------------ ------------------ ---------                                                                      
+THU16   ------------ ------------------ ---------abhijeet.mishra@talentburst.com  Software Engineer III in San Diego, CA 5088480311                                                                    
+THU16   ------------ ------------------hrinish----puneet@kanisol.com                                Mountain View, CA   16094225490
+THU16   ------------ ------------------ ---------Nitesh.Ingale@synechron.com   wells fargo.                                                                      
+THU16   ------------ ------------------ ---------Rohit Srivastav rohit.ramy90@gmail.com Tavant in New York                                                                      
+THU16   ------------ ------------------grace-----Govinda govind@keylent.com                        philadelphia         14079822040
 THU16   ------------ ------------------ ---------                                                                      
 THU16   ------------ ------------------ ---------                                                                      
 		
