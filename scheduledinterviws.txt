@@ -22,10 +22,36 @@ HackerRank.com
 
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+
+WED22   TS            3pm                        bkaur@softniceinc.com HCL/BNSF            Fort Worth, TX & Topeka, KS 16102686405
+
 TUE21   TS  --------10am pst ------------------  Jyotsna.Gupta@artech.com                          Baton Rouge , LA    19732954561  
+TUE21   ------------ ------------------ ---------rabin acetech                                                                      
+TUE21   SCHED-------7.30pm PST---------krishna@concursoft.com-kamal@techgenomics.com               San Francisco, CA   14043820435 ws
+		chaitu@techgenomics.com
+		When	Tue Aug 21, 2018 7:30pm – 8:30pm (PDT) Where	415 715 7029 Who	chickoo.chawda@matrixintel.com, patrick.nelson@matrixintel.com, 'Ram Alluri'...
+TUE21   ------------ ------------------ ---------                                                                      
+TUE21   ------------ ------------------ ---------                                                                      
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
-MON20   TS----------10am pst ------------------  Jyotsna.Gupta@artech.com                          Baton Rouge , LA    19732954561                                                                      
+MON20   SCHED by phone-12am------------sunil-----rsteve@futransolutions.com expect sahi            Houston, TX         16099451939
+		
+MON20   SCHED-------11am PST --------------------Jyotsna.Gupta@artech.com  IBM                     Baton Rouge , LA    19732954561                                                                      
+		michael.obrien@artech.com
+		When	Mon Aug 20, 2018 12pm – 12:30pm (PDT) Where	Direct Call Who	Jamie Scott Richardson (Jamie.Scott.Richardson@ibm.com), Michael O'Brien*
+		FEEDBACK   jamie.scott.richardson@ibm.com IBM 17692513529 decoupling large communications project. camunda. node js. mongo db. jenkins. docker. kubernetes.
+MON20   ------------ ------------------ ---------                                                                      
+MON20   ------------ ------------------ ---------                                                                      
+MON20   ------------ ------------------krishna@concursoft.com-kamal@techgenomics.com               San Francisco, CA   14043820435                                   
+MON20   ------------ ------------------ ---------robin@acetechnologies.com                                             14084423662 x4271 plsql SOA Webservices                         
+MON20   ------------ ------------------s.kumar---bhavana@apetan.com                                Indiannapolis,IN    12016209700 x115 primefaces                 
+MON20   ------------ ------------------ ---------bkaur@softniceinc.com HCL/BNSF            Fort Worth, TX & Topeka, KS 16102686405
+MON20   ------------ ------------------s.kumar---shekhar@cygnuspro.com                                                 17324850000 x9068                     
+MON20   ------------3pm PST--by phone--s.kumar---Nidhi.Dhawan@artech.com IBM expect manager rashish Dallas, TX         19739673381                      
+MON20   ------------ ------------------ ---------                    TCS                                               12483121758
+MON20   ------------ ------------------ ---------                                                                      
+MON20   ------------ ------------------ ---------                                                                      
+MON20   ------------ ------------------ ---------                                                                      
 
    
 
