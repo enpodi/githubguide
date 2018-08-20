@@ -953,3 +953,57 @@ public class DBUtility {
                 }
                 return connection;
         }
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+import java.util.regex.*;
+import java.util.Scanner;
+class MyRegex extends Solution {
+    
+    private Pattern pattern;
+    private Matcher matcher;
+    public String ip;
+    
+    private static final String patternS ="^([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+        "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+        "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+        "([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
+    
+    public MyRegex(String iP) { 
+       pattern = Pattern.compile(patternS);
+        //System.out.println("passing here 01");
+        this.ip = iP;
+        //System.out.println("passing here 02 ip >>>>"+this.ip);
+    }
+    
+    public boolean isMatch() {
+        //System.out.println("passing here 03");
+        matcher = pattern.matcher(ip);
+      return matcher.matches();     
+    }
+}
+
+
+class Solution {
+	
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		while(in.hasNext()) {
+			String iP = in.next();
+            MyRegex mr = new MyRegex(iP);
+			System.out.println(mr.isMatch());
+		}
+        in.close();
+	}
+}
+
