@@ -49,7 +49,9 @@ MON20   ------------ ------------------ ---------bkaur@softniceinc.com HCL/BNSF 
 MON20   ------------ ------------------s.kumar---shekhar@cygnuspro.com                                                 17324850000 x9068                     
 MON20   ------------3pm PST--by phone--s.kumar---Nidhi.Dhawan@artech.com IBM expect manager rashish Dallas, TX         19739673381                      
 MON20   ------------ ------------------ ---------                    TCS                                               12483121758
-MON20   ------------ ------------------ ---------                                                                      
+MON20   ------------ ------------------krishna---amisha@erostechnologies.com                                           15165450717
+MON20   ------------ ------------------ ---------rachna.gupta@tekfortune.com  LA care expect Ravi  Los Angeles, CA     17324225947
+MON20   ------------ ------------------ ---------                    tech ford motors              michigan             jsf primefaces
 MON20   ------------ ------------------ ---------                                                                      
 MON20   ------------ ------------------ ---------                                                                      
 
