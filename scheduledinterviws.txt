@@ -23,13 +23,50 @@ HackerRank.com
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 
-WED22   TS            3pm                        bkaur@softniceinc.com HCL/BNSF            Fort Worth, TX & Topeka, KS 16102686405
+THU23   ------------ ------------------ ---------                     -                            -                   -           -
+THU23   ------------ ------------------ ---------                     -                            -                   -           -     
 
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+WED22   ------------ ------------------ ---------                                                                      
+WED22   SCHEDULED---10am PST 1pm EST---raj--krish@softcomsystems.com/HCL represent softcom expect Jackdeep (17813522625)singh@maximaconsulting.com   boston  16093339000 x41     
+WED22   ------------10am---------------krishna---amisha@erostechnologies.com                                           15165450717
+WED22   TS          3pm---------------- ---------bkaur@softniceinc.com HCL/BNSF            Fort Worth, TX & Topeka, KS 16102686405
+WED22   SCHEDULED---3pm---------------- ---------
+		hetal.patel@aricent.com
+		When	Wed Aug 22, 2018 3pm – 3:30pm (PDT) Where	Webex video call Who	Terrance Dunbar, Ashish Palse, Prabal, Hetal Patel*
+		https://onemeeting.webex.com/onemeeting/j.php?MTID=m5b2ca0a0a420bc3241139ee772e02dfd
+WED22   TS----------4pm----------------raj-------ash@icloudnow.com  Kris 9198302890 AMEX phx, az online test           17139319143
+WED22   TS----------6pm to 9pm--LOCKED-grace-----sam@rapidinfotech.com SKYPE interviewerTejas Jain Seattle, WA         17326598043           -
+WED22   ------------ ------------------ ---------                     -                            -                    
+WED22   ------------ ------------------ ---------                     -                            -                   -           -
+WED22   ------------ ------------------ ---------                     -                            -                   -           -
+WED22   ------------ ------------------ ---------                     -                            -                   -           -
+
+
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 TUE21   TS  --------10am pst ------------------  Jyotsna.Gupta@artech.com                          Baton Rouge , LA    19732954561  
 TUE21   ------------ ------------------ ---------rabin acetech                                                                      
-TUE21   SCHED-------7.30pm PST---------krishna@concursoft.com-kamal@techgenomics.com               San Francisco, CA   14043820435 ws
+TUE21   SCHED-------5pm--------------------------ankesh@zodiac-solutions.com deployment support
+TUE21   SCHED-CANCE-6:30-7:30pm PST----grace-----sam@rapidinfotech.com SKYPE interviewerTejas Jain Seattle, WA         17326598043           -
+TUE21   SCHED-------7:30pm PST---------krishna@concursoft.com-kamal@techgenomics.com               San Francisco, CA   14043820435 ws
 		chaitu@techgenomics.com
 		When	Tue Aug 21, 2018 7:30pm – 8:30pm (PDT) Where	415 715 7029 Who	chickoo.chawda@matrixintel.com, patrick.nelson@matrixintel.com, 'Ram Alluri'...
+TUE21   ---------teswillbesharedat12am-krishna---ankesh@zodiac-solutions.com  expect Coding From Vishnu Hexaware Herndon VA          14844364310 Design architecture, reusable components and frameworks./   Work on Integration using Web Services and EJB preferably on WebLogic platform
+TUE21   ------------ ------------------ ---------ankesh@zodiac-solutions.com  att newjersey                            14844364310
+TUE21   ------------RTR sent-----------raj-------ash@icloudnow.com  Kris 9198302890 AMEX phx, az online test           17139319143
+TUE21   ------------ ------------------ ---------shishir.shekhar@intelliswift.com                  San Jose, CA        15103704457 Back-End Application engineers
+TUE21   ------------ ------------------ ---------balu@deegit.com      -                            San Diego, CA       18474402436 x331           -
+TUE21   ------------ ------------------ ---------atul@eteaminc.com    -                            Palo Alto, CA       17327234168 -
+TUE21   -------------------------------Dheeraj---neha@itfsinc.com     -                            houston TX          19728058123 2EE, Spring, Hibernate, Restful
+TUE21   ------------ ------------------ ---------shekar call manager rohin 7328093300  paypal                          17324850000          -
+TUE21   ------------ ------------------ ---------Ravi / rachna.gupta@tekfortune.com  hcl america   -                   17324225931  integration
+TUE21   ------------ ------------------ ---------Jag jsingh@maximaconsulting.com                   -                   17813522625 
+TUE21   ------------ ------------------raj-------ravi@eappstech.com  Globallogic/google expect sayep Sunnyvale, CA     19193416167 Java UI
+TUE21   stayintouch- ------------------ --------- techsystems                                      sacramento          19168593247
+TUE21   ------------ ------------------ ---------                                                                      
+TUE21   ------------ ------------------ ---------                                                                      
 TUE21   ------------ ------------------ ---------                                                                      
 TUE21   ------------ ------------------ ---------                                                                      
 
