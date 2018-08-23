@@ -11,12 +11,15 @@ HackerRank.com
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 
-THU23   SCHEDULED---3pm --------------- ---------ankesh@zodiac-solutions.com                       Herndon VA          14844364310  -
+
 THU23   SCHEDULED---8am PST ---------- ----------gloria_max@aesinc.us.com                          Mt. Laurel NJ       19724400069 JAX-RS - Java API for RESTful Web Services-L3 (Mandatory)     
+THU23   SCHEDULED---10am---I ASKED FOR WEBEX LINK-gloria_max@aesinc.us.com When	Thu Aug 23, 2018 10am – 11am (PDT) Where	Mt. Laurel NJ Who	'Minesh Jhaveri', Haritha Pendyala, SUNIL, Sreenath Aramadaka, Gloria Max*
+THU23   SCHEDULED---3pm --------------- ---------ankesh@zodiac-solutions.com                       Herndon VA          14844364310  -
 THU23   ------------ ------------------sunil-----amit.goyal@us.insigmainc.com                      -                   17033449674 
 THU23   ------------12pm PST----------- ---------
-THU23   ------------ ------------------ ---------                     -                            -                   -           -
-THU23   ------------ ------------------ ---------                     -                            -                   -           -
+THU23   ------------ ------------------ ---------phani.yegireddy@gspann.com                        -                   14087996676
+
+
 THU23   ------------ ------------------ ---------                     -                            -                   -           -
 
 
@@ -33,7 +36,7 @@ WED22   SCHEDULED---3pm---------------- ---------
 WED22   TS----------4pm----------------raj-------ash@icloudnow.com  Kris 9198302890 AMEX phx, az online test           17139319143
 WED22   TS----------4:30pm-------------raj-------rafi@psrtek.com      -                            Dallas, TX          16092280597
 WED22   TS----------5pm pst                      bkaur@softniceinc.com                             -                   16102686405           -
-WED22   TS----------6pm to 9pm--LOCKED-grace-----sam@rapidinfotech.com SKYPE interviewerTejas Jain Seattle, WA         17326598043           -
+WED22   SCHEDULED---6:30pm-------------grace-----sam@rapidinfotech.com SKYPE interviewerTejas Jain Seattle, WA         17326598043           -
 WED22   ------------ ------------------ ---------                     HCL/BNSF                     -                   14694048818
 WED22   ------------ ------------------ ---------                     -                            -                   14694048818 -
 WED22   ------------ ------------------ ---------raj   call sahir 14694048818  google ui           -                   19193414411
