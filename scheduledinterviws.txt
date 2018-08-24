@@ -8,30 +8,64 @@ HackerRank.com
 ankit.s@e-solutionsinc.com
 8110294013  laura valdez houston
 
+-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV-DMV
+1800
+9166576525   or 1   manu
+or 2
+9166575771 or 6 licencuas comerciales
+9166578545  or 4 correccion de errores
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
                     10am PST 1pm EST             jsingh@maximaconsulting.com
 WED29   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 WED29   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+TUE28   SCHEDULED-LOCKED-waitforinvite-9am----------------raj-------deepak.kumar1@idctechnologies.com                 Sunnyvale, CA       14084579381 x4056 -
 TUE28   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 TUE28   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
-MON27   TS--RELEASED--10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+MON27   TS--RELEASED--10am PST--------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 MON27   SCHEDULED   10am PST 1pm EST             jsingh@maximaconsulting.com
 MON27   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 SUN26   SCHEDULED by phone 3pm PST-----krishna---kamal@techgenomics.com The client wants to reschedule the initial call on Sunday at 3.00 PM PST. Please confirm your availability.
 		chaitu@techgenomics.com 
         When	Sun Aug 26, 2018 3pm – 4pm (PDT) Where	415 715 7029 Who	patrick.nelson@matrixintel.com, 'Ram Alluri', chickoo.chawda@matrixintel.com...      
-SAT25                1pm		                 
 
-FRI24   SCHEDULED---10am PST---------------------sahi futron   expecr email from shriam emphasis       jpmc         17326662523           -
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+SAT25   SCHEDULED---1pm----------------raj-------rupali@enterprisesolutioninc.com   apple LTI Infosys                              16304025935
+		Melvin.Avinash@lntinfotech.com
+		Face to Face Interview with Enrique P… View on Google Calendar When	Sat Aug 25, 2018 1pm – 1:30pm (PDT) Where	LTI Office: 1735, Suite#100, Technology Dr, San Jose, CA
+Who	Sreekantharaju Keerthipati, rupali@enterprisesolutioninc.com, Melvin Avinash*
+
+DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+FRI24   SCHEDULED-POSTPONED-10am PST-------------bsai@futransolutions.com   expecr email from shriam emphasis    jpmc  17326662523           -
+		 postponed for next week
 					rsteve@futransolutions.com
 					bsai@futransolutions.com
 					araj@futransolutions.com
 					It is scheduled between 1-2 pm EST and would be Skype call of 30 mins.
 FRI24   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
+FRI24   CANCELLED----------11am PST----------- ---------Sriram.B@mphasis.com Anjay.Dutta@mphasis.com Tapas.Panda@mphasis.com
 FRI24   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
-FRI24   TS--expecr email from shriam emphasis-----------1pm-PST------------ ---------sahi futron          jpmc         17326662523
+FRI24   TS----------1pm---------------- ---------amisha@erostechnologies.com                       Sunnyvale, CA       15165450717
+FRI24   ************7pm PST**********************hackers@hackerrankmail.com http://email.postmaster.hackerrankmail.com/c/eJx1UtuumzAQ_JrkLZHvmAcecpqT34jW9hJQMERgmp5-fdcJufSolUCYmZ1dz9ihKo0BsW4rwbhlVihuldR8y7fqh7D282P_sdO73Z59rhS7DFOKMCUctw34M44j9OcIbbf1Q1w3FdaFq5VXKLUPTvJQMmTcAC98MGjduqualC4ruVuJAz3X6_WtUW5CIMypoc8dP44Y2hF9WsmDH_qEv2i1zyOPCeOlg4SvEmEWURuoSAkpuVaEnvGL_mtVCqWZQ2mMxBocDw64C6ZkzAsFYGuUGIAEqY04JYi00z3XUstSU7dMDITcLAidTehsQ__bCMG3fb62l5F0TCMVZv3TEK2_WeLF8bl9_W4rl74z2VrGLFjuhS65KSGgDcKCcdo7VqoyIPjCSimZ9zfR37OWrrx4cfP8GKULrK0VBQCTQaGvXW1ABuYKJiznNwmFkmtzLFMGlmSWbP6bDhG-ga7D_oTTAxjiBUbcpIbesb10mJaWhznFo6cjgfbU36H9U76hfIcYsQ-Q2uFOC5MVkcKf41KP2dwbOQ3z6HEhi02Ar81jwnqsSAm_t1Md8CfS3T8973mqvh_WHzt2Bn4
+FRI24   -----------------------------------------josephin@s2ssoft.com                              Austin,Texas        19252890802
+FRI24   ------------TUE28 9am----------raj-------deepak.kumar1@idctechnologies.com                 Sunnyvale, CA       14084579381 x4056 -
+FRI24   ------------ ------------------s.kumar---gloria_max@aesinc.us.com  We will schedule customer interview with TD Bank ASAP.
+FRI24   ------------ ------------------ ---------amisha@erostechnologies.com                       Sunnyvale, CA       15165450717 
+FRI24   ------------expect coding link hacker from futron-----gotan suman@mindedgesolutionsinc.com VA                  16786829682          -
+FRI24   ------------ ------------------manoj-----manoj.kumar@acsicorp.com TCS                      Minneapolis, MN     19528974575 Java Lead/Architect
+FRI24   ------------ ------------------ ---------ibraham  vdart      -                             px arizona          16787203617           -
+FRI24   ------------ ------------------ ---------suman@mindedgesolutionsinc.com                    -                   16782885862           -
+FRI24   ------------ ------------------ ---------itdoesnlistentstome -                             -                   17323691624           -
+FRI24   ------------ ------------------ ---------                    -                             -                   -           -
+FRI24   ------------ ------------------ ---------                    -                             -                   -           -
+FRI24   ------------ ------------------ ---------                    -                             -                   -           -
 
 THU23   SCHEDULED---8am PST ---------- ----------gloria_max@aesinc.us.com                          Mt. Laurel NJ       19724400069 JAX-RS - Java API for RESTful Web Services-L3 (Mandatory)     
 THU23   SCHEDULED---10am-gloria_max@aesinc.us.com When	Thu Aug 23, 2018 10am – 11am (PDT) Where	Mt. Laurel NJ Who	'Minesh Jhaveri', Haritha Pendyala, SUNIL, Sreenath Aramadaka, Gloria Max*
@@ -54,10 +88,10 @@ THU23   f2f ---------------------------rajdeep---rupali@enterprisesolutioninc.co
 		1pm PST                                             LTI        infosys  lnt
 THU23   ------------ ------------------ ---------mahendra@kksoftwareassociates.com  expect call from TCS                     -                            -                   -           -
 THU23   ------------ ------------------ ---------Vaibhav.Singhal@axiomglobal.com  manager hari prakash                 19253935844           -
-THU23   ------------ ------------------raj-------stella@technogeninc.com  expect manager           New york            17034599610 
+THU23   ------------ ------------------raj-------stella@technogeninc.com  expect manager           New york            17034599610 full
 THU23   ------------ ------------------ ---------                     -                            -                   19253935826 full, ang, microservices  
 THU23   ------------ ------------------sunil-----rakhi@erostechnologies.com expect samya from  prospens INC paypal     15165450734          -
-THU23   ------------ ------------------ ---------steve / stella       -                            -                   17034839183           -
+THU23   ------------ ------------------ ---------steve / stella@technogeninc.com                   -                   17034839183 full
 THU23   ------------1pm-fri--------------- ---------sahi futron   expecr email from shriam emphasis       jpmc         17326662523           -
 THU23   ------------ ------------------ ---------                     -                            -                   -           -
 THU23   ------------ ------------------ ---------                     -                            -                   -           -
