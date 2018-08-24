@@ -165,6 +165,18 @@ In telecommunication, provisioning involves the process of preparing and equippi
 routers,switches,bridges
 
 
+Early Binding and Late binding
+The compiler performs a process called binding when an object is assigned to an object variable. The early binding (static binding) refers to compile time binding and late binding (dynamic binding) refers to runtime binding.
+Early Binding (Static binding)
+When perform Early Binding, an object is assigned to a variable declared to be of a specific object type. Early binding objects are basically a strong type objects or static type objects. While Early Binding, methods, functions and properties which are detected and checked during compile time and perform other optimizations before an application executes. The biggest advantage of using early binding is for performance and ease of development.
+While prforming Early Binding the compiler can ensure at compile time that the function will exist and be callable at runtime. Moreover the compiler guarantees that the function takes the exact number of arguments and that they are of the right type and can checks that the return value is of the correct type.
+
+Late binding (Dynamic binding)
+By contrast, in Late binding functions, methods, variables and properties are detected and checked only at the run-time. It implies that the compiler does not know what kind of object or actual type of an object or which methods or properties an object contains until run time. The biggest advantages of Late binding is that the Objects of this type can hold references to any object, but lack many of the advantages of early-bound objects
+Above code does not require a reference to be set beforehand, the instance creation and type determination will just happen at runtime. It is important to note that the Late binding can only be used to access type members that are declared as Public. Accessing members declared as Friend or Protected Friend resulted in a run-time error.
+While perform late binding there is a possibility of the target function may not exist. Aslo the target function may not accept the arguments passed to it, and may have a return value of the wrong type.
+
+
 
 
 spring boot
