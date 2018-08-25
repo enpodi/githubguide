@@ -40,6 +40,7 @@ DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT
 SAT25   SCHEDULED---1pm----------------raj-------rupali@enterprisesolutioninc.com   apple LTI Infosys                              16304025935
 		Melvin.Avinash@lntinfotech.com
 		Face to Face Interview with Enrique P… View on Google Calendar When	Sat Aug 25, 2018 1pm – 1:30pm (PDT) Where	LTI Office: 1735, Suite#100, Technology Dr, San Jose, CA
+		This position is for Apple-Implementation partner is  L&T , Please do review their company website at : www.lnttechservices.com
 Who	Sreekantharaju Keerthipati, rupali@enterprisesolutioninc.com, Melvin Avinash*
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
