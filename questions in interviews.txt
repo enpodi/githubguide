@@ -1,3 +1,29 @@
+procidiuer
+praiveit
+what is opinionated view?
+What is load factor for HashMap?
+who calls init and destroy method in a servlet?
+jsp lifecycle
+https://docstore.mik.ua/orelly/java-ent/servlet/ch03_03.htm
+Just like applets, servlets can define init() and destroy() methods. A servlet's init(ServletConfig) method is called by the server immediately after the server constructs the servlet's instance. Depending on the server and its configuration, this can be at any of these times:
+
+When the server starts
+
+When the servlet is first requested, just before the service() method is invoked
+At the request of the server administrator
+In any case, init() is guaranteed to be called before the servlet handles its first request.
+
+The init() method is typically used to perform servlet initialization--creating or loading objects that are used by the servlet in the handling 
+of its requests. Why not use a constructor instead? Well, in JDK 1.0 (for which servlets were originally written), 
+constructors for dynamically loaded Java classes (such as servlets) couldn't accept arguments. So, in order to provide a new servlet 
+any information about itself and its environment, a server had to call a servlet's init() method and pass along an object that implements 
+the ServletConfig interface. Also, Java doesn't allow interfaces to declare constructors. This means that the javax.servlet.Servlet interface 
+cannot declare a constructor that accepts a ServletConfig parameter. It has to declare another method, like init(). It's still possible, of course, 
+for you to define constructors for your servlets, but in the constructor you don't have access to the ServletConfig object or the ability to 
+throw a ServletException.
+
+with reflexion you can change private fields into public. So, how can we make a class unmutable againt reflexion.
+
 
 why concurrenthashmap was created when hashtable was already thread safe
 

@@ -25,10 +25,25 @@ TUE28   SCHEDULED-LOCKED-waitforinvite-9am----------------raj-------deepak.kumar
 TUE28   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 TUE28   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 
-DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
+DATE    STATUS     TIME                ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 MON27   TS--RELEASED--10am PST--------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
-MON27   SCHEDULED   10am PST 1pm EST             jsingh@maximaconsulting.com
+MON27   SCHEDULED---10am PST 1pm EST-------------jsingh@maximaconsulting.com
 MON27   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
+MON27   requested reschedulefor sunday-yesterday-kamal@techgenomics.com                                                                 
+MON27   ------------send tn and fill --manoj-----rachendra chandra@caprusit.com                                        frisko, tx          14699208116
+MON27   ------------ ------------------manoj-----shikar                                                                      
+MON27   ------------ ------------------ ---------krish softcom                                                         16093339000 x41
+MON27   ------------ ------------------ ---------sashi  L&P                                                            13313052512
+MON27   ------------ ------------------krishna---monica itconnectus expect call jacob, retica, cahindra NY             18472683282 lead
+MON27   ------------ ------------------ ---------                                                                      17324433468
+MON27   SCHEDULED---6pm----------------krishna---kamal@techgenomics.com                                                                      
+MON27   ------------ ------------------ ---------                                                                      
+MON27   ------------ ------------------ ---------                                                                      
+MON27   ------------ ------------------ ---------                                                                      
+MON27   ------------ ------------------ ---------                                                                      
+MON27   ------------ ------------------ ---------                                                                      
+MON27   ------------ ------------------ ---------                                                                      
+MON27   ------------ ------------------ ---------                                                                      
 
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
