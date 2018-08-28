@@ -19,16 +19,25 @@ DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT
                     10am PST 1pm EST             jsingh@maximaconsulting.com
 WED29   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 WED29   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
+WED29   SCHEDULED---5:30 PM PST-hangout-raj------ravi@eappstech.com                                                    19193416167                  
+		Cuándo	mié 29 ago 2018 17:30 – 18:00 (PDT) 
+		Dónde	+1 401-903-3872 PIN: ‪948 619 590#‬ 
+		Quién	enrique.javaus@gmail.com, rohit.n@globallogic.com, sanjay.srivastava@globallogic.com...
+		
+WED29   SCHEDULED---5:30pm-----------------------Glo.Recruitment@globallogic.com 
+		Your Interview has been scheduled on 29-Aug-2018 AT 05:30 PM (Timezone: Pacific Time (US & Canada))
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 TUE28   SCHEDULED-LOCKED-waitforinvite-9am----------------raj-------deepak.kumar1@idctechnologies.com                 Sunnyvale, CA       14084579381 x4056 -
 TUE28   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 TUE28   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
+TUE28   TS-by phone. it may change-12:30pm PST-------- ---------ram 16789946417  -krishna---kamal@techgenomics.com      404-382-0435
 
 DATE    STATUS     TIME                ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 MON27   TS--RELEASED--10am PST--------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 MON27   SCHEDULED---10am PST 1pm EST-------------jsingh@maximaconsulting.com
 MON27   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
+MON27   SCHEDULED---6pm---by phone ram 16789946417 -krishna---kamal@techgenomics.com                                                                      
 MON27   requested reschedulefor sunday-yesterday-kamal@techgenomics.com                                                                 
 MON27   ------------send tn and fill --manoj-----rachendra chandra@caprusit.com                                        frisko, tx          14699208116
 MON27   ------------ ------------------manoj-----shikar                                                                      
@@ -36,12 +45,17 @@ MON27   ------------ ------------------ ---------krish softcom                  
 MON27   ------------ ------------------ ---------sashi  L&P                                                            13313052512
 MON27   ------------ ------------------krishna---monica itconnectus expect call jacob, retica, cahindra NY             18472683282 lead
 MON27   ------------ ------------------ ---------                                                                      17324433468
-MON27   SCHEDULED---6pm----------------krishna---kamal@techgenomics.com                                                                      
-MON27   ------------ ------------------ ---------                                                                      
-MON27   ------------ ------------------ ---------                                                                      
-MON27   ------------ ------------------ ---------                                                                      
-MON27   ------------ ------------------ ---------                                                                      
-MON27   ------------ ------------------ ---------                                                                      
+MON27   ------------Wed at 5:30 PM PST-raj-------ravi@eappstech.com                                                    19193416167                  
+MON27   ------------expect hackerrank coding-----sara@successdrivesystems.com                      Dallas, TX          15102242316 x106                            
+MON27   ------------expect hackerrank coding-----sara@successdrivesystems.com                      Dallas, TX          15106666321 x105
+MON27   ------------ ------------------ ---------rgupta@bhrigus.com                                                    
+MON27   ------------details shared-----krishna---ross@etekit.us expect manager josh                        St. Louis, MO       17754305406 Lead Full-Stack Java Developer
+MON27   ------------ ------------------krishna---kranthi@aristontek.com                            NYC, NY             12018446515 
+MON27   ------------ ------------------ ---------manish softnice                                   paypal              16104214028
+MON27   apex september 17 joining jeff robinson from apex--------josh  ,                           Mineapolis   13124236630 sr tecnical lead
+MON27   ------------ ------------------ ---------syed.hussain2@globallogic.com                                                                      
+MON27   ------------ ------------------ ---------depain consultsolutions                                               17323699107 full
+MON27   ------------ ------------------ ---------Paul.I@primusglobal.com                                               19727536500 x210                       
 MON27   ------------ ------------------ ---------                                                                      
 MON27   ------------ ------------------ ---------                                                                      
 
@@ -78,7 +92,7 @@ FRI24   ------------expect coding link hacker from futron-----gotan suman@minded
 FRI24   ------------ ------------------manoj-----manoj.kumar@acsicorp.com TCS                      Minneapolis, MN     19528974575 Java Lead/Architect
 FRI24   ------------ ------------------ ---------ibraham  vdart      -                             px arizona          16787203617           -
 FRI24   ------------ ------------------ ---------suman@mindedgesolutionsinc.com                    -                   16782885862           -
-FRI24   ------------ ------------------ ---------itdoesnlistentstome -                             -                   17323691624           -
+FRI24   ------------ ------------------  --------itdoesnlistentstome -                             -                   17323691624           -
 FRI24   ------------ ------------------ ---------                    -                             -                   -           -
 FRI24   ------------ ------------------ ---------                    -                             -                   -           -
 FRI24   ------------ ------------------ ---------                    -                             -                   -           -
