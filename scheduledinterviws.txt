@@ -15,23 +15,96 @@ or 2
 9166575771 or 6 licencuas comerciales
 9166578545  or 4 correccion de errores
 
-DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
-                    10am PST 1pm EST             jsingh@maximaconsulting.com
-WED29   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
-WED29   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
-WED29   SCHEDULED---5:30 PM PST-hangout-raj------ravi@eappstech.com                                                    19193416167                  
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+THU30   ------------11am PST---------------- ---------                                                                        
+THU30   SCHEDULED---12pm - 2pm -------- ---------ravi@eappstech.com  expect call saiath  IRC64015 (Frontend Engineer for gVault)          19193416167
 		Cuándo	mié 29 ago 2018 17:30 – 18:00 (PDT) 
 		Dónde	+1 401-903-3872 PIN: ‪948 619 590#‬ 
 		Quién	enrique.javaus@gmail.com, rohit.n@globallogic.com, sanjay.srivastava@globallogic.com...
+        SCHEDULED---12pm PST (Timezone: Mountain Time (US & Canada)   IRC64015 (Frontend Engineer for gVault)
+		Glo.Recruitment@globallogic.com ----syed.hussain2@globallogic.com--  
+		Your Interview has been scheduled on 30-Aug-2018 AT 12:00 PM (Timezone: Mountain Time (US & Canada))
+		- (Internal) We are building a new Novitas application using Boq Web with Wiz.
+		- (External) We mainly code in Java and Javascript with most coding in Javascript and some server-side coding in Java
+		- The UI is used to manage Oauth reporting Oauth configurations for 3rd party applications used by enterprise customers
+		Job Description for OWL (Oauth Whitelisting)
+
+		OWL whitelisting is an application to manage third party apps authorization for G Suite customers. 
+		We are working on moving the existing GWT-based frontend in G Suite Admin Console to Novitas (an internal Javascript-based platform using 
+		Wiz and Boq web) and building new backend data collection pipeline to collect more data from new data sources related to 3rd party applications 
+		to enhance the product.
+THU30   ------------ ------------------ ---------                                                                        
+THU30   ------------ ------------------ ---------                                                                        
+
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED29   SCHEDULEDbyphone---12pm PST---- ------ --bsai@futransolutions.com / rsteve@futransolutions.com   shriam emphasis/jpmc 17326662523 selenium
+		Sriram.B@mphasis.com
+		When	Wed Aug 29, 2018 12pm – 12:30pm (PDT)
+		Where	US 16054755602; Participant Code: 9010995883
+		Who	Anjay Dutta, Sriram B*
 		
-WED29   SCHEDULED---5:30pm-----------------------Glo.Recruitment@globallogic.com 
+		US Bridge Number: 1605 475 5602;
+		Participant Code: 9010 9958 83
+		Time: 3.00pm EST
+		Date: 8/29
+		
+		ankur shushant jpmc  delaware, new york   team 8 people 5 projects   production n development
+		rol asociate  jpmc   fullstack      private cloudfondry.   TDD regression test suite for app in production. automation jacoco
+		
+WED29	SCHEDULED---1pm -------------------------rumil 14085042794 L&T infotech   apple  --raj-------rupali@enterprisesolutioninc.com   apple LTI Infosys                              16304025935
+		Melvin.Avinash@lntinfotech.com
+		Akanksha Gupta (V), Romil Jain (V), ediaz.sfdeve@gmail.com
+		yamsha
+		next round apple
+WED29   SCHEDULED PASSED TO THURSDAY ---5:30 PM PST-hangout-raj------ravi@eappstech.com      PASSED TO THURSDAY                                               19193416167                  
+		Cuándo	mié 29 ago 2018 17:30 – 18:00 (PDT) 
+		Dónde	+1 401-903-3872 PIN: ‪948 619 590#‬ 
+		Quién	enrique.javaus@gmail.com, rohit.n@globallogic.com, sanjay.srivastava@globallogic.com...
+WED29   SCHEDULED-PASSED TO THURSDAY--5:30pm-----------------------Glo.Recruitment@globallogic.com 
 		Your Interview has been scheduled on 29-Aug-2018 AT 05:30 PM (Timezone: Pacific Time (US & Canada))
+		
+WED29   ------------ ------------------ ---------Sriram     emphasis                                                   16465783869                     
+WED29   ------------ ------------------ ---------nitesh              synchron                      minneapolis                                                  
+WED29   ------------ ------------------sunil-----brazil@ztek-inc.com                               ny                  16783674177 fullstack Mulesoft Developer / Mulesoft Architect
+WED29   ------------ ------------------ ---------manoj.m@vdartinc.com IBM                          Winston Salem, NC   16787204729
+WED29   ------------ ------------------ ---------yogeshwaran.r@vdartinc.com                                            16787201289
+WED29   ------------ ------------------ ---------                                                                      17323130312 
+WED29   ------------ ------------------ ---------                                                                        
+WED29   ------------ ------------------ ---------                                                                        
+WED29   ------------ ------------------ ---------                                                                        
+WED29   ------------ ------------------ ---------                                                                        
+WED29   ------------ ------------------ ---------                                                                        
 
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 TUE28   SCHEDULED-LOCKED-waitforinvite-9am----------------raj-------deepak.kumar1@idctechnologies.com                 Sunnyvale, CA       14084579381 x4056 -
 TUE28   TS----------10am PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
 TUE28   TS----------12pm PST----------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 
-TUE28   TS-by phone. it may change-12:30pm PST-------- ---------ram 16789946417  -krishna---kamal@techgenomics.com      404-382-0435
+TUE28   SCHEDULED---12:30pm PST--------krishna---kamal@techgenomics.com  ram 16789946417  -                            14043820435
+		chaitu dasari, chicko 3+ years  15104847187        end client consensus corp expand   ecommerce by smart tv hulu
+		FEEDBACK		hashtable is sinchronized  startup independent of TARGET sr java deve scrum team  80 people  mysql  hiring manager  -> f2f 3 hrs   san francisco   onsite work
+TUE28   ------------ ------------------hrinish---rajavenis@aditiconsulting.com TMOBILE             Bellevue, WA        19104271393 Job ID: CNSP001
+TUE28   ------------ ------------------krishna---kranthi@aristontek.com                            NYC, NY             12018446515 
+TUE28   PASSED TO THURSDAY-Wed at 5:30 PM PST-raj-------ravi@eappstech.com                                                    19193416167                  
+TUE28   ------------ ------------------ ---------                                                                      19193418899  
+TUE28   ------------ ------------------rajdeep---Amitp@pyramidci.com                               SAN FRANCISCO CA    14044484528 Application Developer
+TUE28   do hackerrank photon---------------------gayathri.venugopal@photoninfotech.net/sara@successdrivesystems.com/sathyanarayanan.baabu@photoninfotech.net                                                                      19522234296 
+        sara https://click.pstmrk.it/2sm/www.hackerrank.com%2Ftests%2Fgqi5gaed4ak%2Flogin%3Fb%3DeyJ1c2VybmFtZSI6ImVkaWF6LnNmZGV2ZUBnbWFpbC5jb20iLCJwYXNzd29yZCI6ImZkNmNjM2Q5IiwiaGlkZSI6dHJ1ZX0%3D/-TSKCAI/EDcI/P1nZg6Xff3/aHJ3LXRlc3QtaW52aXRl
+		FEEDBACK NOT PASSED
+TUE28   ------------r------------------farukh----rim rgupta@bhrigus.com                            NY                  16093579493
+TUE28   ------------r------------------ ---------manish  softnice                                  san jose            16104214028 
+TUE28   ------------ ------------------ ---------rami                tcs boeing                    seatle              14253065196     
+TUE28   PASSED TO THURSDAY------------- ---------syed.hussain2@globallogic.com IRC64015 (Frontend Engineer for gVault)
+TUE28   ------------ ------------------ ---------maharshig@skoruz.com       techmahindra                  ny                  15109252019
+TUE28   ------------ ------------------ ---------                                                                      15109252019
+TUE28   ------------ ------------------ ---------Flora Anthuvan AAA GLOBAL TECHNOLOGIES                                17702849333 
+TUE28   ------------ ------------------ ---------anil tcs                                                              17047494121 
+TUE28   ------------ ------------------ ---------         infotech                                                              
+TUE28   ------------ ------------------ ---------                                                                       
+TUE28   ------------ ------------------ ---------                                                                       
+TUE28   ------------ ------------------ ---------                                                                       
 
 DATE    STATUS     TIME                ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 MON27   TS--RELEASED--10am PST--------- ---------soloman@vdartinc.com Accenture                    Hartford, CT        15168472559 Java Developer 

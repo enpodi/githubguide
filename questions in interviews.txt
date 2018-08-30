@@ -7,6 +7,10 @@ jsp lifecycle
 https://docstore.mik.ua/orelly/java-ent/servlet/ch03_03.htm
 Just like applets, servlets can define init() and destroy() methods. A servlet's init(ServletConfig) method is called by the server immediately after the server constructs the servlet's instance. Depending on the server and its configuration, this can be at any of these times:
 
+Serializable is a Marker interface wich does not has abstract methods
+
+with reflexion you can change private fields into public. So, how can we make a class unmutable againt reflexion.
+
 When the server starts
 
 When the servlet is first requested, just before the service() method is invoked
@@ -22,7 +26,11 @@ cannot declare a constructor that accepts a ServletConfig parameter. It has to d
 for you to define constructors for your servlets, but in the constructor you don't have access to the ServletConfig object or the ability to 
 throw a ServletException.
 
-with reflexion you can change private fields into public. So, how can we make a class unmutable againt reflexion.
+
+
+The HashMap class is roughly equivalent to Hashtable, except that it is non synchronized and permits nulls. 
+(HashMap allows null values as key and value whereas Hashtable doesn't allow nulls). 
+HashMap does not guarantee that the order of the map will remain constant over time.
 
 
 why concurrenthashmap was created when hashtable was already thread safe
