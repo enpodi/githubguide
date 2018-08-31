@@ -16,10 +16,70 @@ or 2
 9166578545  or 4 correccion de errores
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+TUE04   SCHEDULED waitforinvite 10am pst webex---Gopalakrishnan.Palaniappan@mindtree.com           Dallas, TX          919865965805 O +1 (201) 244 - 7835
+		As discussed please find the below job position. Kindly confirm your availability to take WebEx(Video) interview on Tuesday, 9/4 at 10 AM PST.
+This is with Mindtree and End Customer is Southwest Airlines
+TUE04   -----------------------------------------                                                                       
+TUE04   TS---------10am PST------------manoj-----rupesh.kumar@braintreeus.com banking  bank of montreal chicago        18155560056 
+TUE04   SCHEDULED--3pm PST-hangouts----raj-------Baljeet bkaur@softnice.com morat google                               16102686405
+TUE04   -----------------------------------------                    -                             -                   - 
+TUE04   -----------------------------------------                    -                             -                   - 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU30   ------------11am PST---------------- ---------                                                                        
+MON03   -----------------------------------------                    -                             -                   - 
+MON03   -----------------------------------------                    -                             -                   - 
+MON03   -----------------------------------------                    -                             -                   - 
+
+
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+FRI31   FINAL TS---9am PST------------- ---------bsai@futransolutions.com   expecr email from shriam emphasis       jpmc         17326662523           -
+		Sriram.B@mphasis.com 		Please join the below Bridge 		US Bridge Number: 16054755602;  		Participant Code: 9010995883
+		Time: 12.00pm EST 		Date: 8/31
+		8 people, support to existing projects, cloud, ang 5, agile, developer, dallas, tx.
+		FEEDBACK   50 minutes. queries, how annotations work in spring (reflexion), How works Rest in spring (controller, service, autowire, RequestBody, ResponseBody,
+		MediaType, @ExceptionHandler, HttpStatus.BAD_REQUEST), 
+		Angular (http module, how call service in backend, how configure headers new HttpHeaders({ 'Content-Type': 'application/json' })).
+FRI31   SCHEDULED--2pm PST------------- ---------DeepakP@vbeyond.com -                             Buffalo Grove, IL   16786069824 Hibernate, Restfull services and Jquery
+		Your interview is confirmed for Today(31 Aug, 2018) - 02:00PM PST/PDT. Its Bridge Call interview, You have to dial below Contact No. for discussion.
+		Dial # +1 646 876 9923   		Enter Pass Code :   905 500 114 #   		Interviewer Name – Mr. Rakesh
+		Job Description:          
+		6+ years Java/J2ee required with HTML, CSS, Javascript
+		Good experience in Spring, Spring Core, Hibernate, Restfull services and Jquery. 
+		Experience in HTML, HTML5, CSS, Java Script frameworks Angular JS, Bootstrap, React JS, NodeJS is a plus
+		Hands on experience required in writing unix shell script as per the project need.
+		FEEDBACK. Interviewer Rakesh. Actions in Struts 2. how interprete url parameters(URLEncoding), Default scope for beans in spring. There will be next round
+		chicago, tx, size depends 10 or 12, full stack, not working with with rakesh.
+FRI31   SCHEDULED--7pm PST-webex------- ---------frank @nytpartners.com -                          -                   17864925795 core java spring batch
+		ravi.solanki@citiustech.com frank nyt 17864925795 core java spring batch
+		Cuándo	vie 31 ago 2018 19:00 – 19:30 (PDT) Dónde	Webex Video Call   Quién	Frank Ahmed, Ravi Solanki*
+		https://citiustech.webex.com/citiustech/j.php?MTID=m81d2dbae50d7ea5f962e1f10d938ddeb
+		Meeting number (access code): 732 087 929       
+		Host key: 744830        
+		Meeting password:       12345  
+		Required Skills:
+		Java 8                                 Spring Framework (Batch, JPA, MVC)      log4j, slf4j  
+		Restful WS, Soap WS            		   AWS                                     Git  
+		Gradle build/Maven build               TDD                                     Agile 
+FRI31   TS---------8pm PST--before 7pm-----------manoj ----rupesh.kumar@braintreeus.com banking  bank of montreal chicago        18155560056 		
+FRI31   ----------- ------------------- ---------rupaldaniel min     -                             florida             12012447835 
+FRI31   ----------- ------------------- ---------vishalrpo@dgntechnologies.com                     Sunnyvale, CA       15109964345 lead full  Experience in building Native Application either on iOS or Android platform
+FRI31   ----------- ------------------- ---------mruthyunjaya.P@kaygen.com                         Los Angeles CA      19492035100 x122 RESTful and XML WSDL 
+FRI31   ----------- -------------------hrinish---anthony             techm                         -                   19165871212
+FRI31   ----------- ------------------- ---------                    -                             -                   18059535124 
+FRI31   ----------- ------------------- ---------                    -                             -                   - 
+FRI31   ----------- ------------------- ---------                    -                             -                   - 
+FRI31   ----------- ------------------- ---------                    -                             -                   - 
+FRI31   ----------- ------------------- ---------                    -                             -                   - 
+
+
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+THU30   TS---------11am PST-skype------ ---------Mahendra@kksoftwareassociates.com TCS/Boeing      Bellevue, WA        16148592951 Java Developer                                                       
 THU30   SCHEDULED---12pm - 2pm -------- ---------ravi@eappstech.com  expect call saiath  IRC64015 (Frontend Engineer for gVault)          19193416167
+		syed.hussain2@globallogic.com
+		https://meet.google.com/rwq-pvpw-tbb +1 402-433-0114 PIN: 405294713# 
+		
 		Cuándo	mié 29 ago 2018 17:30 – 18:00 (PDT) 
 		Dónde	+1 401-903-3872 PIN: ‪948 619 590#‬ 
 		Quién	enrique.javaus@gmail.com, rohit.n@globallogic.com, sanjay.srivastava@globallogic.com...
@@ -35,8 +95,19 @@ THU30   SCHEDULED---12pm - 2pm -------- ---------ravi@eappstech.com  expect call
 		We are working on moving the existing GWT-based frontend in G Suite Admin Console to Novitas (an internal Javascript-based platform using 
 		Wiz and Boq web) and building new backend data collection pipeline to collect more data from new data sources related to 3rd party applications 
 		to enhance the product.
-THU30   ------------ ------------------ ---------                                                                        
-THU30   ------------ ------------------ ---------                                                                        
+THU30   TS---------1pm PST--skype------ ---------Mahendra@kksoftwareassociates.com TCS/Boeing      Bellevue, WA        16148592951 Java Developer                                                                       
+THU30   ------------ ------------------ ---------Rajesh@pyramidci.com                                                                        
+THU30   ------------ ------------------ ---------priyanka.r@vdartinc.com                           Sunnyvale, CA      16787202274                                       
+THU30   ------------ ------------------krishna---DeepakP@vbeyond.com                               Buffalo Grove, IL  16786069824   
+THU30   ------------ ------------------raj-------bkaur@softnice.com                                                                        
+THU23   ------------1pm-fri--------------- ------bsai@futransolutions.com   expecr email from shriam emphasis       jpmc         17326662523           -
+THU30   ------------ ------------------ ---------alex@nytpartners.com                              oregon portland     12016800200  sr 
+THU30   ------------ ------------------ ---------balaji.r@vdartinc.com                             Topeka, KS          16787406388  full
+THU30   ------------ ------------------ ---------alex@nytpartners.com                                                  19492035100  
+THU30   ------------ ------------------ ---------sandeep  adt                                                          14254494592  
+THU30   ------------ ------------------ ---------enrique  srank @nytpartners.com 2 rounds webex tech/manger            17864925795  
+THU30   ------------ ------------------ ---------saumya@econosoftinc.com                           Boston,MA           14084423663 x4341 Java Script Developer / React
+THU30   ------------ ------------------hrinish---mruthyunjaya.P@kaygen.com                         Los Angeles CA                                               
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES

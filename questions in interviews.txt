@@ -32,6 +32,7 @@ The HashMap class is roughly equivalent to Hashtable, except that it is non sync
 (HashMap allows null values as key and value whereas Hashtable doesn't allow nulls). 
 HashMap does not guarantee that the order of the map will remain constant over time.
 
+angular how string to percentage
 
 why concurrenthashmap was created when hashtable was already thread safe
 
@@ -1053,3 +1054,27 @@ class Solution {
 	}
 }
 
+
+
+
+function findSecondLargestElement(arr) {
+temp = arr[0];  //1    //1  0   -3   8   2   5 
+tempSL = = arr[0];  //1
+for (i=0;i<arr.legth;i++){
+  if (tempSL<arr[i]){
+  temp = max(arr[i],temp);   
+  } else
+  {
+   temp = max(arr[i],temp);  //1
+    tempSL = arr[i];    //-3
+  }
+
+  
+}
+
+}
+
+console.log(findSecondLargestElement([1, 0, -3, 8, 2, 5, 8, -7])); 
+
+
+// 5
