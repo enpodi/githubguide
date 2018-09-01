@@ -61,6 +61,11 @@ FRI31   SCHEDULED--7pm PST-webex------- ---------frank @nytpartners.com -       
 		Java 8                                 Spring Framework (Batch, JPA, MVC)      log4j, slf4j  
 		Restful WS, Soap WS            		   AWS                                     Git  
 		Gradle build/Maven build               TDD                                     Agile 
+		vishu
+Feedback: citiustech  vishu does partially development  location portland us   team size 4 offshore, 70%development. on site.  portland.  java sr.  domine: cambia health insurance. 6months
+plus: clojure script.
+
+react.js
 FRI31   TS---------8pm PST--before 7pm-----------manoj ----rupesh.kumar@braintreeus.com banking  bank of montreal chicago        18155560056 		
 FRI31   ----------- ------------------- ---------rupaldaniel min     -                             florida             12012447835 
 FRI31   ----------- ------------------- ---------vishalrpo@dgntechnologies.com                     Sunnyvale, CA       15109964345 lead full  Experience in building Native Application either on iOS or Android platform
