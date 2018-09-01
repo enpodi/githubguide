@@ -17,10 +17,13 @@ or 2
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE04   SCHEDULED waitforinvite 10am pst webex---Gopalakrishnan.Palaniappan@mindtree.com           Dallas, TX          919865965805 O +1 (201) 244 - 7835
+		Gopalakrishnan.Palaniappan@mindtree.com
 		As discussed please find the below job position. Kindly confirm your availability to take WebEx(Video) interview on Tuesday, 9/4 at 10 AM PST.
-This is with Mindtree and End Customer is Southwest Airlines
+		This is with Mindtree and End Customer is Southwest Airlines
 TUE04   -----------------------------------------                                                                       
-TUE04   TS---------10am PST------------manoj-----rupesh.kumar@braintreeus.com banking  bank of montreal chicago        18155560056 
+TUE04   SCHEDULED--10am PST------------manoj-----rupesh.kumar@braintreeus.com banking  bank of montreal chicago        18155560056 
+		Cuándo	mar 4 sep 2018 10:00 – 11:00 (PDT)
+		Dónde	WebEx(Video) + Audio bridge   		Quién	daniel@aitrg.com, monish@aitrg.com, Gopalakrishnan Palaniappan (Associate)*
 TUE04   SCHEDULED--3pm PST-hangouts----raj-------Baljeet bkaur@softnice.com morat google                               16102686405
 TUE04   -----------------------------------------                    -                             -                   - 
 TUE04   -----------------------------------------                    -                             -                   - 
@@ -50,7 +53,7 @@ FRI31   SCHEDULED--2pm PST------------- ---------DeepakP@vbeyond.com -          
 		Hands on experience required in writing unix shell script as per the project need.
 		FEEDBACK. Interviewer Rakesh. Actions in Struts 2. how interprete url parameters(URLEncoding), Default scope for beans in spring. There will be next round
 		chicago, tx, size depends 10 or 12, full stack, not working with with rakesh.
-FRI31   SCHEDULED--7pm PST-webex------- ---------frank @nytpartners.com -                          -                   17864925795 core java spring batch
+FRI31   SCHEDULED--7pm PST-webex------- ---------frank@nytpartners.com -                          -                   17864925795 core java spring batch
 		ravi.solanki@citiustech.com frank nyt 17864925795 core java spring batch
 		Cuándo	vie 31 ago 2018 19:00 – 19:30 (PDT) Dónde	Webex Video Call   Quién	Frank Ahmed, Ravi Solanki*
 		https://citiustech.webex.com/citiustech/j.php?MTID=m81d2dbae50d7ea5f962e1f10d938ddeb
