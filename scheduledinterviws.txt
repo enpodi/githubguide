@@ -16,15 +16,13 @@ or 2
 9166578545  or 4 correccion de errores
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU06   ----------- ------------------- ---------                    -                             -                   - 
+THU06   -----------9am ------------------grace- ---------                    -                             -                   - 
 THU06   ----------- ------------------- ---------                    -                             -                   - 
 THU06   ----------- ------------------- ---------                    -                             -                   - 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED05   TS wait for invite7:30am PST-------------Baljeet bkaur@softnice.com morat BNSF                                 16102686405
-		THIS INVITE WAS FROM YESTERDAY When	Tue Sep 4, 2018 3pm – 3:45pm (PDT) Where	TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Downtown Campbell (2) [GVC]
-		Who	mrajamanickam@google.com, SJC-BNV2-1-Downtown Campbell (2) [GVC], Sushanth Malagalu...
-		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
+		
 WED05   TS-----------11am------------------------frank@nytpartners.com                             -                   - 
 WED05   SCHEDULED--3pm ----------------raj-------Baljeet bkaur@softnice.com   google                                   16102686405
 		When
@@ -36,6 +34,25 @@ WED05   SCHEDULED--3pm ----------------raj-------Baljeet bkaur@softnice.com   go
 		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
 		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
 WED05   TS---------5pm---------------------------srivani.katta@nagarro.com                         jacksonville,FL     14084447605 angular
+		
+Cuándo	mié 5 sep 2018 17:00 – 17:30 (PDT)
+Dónde	https://bluejeans.com/805542166
+Quién	manoj@allianceit.com, Srivani Katta*
+WED05   ------------------------------------tcs balak kkasociates anam  ramya                         16144419543     
+WED05   -----------------------------------------anchal.srivastava@idctechnologies.com             Bentonville, AR     14084185779 x324       -     
+WED05   -----------------------------------------ragu@diamondpick.com -     
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------                    -                             -                   - 
+
+
 		
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
