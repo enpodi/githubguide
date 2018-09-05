@@ -16,24 +16,98 @@ or 2
 9166578545  or 4 correccion de errores
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-TUE04   SCHEDULED waitforinvite 10am pst webex---Gopalakrishnan.Palaniappan@mindtree.com           Dallas, TX          919865965805 O +1 (201) 244 - 7835
+THU06   ----------- ------------------- ---------                    -                             -                   - 
+THU06   ----------- ------------------- ---------                    -                             -                   - 
+THU06   ----------- ------------------- ---------                    -                             -                   - 
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED05   TS wait for invite7:30am PST-------------Baljeet bkaur@softnice.com morat BNSF                                 16102686405
+		THIS INVITE WAS FROM YESTERDAY When	Tue Sep 4, 2018 3pm – 3:45pm (PDT) Where	TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Downtown Campbell (2) [GVC]
+		Who	mrajamanickam@google.com, SJC-BNV2-1-Downtown Campbell (2) [GVC], Sushanth Malagalu...
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
+WED05   TS-----------11am------------------------frank@nytpartners.com                             -                   - 
+WED05   SCHEDULED--3pm ----------------raj-------Baljeet bkaur@softnice.com   google                                   16102686405
+		When
+		Changed: Wed Sep 5, 2018 3pm – 3:45pm Pacific Time - Los Angeles
+		Where
+		TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Downtown Campbell (2) [GVC] (map)
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm
+		Who krishv@google.com - organizer  ediaz.sfdeve@gmail.com Sushanth Malagalu mrajamanickam@google.com - optional 
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+WED05   TS---------5pm---------------------------srivani.katta@nagarro.com                         jacksonville,FL     14084447605 angular
+		
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+TUE04   SCHEDULED--10am pst webex----------------Gopalakrishnan.Palaniappan@mindtree.com Southwest Airlines Dallas, TX 919865965805 O +1 (201) 244 - 7835
 		Gopalakrishnan.Palaniappan@mindtree.com
 		As discussed please find the below job position. Kindly confirm your availability to take WebEx(Video) interview on Tuesday, 9/4 at 10 AM PST.
 		This is with Mindtree and End Customer is Southwest Airlines
-TUE04   -----------------------------------------                                                                       
-TUE04   SCHEDULED--10am PST------------manoj-----rupesh.kumar@braintreeus.com banking  bank of montreal chicago        18155560056 
+		daniel@aitrg.com
+		Tried reaching you for your WebEx interview(Audio+Video Bridge call) today with Mindtree @10 AM PST so please be available on both Laptop and Phone.                                                        
+        SCHEDULED--10am PST------------manoj-----rupesh.kumar@braintreeus.com banking  bank of montreal chicago        18155560056 
 		Cuándo	mar 4 sep 2018 10:00 – 11:00 (PDT)
 		Dónde	WebEx(Video) + Audio bridge   		Quién	daniel@aitrg.com, monish@aitrg.com, Gopalakrishnan Palaniappan (Associate)*
-TUE04   SCHEDULED--3pm PST-hangouts----raj-------Baljeet bkaur@softnice.com morat google                               16102686405
-TUE04   -----------------------------------------                    -                             -                   - 
-TUE04   -----------------------------------------                    -                             -                   - 
-
-DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-MON03   -----------------------------------------                    -                             -                   - 
-MON03   -----------------------------------------                    -                             -                   - 
-MON03   -----------------------------------------                    -                             -                   - 
-
-
+		
+		https://mindtree.webex.com/mindtree/j.php?MTID=m7301ed648aa9deae97b1104c9a7bd523
+		Meeting number: 955 232 090
+		Meeting password: Join@123
+		
+		Audio Bridge:
+		US Dial-in(Toll Free): +1 8552829747/+1 8772713944
+		US Dial-in (Toll#): +1 3237843803 / +1 3233868720
+		Bangalore: +91-80-39403966
+		Chennai: +91-44-39403966
+		India National Toll Free: 1 800 200 1331 / 1 800 209 1331
+		Pass Code: 4730369# (Please re-enter the same Pass Code if it prompts for any other code. Kindly disconnect and re login if the problem persist)
+		FEEDBACK
+		zawar        location   dallas      size 5 3 dev 1 tech   asign as developer.  learning management services  old to new. development enviromevt.
+		oracle   implementor mindtree. 
+		exceptions in plsql   user defined exceptions and predefined exceptions. RowType vs object type.  what is a cursor.
+		Southwest Airlines           Dallas, TX                     Java Pl/SQL Developer
+TUE04   TS-----------12pm PST--skype-------------yadav_a@hcl.com    skumar@braintreeus.com rupesh.kumar@braintreeus.com   HCL America/ BMO position in Chicago, IL.
+		Cuándo	mar 4 sep 2018 12:00 – 13:00 (PDT)
+		HCL Panelist: Neeli Venkatanarasimha Rao
+		Dónde	Skype
+		Quién	Muthukrishnan Nallendran (ETS), Chennai, Neeli Venkatanarasimha Rao, Sumit, Alok Yadav*-                   - 
+		REST (Web Services) Database Agile Methodology.
+		FEEDBACK interviewer narasimha. duration 1.20 hr
+		-----		   size 20, developer. fullstack   querie difference between truncate nd delete. varchar vs char. cursor.
+TUE04   SCHEDULED----1pm-1:30pm PST--skype------------gloria_max@aesinc.us.com WIPRO                                        19724400069
+		Confirmed your client interview Today at 1 PM PST TO 1.30 PM PST  .      Please ready for the call.
+		interviewer biksham duration  20 minutes. domaine banking
+		JVM architecture (heap memory stacj memory), threads  java microservices tdbank large team, frameworks for testing. oop
+		https://wiprocon.webex.com/join/vivek.joshi1   |  646 171 505
+TUE04   SCHEDULED--3pm PST-hangouts--MOVED TOMORROW--raj-------Baljeet bkaur@softnice.com morat google  google                 16102686405
+		krishv@google.com
+		When	Tue Sep 4, 2018 3pm – 3:45pm (PDT) Where	TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Downtown Campbell (2) [GVC]
+		Who	mrajamanickam@google.com, SJC-BNV2-1-Downtown Campbell (2) [GVC], Sushanth Malagalu...
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
+			
+		
+TUE04   -------------4pm PST---------------------gloria wipro        -                             -                    
+		Cuándo	mar 4 sep 2018 16:00 – 17:00 (PDT)
+		Dónde	Mount Laurel,NJ
+		Quién	Haritha Pendyala, 'Minesh Jhaveri', Sreenath Aramadaka, SUNIL, Gloria Max*
+TUE04	-------------submitted profile for new position-------gloria_max@aesinc.us.com WIPRO pensilvania   wipro            bank of newyork
+TUE04	-----------------------------------------                    -                             -                   - 		
+TUE04   -----------------------------------------gloria_max@aesinc.us.com                          Pittsburg -PA                   - Spring Boot-L3 (Mandatory)
+TUE04   -----------------------------------------daniel@aitrg.com          -                             -             13125857015 
+TUE04   -----------------------------------------nytesh              -he shared with new clients   atlanta,mineapoliMi 17047801633 java
+TUE04   -----------------------------------------steve futran        - asked for availability to relocate              - 
+TUE04   ---------------------------------grace---manam mexim         -                             -                   14086185621 
+TUE04   -----------------------------------------rupesh              -                             -                   18155560056 
+TUE04   -----------------------------------------alexnyt             -                             -                   12014643746 
+TUE04   -------------------------------s.kumar---nagarjuna.unnam@prospectinfosys.com                                   16365360505 x113
+TUE04   -------------------------------grace-----ragu@diamondpick.com-mphasis call by client on thursday. chicago-tampa florida 12014643746
+TUE04   ----------- ------------------- ---------google              -                             -                   16692522513 
+TUE04   -----------6pm-----------------manoj-----srivani.katta@nagarro.com                         jacksonville,FL     14084447605 angular
+TUE04   -----------6pm-----------------manoj-----srivani.katta@nagarro.com                         jacksonville,FL     14849548330 angular
+TUE04   ----------- ------------------- ---------bsai@futransolutions.com rsteve@futransolutions.com INTERVIEW WITH EMPHASIS WAS GOOD BUT CLIENT TOOK ANOTHER CONSULTANT                   - 
+TUE04   -----------w2------------------ ---------ustech                                            pleasanton          1503714994 
+TUE04   ----------- ------------------- ---------srivani.katta@nagarro.com                    -                        14084366170 x112
+TUE04   ----------- ------------------- ---------pkumar.v@vdartinc.com                             -                   - 
+TUE04   ----------- ------------------- ---------                    -                             -                   - 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 FRI31   FINAL TS---9am PST------------- ---------bsai@futransolutions.com   expecr email from shriam emphasis       jpmc         17326662523           -

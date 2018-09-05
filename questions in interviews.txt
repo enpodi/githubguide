@@ -27,10 +27,18 @@ for you to define constructors for your servlets, but in the constructor you don
 throw a ServletException.
 
 
+DDL is Data Definition Language : it is used to define data structures.
+ For example, with SQL, it would be instructions such as create table, alter table
+DML is Data Manipulation Language : it is used to manipulate data itself.
+ For example, with SQL, it would be instructions such as insert, update, delete, ...
+
 
 The HashMap class is roughly equivalent to Hashtable, except that it is non synchronized and permits nulls. 
 (HashMap allows null values as key and value whereas Hashtable doesn't allow nulls). 
 HashMap does not guarantee that the order of the map will remain constant over time.
+
+Early Binding and Late binding. The compiler performs a process called binding when an object is assigned to an object variable. 
+The early binding (static binding) refers to compile time binding and late binding (dynamic binding) refers to runtime binding.
 
 angular how string to percentage
 
