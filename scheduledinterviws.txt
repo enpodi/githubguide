@@ -16,12 +16,26 @@ or 2
 9166578545  or 4 correccion de errores
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU06   -----------9am ------------------grace- ---------                    -                             -                   - 
-THU06   ----------- ------------------- ---------                    -                             -                   - 
-THU06   ----------- ------------------- ---------                    -                             -                   - 
+FRI07   ----------- ------------------- ---------                    -                             -                   -    
+FRI07   ----------- ------------------- ---------                    -                             -                   -    
+FRI07   ----------- ------------------- ---------                    -                             -                   -    
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED05   TS wait for invite7:30am PST-------------Baljeet bkaur@softnice.com morat BNSF                                 16102686405
+THU06   SCHEDULED--7:30am-------------- ---------bkaur@softnice.com  BNSF                   -                             -                   - 
+THU06   TS waitforinvite-9am PST------- ---------gloria                    -                             -                   - 
+THU06   TS---------10am PST------------ ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
+THU06   SCHEDULED--11:30am PST-SKYPE--- ---------Aditya.Singh@itcinfotech.com itc infotech walmart Bentonville, AR     - full
+		Cuándo	jue 6 sep 2018 11:30 – 12:15 (PDT) 	Dónde	SKYPE  Quién	praveen.claridyne@gmail.com, Harish.Nayak, Shimpy Yadav, vasant@claridyne.com, Praveen Narayankar...
+THU06   TS---------2pm PST------------- ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
+THU06   -----------3pm PST--------------grace-----                    -                             -                   -    
+                   4pm PST   --------------------kamal
+THU06   -----------5pm PST--------------grace-----                    -                             -                   -    
+THU06   waitforinvite-6pm PST --------- ---------ragu@diamondpick.com expect call invite from manager MPHASIS        -                   - 
+THU06   ----------- ------------------- ---------                    -                             -                   -    
+THU06   ----------- ------------------- ---------                    -                             -                   -    
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED05   SCHEDULED DORMIDO 7:30am PST-------------Baljeet bkaur@softnice.com morat BNSF                                 16102686405
 		
 WED05   TS-----------11am------------------------frank@nytpartners.com                             -                   - 
 WED05   SCHEDULED--3pm ----------------raj-------Baljeet bkaur@softnice.com   google                                   16102686405
@@ -34,20 +48,20 @@ WED05   SCHEDULED--3pm ----------------raj-------Baljeet bkaur@softnice.com   go
 		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
 		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
 WED05   TS---------5pm---------------------------srivani.katta@nagarro.com                         jacksonville,FL     14084447605 angular
-		
-Cuándo	mié 5 sep 2018 17:00 – 17:30 (PDT)
-Dónde	https://bluejeans.com/805542166
-Quién	manoj@allianceit.com, Srivani Katta*
-WED05   ------------------------------------tcs balak kkasociates anam  ramya                         16144419543     
+		Cuándo	mié 5 sep 2018 17:00 – 17:30 (PDT)
+		Dónde	https://bluejeans.com/805542166
+		Quién	manoj@allianceit.com, Srivani Katta*
+WED05   TS-------6pm PST--------------- ---------mahendra@kksoftwareassociates.com 16148592951  tcs balak kkasociates anam  ramya  16144419543
+WED05   ------------------------------------     
 WED05   -----------------------------------------anchal.srivastava@idctechnologies.com             Bentonville, AR     14084185779 x324       -     
 WED05   -----------------------------------------ragu@diamondpick.com -     
-WED05   ----------- ------------------- ---------                    -                             -                   - 
-WED05   ----------- ------------------- ---------                    -                             -                   - 
-WED05   ----------- ------------------- ---------                    -                             -                   - 
-WED05   ----------- ------------------- ---------                    -                             -                   - 
-WED05   ----------- ------------------- ---------                    -                             -                   - 
-WED05   ----------- ------------------- ---------                    -                             -                   - 
-WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   WED22   SCHEDULED---10am PST 1pm EST---raj--krish@softcomsystems.com/HCL represent softcom expect Jackdeep (17813522625)singh@maximaconsulting.com   boston  16093339000 x41     
+
+WED05   ----------- -------------------hrinish---rajesh.gupta@e-solutionsinc.com tven technologies carolina,wiscounsin 17327055063 hibernate, ang 4
+WED05   -----------TS thu 11.30am PST-- ---------Aditya.Singh@itcinfotech.com walmart              Bentonville, AR     - full Java web services / Strong Java / API
+WED05   -----------fulltime------------ ---------paul esolutions     -                             -                   17323052237 
+WED05   ----------- --skype------------grace-----dikshasuccessd@gmail.com exp ki5084256563 KIRAN ran colaborate w2 acceptit  nj 15102242316 x106 
+WED05   ----------- ------------------- ---------kamal@techgenomics.com>                    -                             -                   - 
 WED05   ----------- ------------------- ---------                    -                             -                   - 
 WED05   ----------- ------------------- ---------                    -                             -                   - 
 WED05   ----------- ------------------- ---------                    -                             -                   - 
