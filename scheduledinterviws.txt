@@ -15,38 +15,107 @@ or 2
 9166575771 or 6 licencuas comerciales
 9166578545  or 4 correccion de errores
 
-WED12	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-TUE11	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-MON10	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
+WED12	-----------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
+TUE11	-----------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
+MON10	SCHEDULED--12pm PST----------------------priyanka@vdartinc.com Accenture      I got the email from Client that your interview was confirmed at Monday(i.e 9/10) 12.00 PM PST through Telephonic Call. Please Confirm this email ASAP.
+		thomas.shavor@accenture.com  ediaz
+		When	Mon Sep 10, 2018 12pm – 12:30pm (PDT)
+		Where	Skype Meeting
+		Who	'Solomon Sebastian', Priyanka Ganesan, Shavor, Thomas*
+
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+FRI07   waitforinvite FINAL-10am-webex------- ---FINAL not technical-social- they will describe project  Portland, OR frank@nytpartners.com Alex  1201) 680-0200 x 7027 c: (201) 500-4152              -    
+		ravi.solanki@citiustech.com
+		Cuándo	vie 7 sep 2018 10:00 – 10:30 (PDT)
+		Dónde	Webex Video Call
+		Quién	Frank Ahmed, Ravi Solanki*
+		https://citiustech.webex.com/citiustech/j.php?MTID=m54ac65c4cee978b0b31d1f64960bb5eb
+		Meeting number (access code): 734 025 895       
+		Host key: 975826        
+		Meeting password:       12345  
+
 FRI07	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-FRI07   ----------- ------------------- ---------                    -                             -                   -    
-FRI07   ----------- ------------------- ---------                    -                             -                   -    
+        TS         1-2 golu- jpmc
+FRI07   ----------- -------------------krishna   bbk itsolutions         -                             -                   4974    
+
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 THU06   SCHEDULED--7:30am-------------- ---------bkaur@softnice.com  BNSF                   -                             -                   - 
-THU06   TS waitforinvite-9am PST------- ---------gloria_max@aesinc.us.com-                             -                   - 
+		Positionss  associate, software architech
+		interviewers harish,  haribabu
+		
+		FEEDBACK 
+		duration: 1hr and 10 minutes
+		topicshibernate inheritance, 		angular AOT, count  zeros without for
+		developer fullstack, large team 100, agile methodology. tracking
+THU06   TS waitforinvite-9am PST------- ---------gloria_max@aesinc.us.com                             -                   - 
 		Cuándo	jue 6 sep 2018 09:00 – 10:00 (PDT)
 		Dónde	Pittsburgh,PA
 		Quién	Sreenath Aramadaka, Haritha Pendyala, SUNIL, Gloria Max*
+		interviewer  Nairit working with   banking domine, interaction with client
+		spring conditional bean configuration
+		module spring profiles
+		pesimistic locking (transactions)
+		lazy eager hibernate
+		java8 hash map has binary search
+		technofunctional rol (clarification from client, first point of contact).
+		location ny
+		3 projects, 14 people team.
+		
 THU06   TS---------10am PST------------ ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
 THU06   SCHEDULED--11:30am PST-SKYPE--- ---------Aditya.Singh@itcinfotech.com itc infotech walmart Bentonville, AR     - full
-		Cuándo	jue 6 sep 2018 11:30 – 12:15 (PDT) 	Dónde	SKYPE  Quién	praveen.claridyne@gmail.com, Harish.Nayak, Shimpy Yadav, vasant@claridyne.com, Praveen Narayankar...
+		Cuándo	jue 6 sep 2018 11:30 – 12:15 (PDT) 	Dónde	SKYPE  
+		Quién	praveen.claridyne@gmail.com, Harish.Nayak, Shimpy Yadav, vasant@claridyne.com, Praveen Narayankar...
+		feedback int praven
+		serializable, generics
+		is a number power of ten?  1, 10 = 10x1, 100 = 10x10, 1000 = 10x10x10
+		Boolean poweroften(in){
+  r=in/10
+  if (r==1){
+    return true
+  } else if( r>1){
+    poweroften(r);
+  } else {
+    return false
+  }
+} 
+		
 THU06	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture
 THU06   TS---------2pm PST------------- ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
-THU06   -----------3pm PST--------------grace-----                    -                             -                   -    
-                   4pm PST   --------------------kamal
-		SCHEDULED de donde salio????????		   4pm                           patrick.nelson@matrixintel.com
-THU06   -----------5pm PST--------------grace-----                    -                             -                   -    
+THU06   SCHEDULED--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick.com Mphasis -                    Tampa, FL           12014643746     -                             -                   -    
+		Type of Interview:          Skype Interview
+		Time: 5:45 PM EST
+		Client: MPhasis (End Client: JPMC)
+Skype ID:                           enpodi25,  The manager will connect you through skype
+THU06	SCHEDULED--4pm---------------------------kamal@techgenomics.com  San Francisco, CA 404-382-0435 Sr. Java Engineer REST,  Java, JavaScript, PHP, CSS, HTML 5
+		patrick.nelson@matrixintel.com
+		Cuándo	jue 6 sep 2018 16:00 – 17:00 (PDT)
+		Dónde	https://zoom.us/j/982832645
+		Quién	Chen Ru., Patrick Nelson*
+		Or iPhone one-tap :
+		US: +16468769923,,982832645#  or +16699006833,,982832645# 
+		Or Telephone:
+		Dial(for higher quality, dial a number based on your current location)：
+        US: +1 646 876 9923  or +1 669 900 6833  or +1 408 638 0968 
+		Meeting ID: 982 832 645
+		International numbers available: https://zoom.us/zoomconference?
+THU06   SCHEDULED---5pm PST------------- ---------srivani.katta@nagarro.com                   -                             -                   -    
+		As discussed, your second round of technical video interview is scheduled for Thursday 6th September at 8:00 PM EST.
+		Please join the video interview 5 min before via Meeting URL https://bluejeans.com/681582651 (interview may be auto-recorded for quality).
 THU06   waitforinvite-6pm PST --------- ---------ragu@diamondpick.com expect call invite from manager MPHASIS        -                   - 
+THU06   ----------- ------------------- ---------alex   @nytpartners.com                           -                   12016800200 x 7027 Cell: (201) 500-4152   
+THU06   ----------- ------------------- ---------sara@successdrivesystems.com  satya will call me                      15102242316 x106   15106666321 x105
+THU06   ----------- ------------------- ---------paul Olooptech                    -                             -                   -    
+THU06   -----------fulltime not to take ---------juri  idc           -                             -                   -    
+THU06   ----------- -------------------krishna---golu jpmc           jpmc                          -                   -    
 THU06   ----------- ------------------- ---------                    -                             -                   -    
 THU06   ----------- ------------------- ---------                    -                             -                   -    
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED05   SCHEDULED DORMIDO 7:30am PST-------------Baljeet bkaur@softnice.com morat BNSF                                 16102686405
+WED05   SCHEDULED DORMIDO 7:30am PST-skype-------Baljeet bkaur@softnice.com morat BNSF                                 16102686405
 		
 WED05   TS-----------11am------------------------frank@nytpartners.com                             -                   - 
 WED05   SCHEDULED--3pm ----------------raj-------Baljeet bkaur@softnice.com   google                                   16102686405
@@ -87,7 +156,7 @@ WED05   ----------- ------------------- ---------                    -          
 
 
 		
-DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION*============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE04   SCHEDULED--10am pst webex----------------Gopalakrishnan.Palaniappan@mindtree.com Southwest Airlines Dallas, TX 919865965805 O +1 (201) 244 - 7835
 		Gopalakrishnan.Palaniappan@mindtree.com
