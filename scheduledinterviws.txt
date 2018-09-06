@@ -15,20 +15,31 @@ or 2
 9166575771 or 6 licencuas comerciales
 9166578545  or 4 correccion de errores
 
+WED12	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
+TUE11	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
+MON10	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
+
+
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+FRI07	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 THU06   SCHEDULED--7:30am-------------- ---------bkaur@softnice.com  BNSF                   -                             -                   - 
-THU06   TS waitforinvite-9am PST------- ---------gloria                    -                             -                   - 
+THU06   TS waitforinvite-9am PST------- ---------gloria_max@aesinc.us.com-                             -                   - 
+		Cuándo	jue 6 sep 2018 09:00 – 10:00 (PDT)
+		Dónde	Pittsburgh,PA
+		Quién	Sreenath Aramadaka, Haritha Pendyala, SUNIL, Gloria Max*
 THU06   TS---------10am PST------------ ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
 THU06   SCHEDULED--11:30am PST-SKYPE--- ---------Aditya.Singh@itcinfotech.com itc infotech walmart Bentonville, AR     - full
 		Cuándo	jue 6 sep 2018 11:30 – 12:15 (PDT) 	Dónde	SKYPE  Quién	praveen.claridyne@gmail.com, Harish.Nayak, Shimpy Yadav, vasant@claridyne.com, Praveen Narayankar...
+THU06	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture
 THU06   TS---------2pm PST------------- ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
 THU06   -----------3pm PST--------------grace-----                    -                             -                   -    
                    4pm PST   --------------------kamal
+		SCHEDULED de donde salio????????		   4pm                           patrick.nelson@matrixintel.com
 THU06   -----------5pm PST--------------grace-----                    -                             -                   -    
 THU06   waitforinvite-6pm PST --------- ---------ragu@diamondpick.com expect call invite from manager MPHASIS        -                   - 
 THU06   ----------- ------------------- ---------                    -                             -                   -    
@@ -47,10 +58,18 @@ WED05   SCHEDULED--3pm ----------------raj-------Baljeet bkaur@softnice.com   go
 		Who krishv@google.com - organizer  ediaz.sfdeve@gmail.com Sushanth Malagalu mrajamanickam@google.com - optional 
 		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
 		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+		FEEDBACK POSITIVE.
+		DURATION 50 MINUTES
+		CORE JAVA N CODING TEST
 WED05   TS---------5pm---------------------------srivani.katta@nagarro.com                         jacksonville,FL     14084447605 angular
 		Cuándo	mié 5 sep 2018 17:00 – 17:30 (PDT)
 		Dónde	https://bluejeans.com/805542166
 		Quién	manoj@allianceit.com, Srivani Katta*
+		florida jacksonvile
+		FEEDBACK 
+		DURATION 35 MINUTES
+		REST JAVA N Angular advanced (how pass data to child elements).
+		size     1y   domain  logistic   one place to another place  mvc, rest, openjpa, oracle, angular,  scrum,  sprint everyone counts.
 WED05   TS-------6pm PST--------------- ---------mahendra@kksoftwareassociates.com 16148592951  tcs balak kkasociates anam  ramya  16144419543
 WED05   ------------------------------------     
 WED05   -----------------------------------------anchal.srivastava@idctechnologies.com             Bentonville, AR     14084185779 x324       -     
