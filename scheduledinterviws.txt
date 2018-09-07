@@ -15,9 +15,10 @@ or 2
 9166575771 or 6 licencuas comerciales
 9166578545  or 4 correccion de errores
 
-WED12	-----------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-TUE11	-----------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-MON10	SCHEDULED--12pm PST----------------------priyanka@vdartinc.com Accenture      I got the email from Client that your interview was confirmed at Monday(i.e 9/10) 12.00 PM PST through Telephonic Call. Please Confirm this email ASAP.
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED12	-----------------------------------------                    -                   -         -                   - 
+MON10	TS---------11am PST----------------------patrick             -                   -         -                   - 
+MON10	SCHEDULED--12pm PST----------------------priyanka@vdartinc.com 6786399140 Accenture      I got the email from Client that your interview was confirmed at Monday(i.e 9/10) 12.00 PM PST through Telephonic Call. Please Confirm this email ASAP.
 		thomas.shavor@accenture.com  ediaz
 		When	Mon Sep 10, 2018 12pm – 12:30pm (PDT)
 		Where	Skype Meeting
@@ -35,11 +36,14 @@ FRI07   waitforinvite FINAL-10am-webex------- ---FINAL not technical-social- the
 		Meeting number (access code): 734 025 895       
 		Host key: 975826        
 		Meeting password:       12345  
-
 FRI07	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-        TS         1-2 golu- jpmc
-FRI07   ----------- -------------------krishna   bbk itsolutions         -                             -                   4974    
-
+FRI07   TS---------1-2pm ------------------------golu- jpmc
+FRI07	SCHEDULED--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick.com Mphasis -                    Tampa, FL           12014643746     -                             -                   -    
+		Type of Interview:          Skype Interview
+		Time: 5:45 PM EST
+		Client: MPhasis (End Client: JPMC)
+FRI07   ----------- -------------------krishna---bbk itsolutions         -                             -                   4974    
+FRI07   ----------- ------------------- ---------                    -                             -                   -    
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
@@ -51,11 +55,18 @@ THU06   SCHEDULED--7:30am-------------- ---------bkaur@softnice.com  BNSF       
 		duration: 1hr and 10 minutes
 		topicshibernate inheritance, 		angular AOT, count  zeros without for
 		developer fullstack, large team 100, agile methodology. tracking
+		https://www.thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/
+		https://www.baeldung.com/hibernate-inheritance
+		MappedSuperclass – the parent classes, can’t be entities
+		Single Table – the entities from different classes with a common ancestor are placed in a single table
+		Joined Table – each class has its table and querying a subclass entity requires joining the tables
+		Table-Per-Class – all the properties of a class, are in its table, so no join is required
 THU06   TS waitforinvite-9am PST------- ---------gloria_max@aesinc.us.com                             -                   - 
 		Cuándo	jue 6 sep 2018 09:00 – 10:00 (PDT)
 		Dónde	Pittsburgh,PA
 		Quién	Sreenath Aramadaka, Haritha Pendyala, SUNIL, Gloria Max*
-		interviewer  Nairit working with   banking domine, interaction with client
+		FEEDBACK
+		INTERVIEWER:  Nairit working with   banking domine, interaction with client
 		spring conditional bean configuration
 		module spring profiles
 		pesimistic locking (transactions)
@@ -66,7 +77,7 @@ THU06   TS waitforinvite-9am PST------- ---------gloria_max@aesinc.us.com       
 		3 projects, 14 people team.
 		
 THU06   TS---------10am PST------------ ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
-THU06   SCHEDULED--11:30am PST-SKYPE--- ---------Aditya.Singh@itcinfotech.com itc infotech walmart Bentonville, AR     - full
+THU06   SCHEDULED--11:30am PST-SKYPE--- ---------ransel  idc  /Aditya.Singh@itcinfotech.com itc infotech walmart Bentonville, AR     - full
 		Cuándo	jue 6 sep 2018 11:30 – 12:15 (PDT) 	Dónde	SKYPE  
 		Quién	praveen.claridyne@gmail.com, Harish.Nayak, Shimpy Yadav, vasant@claridyne.com, Praveen Narayankar...
 		feedback int praven
@@ -83,9 +94,12 @@ THU06   SCHEDULED--11:30am PST-SKYPE--- ---------Aditya.Singh@itcinfotech.com it
   }
 } 
 		
-THU06	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture
-THU06   TS---------2pm PST------------- ---------mahendra@kksoftwareassociates.com  tcs balak kkasociates anam  ramya  16144419543
-THU06   SCHEDULED--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick.com Mphasis -                    Tampa, FL           12014643746     -                             -                   -    
+THU06   SCHEDULED--2pm----------------- ---------kabali tcs 14258656550 / Mahendra@kksoftwareassociates.com TCS/Boeing      Bellevue, WA seatle washington     
+		mahendra@kksoftwareassociates.com 16148592951  tcs balak kkasociates anam  ramya  16144419543
+		Feedback
+		Duration: 40 minutes
+		Topics: SQL, PLSQL, Spring, Angular (how share data)
+THU06   ReSCHEDULED for tomorrow--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick.com Mphasis -                    Tampa, FL           12014643746     -                             -                   -    
 		Type of Interview:          Skype Interview
 		Time: 5:45 PM EST
 		Client: MPhasis (End Client: JPMC)
@@ -102,15 +116,67 @@ THU06	SCHEDULED--4pm---------------------------kamal@techgenomics.com  San Franc
         US: +1 646 876 9923  or +1 669 900 6833  or +1 408 638 0968 
 		Meeting ID: 982 832 645
 		International numbers available: https://zoom.us/zoomconference?
+		Feedback contentus
+		interviewer: enginner manager chen ru.
+		duration: 30 minutes.
+		topics:
+		people to work with: enginner mager chen ru
+		rol: soft engineers, front end, php, transforming ->  angular & java. microservices.  team 15, team 16 colombia 
+		about project: education target wrap, application, cellphone, att, verizon, ask customer personal information, customer pick the phone, pay for the phone. activate device
 THU06   SCHEDULED---5pm PST------------- ---------srivani.katta@nagarro.com                   -                             -                   -    
 		As discussed, your second round of technical video interview is scheduled for Thursday 6th September at 8:00 PM EST.
 		Please join the video interview 5 min before via Meeting URL https://bluejeans.com/681582651 (interview may be auto-recorded for quality).
-THU06   waitforinvite-6pm PST --------- ---------ragu@diamondpick.com expect call invite from manager MPHASIS        -                   - 
+		FEEDBACK 
+		INTERVIEWER ashish
+		DURATION 
+		TOPICS  in java soft vs strong reference. visitor design pattern, how to design a list recently cashing. What is Subject Behaviour.
+		how to design open closed.
+		ROL
+		PROJECT
+		https://stackoverflow.com/questions/9809074/java-difference-between-strong-soft-weak-phantom-reference
+		Java provides two different types/classes of Reference Objects: strong and weak. Weak Reference Objects can be further divided into soft and phantom. Let's go point by point.
+		This is the default type/class of Reference Object, if not differently specified: builder is a strong Reference Object. This kind of reference makes the referenced object not eligible for GC. That is, whenever an object is referenced by a chain of strong Reference Objects, it cannot be garbage collected.
+		A soft Reference Object is basically a weak Reference Object that remains in memory a bit more: normally, it resists GC cycle until memory is available and there is no risk of OutOfMemoryError (in that case, it can be removed).
+		Weak Reference Objects are ideal to implement cache modules. In fact, a sort of automatic eviction can be implemented by allowing the GC to clean up memory areas whenever objects/values are no longer reachable by strong references chain. An example is the WeakHashMap retaining weak keys.
+		https://javaconceptoftheday.com/types-of-references-in-java-strong-soft-weak-and-phantom/
+		One of the beauty of the Java language is that it doesn’t put burden of memory management on the programmers. 
+		Java automatically manages the memory on the behalf of the programmers. Java programmers need not to worry about freeing the memory 
+		after the objects are no more required. Garbage Collector Thread does this for you. This thread is responsible for sweeping out unwanted 
+		objects from the memory. But, you have no control over garbage collector thread. You can’t make it to run whenever you want. 
+		It is up to JVM which decides when to run garbage collector thread. But, with the introduction of java.lang.ref classes, 
+		you can have little control over when your objects will be garbage collected.
+		https://es.wikipedia.org/wiki/Visitor_(patr%C3%B3n_de_dise%C3%B1o)
+		La idea básica es que se tiene un conjunto de clases elemento que conforman la estructura de un objeto. 
+		Cada una de estas clases elemento tiene un método aceptar (accept()) que recibe al objeto visitante (visitor) como argumento. 
+		El visitante es una interfaz que tiene un método visit diferente para cada clase elemento; por tanto habrá implementaciones de la 
+		interfaz visitor de la forma: visitorClase1, visitorClase2... visitorClaseN. El método accept de una clase elemento llama al método 
+		visit de su clase. Clases concretas de un visitante pueden entonces ser escritas para hacer una operación en particular.
+		Método simple sin usar este patrón: supongamos un veterinario a domicilio, que con base al animal que tiene que curar sabe qué cura tiene que aplicar. 
+		Es responsabilidad del veterinario el saber de qué clase es el animal y sobre la base de ello aplicar la cura.
+		Método usando el patrón: El veterinario no tiene que reconocer al animal ni saber qué cura aplicarle. 
+		Es el propio animal el que le dice al veterinario qué cura es más apropiada para él. El veterinario sólo "visita" al animal, y aplica la cura apropiada.
+		
+		How design recently list cashing?
+		A cache is an area of local memory that holds a copy of frequently accessed data that is otherwise expensive to get or compute. 
+		Examples of such data include a result of a query to a database, a disk file or a report.
+		caching best practices:
+		https://dzone.com/articles/caching-best-practices
+		https://www.javaworld.com/article/2075440/core-java/develop-a-generic-caching-service-to-improve-performance.html
+		https://cruftex.net/
+		https://github.com/Cetsoft/imcache
 THU06   ----------- ------------------- ---------alex   @nytpartners.com                           -                   12016800200 x 7027 Cell: (201) 500-4152   
 THU06   ----------- ------------------- ---------sara@successdrivesystems.com  satya will call me                      15102242316 x106   15106666321 x105
 THU06   ----------- ------------------- ---------paul Olooptech                    -                             -                   -    
 THU06   -----------fulltime not to take ---------juri  idc           -                             -                   -    
-THU06   ----------- -------------------krishna---golu jpmc           jpmc                          -                   -    
+THU06   ----------- -------------------krishna---golu jpmc           jpmc                          -                   18052220532    
+THU06   ----------- -------------------raj-------gokulraj.v@reveilletechnologies.com               Cedar Rapids, IA    336-499-6139 EXT-21 Mobile: 502-234-2830 
+THU06   ----------- -------------------s.kumar---mike@urpantech.com  techm cisco RTR#081518        -                   408-834 4603
+THU06   ----------- ------------------- ---------dikshasuccessd@gmail.com kp@collaboratesolutions.com                  -    
+THU06    ----------- -------------------hrinish---rajesh.gupta@e-solutionsinc.com tven technologies carolina,wiscounsin 17327055063 hibernate, ang 4
+THU06   ----------- ----------------ransel idc /Aditya.Singh@itcinfotech.com itc infotech walmart Bentonville, AR full 14084185779    
+THU06   ----------- ------------------- ---------manoj               -                             -                   15105802939    
+THU06   ----------- ------------------- ---------                    -                             -                   16462609705    
+THU06   ----------- ------------------- ---------                    -                             -                   -    
 THU06   ----------- ------------------- ---------                    -                             -                   -    
 THU06   ----------- ------------------- ---------                    -                             -                   -    
 
@@ -150,7 +216,7 @@ WED05   -----------TS thu 11.30am PST-- ---------Aditya.Singh@itcinfotech.com wa
 WED05   -----------fulltime------------ ---------paul esolutions     -                             -                   17323052237 
 WED05   ----------- --skype------------grace-----dikshasuccessd@gmail.com exp ki5084256563 KIRAN ran colaborate w2 acceptit  nj 15102242316 x106 
 WED05   ----------- ------------------- ---------kamal@techgenomics.com>                    -                             -                   - 
-WED05   ----------- ------------------- ---------                    -                             -                   - 
+WED05   ----------- ------------------- ---------
 WED05   ----------- ------------------- ---------                    -                             -                   - 
 WED05   ----------- ------------------- ---------                    -                             -                   - 
 

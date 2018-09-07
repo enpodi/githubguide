@@ -31,6 +31,15 @@ DDL is Data Definition Language : it is used to define data structures.
  For example, with SQL, it would be instructions such as create table, alter table
 DML is Data Manipulation Language : it is used to manipulate data itself.
  For example, with SQL, it would be instructions such as insert, update, delete, ...
+ 
+ HIBERNATE INHERITANCE
+ ====================
+https://www.baeldung.com/hibernate-inheritance
+MappedSuperclass – the parent classes, can’t be entities
+Single Table – the entities from different classes with a common ancestor are placed in a single table
+Joined Table – each class has its table and querying a subclass entity requires joining the tables
+Table-Per-Class – all the properties of a class, are in its table, so no join is required   @Entity  @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
+		
 
 
 The HashMap class is roughly equivalent to Hashtable, except that it is non synchronized and permits nulls. 
