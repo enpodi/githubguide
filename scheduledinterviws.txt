@@ -164,6 +164,28 @@ THU06   SCHEDULED---5pm PST------------- ---------srivani.katta@nagarro.com     
 		https://www.javaworld.com/article/2075440/core-java/develop-a-generic-caching-service-to-improve-performance.html
 		https://cruftex.net/
 		https://github.com/Cetsoft/imcache
+		
+		
+		https://dzone.com/articles/caching-best-practices
+		https://github.com/vladmihalcea/vladmihalcea.wordpress.com/tree/master/misc
+		private LoadingCache<Integer, Integer> fibonacciCache = CacheBuilder.newBuilder()
+        .maximumSize(2)
+        .build(new CacheLoader<Integer, Integer>() {
+            public Integer load(Integer i) {
+                if (i == 0)
+                    return i;
+                if (i == 1)
+                    return 1;
+                LOGGER.info("Calculating f(" + i + ")");
+                return fibonacciCache.getUnchecked(i - 2) + fibonacciCache.getUnchecked(i - 1);
+            }
+        });
+@Test
+public void test() {
+    for (int i = 0; i < 10; i++) {
+        LOGGER.info("f(" + i + ") = " + fibonacciCache.getUnchecked(i));
+    }
+}
 THU06   ----------- ------------------- ---------alex   @nytpartners.com                           -                   12016800200 x 7027 Cell: (201) 500-4152   
 THU06   ----------- ------------------- ---------sara@successdrivesystems.com  satya will call me                      15102242316 x106   15106666321 x105
 THU06   ----------- ------------------- ---------paul Olooptech                    -                             -                   -    
