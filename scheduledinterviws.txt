@@ -23,6 +23,7 @@ MON10	SCHEDULED--12pm PST----------------------priyanka@vdartinc.com 6786399140 
 		When	Mon Sep 10, 2018 12pm – 12:30pm (PDT)
 		Where	Skype Meeting
 		Who	'Solomon Sebastian', Priyanka Ganesan, Shavor, Thomas*
+MON10   rupali ent   melvin L&T  apple
 
 
 
@@ -36,13 +37,61 @@ FRI07   waitforinvite FINAL-10am-webex------- ---FINAL not technical-social- the
 		Meeting number (access code): 734 025 895       
 		Host key: 975826        
 		Meeting password:       12345  
+		
+		FEEDBACK
+		interviewer burhanuddin
+		location oregon, domine  health insurance.
+		rol fullstack. required framework spring batch
+		duration long time project 1year extendable
+		I FELT GOOF. I EXPECT POSITIVE FEEDBACK. I ONLY LACKED SPRING BATCH
+FRI07	TS---------11am--------------------------akash@quantumworld.us   smanikandan@virtusa.com google  /golu- jpmc
+		When	Fri Sep 7, 2018 11am – 12pm (PDT)
+		Where	Skype ID : enpodi25 / Contact : 415 715 7029
+		Who	Akash Pattnaik, Manikandan Sekar*
+		feedback
+		interviewer pinna bhaskar
+		location likely  new jerser jp morgan
+		working mostly with pinna.
+		he will recomend for the client round.
+		next round with client likely on monday.
+		study hibernate configurations file.
 FRI07	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-FRI07   TS---------1-2pm ------------------------golu- jpmc
+                   
 FRI07	SCHEDULED--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick.com Mphasis -                    Tampa, FL           12014643746     -                             -                   -    
 		Type of Interview:          Skype Interview
 		Time: 5:45 PM EST
 		Client: MPhasis (End Client: JPMC)
+FRI07	TS---------4pm PST-----------------------akash@quantumworld.us   smanikandan@virtusa.com google
 FRI07   ----------- -------------------krishna---bbk itsolutions         -                             -                   4974    
+FRI07   ----------- ------------------- ---------krishna             -                             -                   16787204379    
+FRI07   ----------- -------------------krishna---alisha@tekinspirations.com                        Washington DC       17132346351    
+FRI07   ----------- ------------------- ---------MON10   rupali ent   melvin L&T  apple                 -    
+FRI07   ----------- ------------------- ---------lavina idc          -12:30                        sunnyvale           14088685128    
+FRI07   ----------- ------------------- ---------alejandro alliance  -                             -                   16616661469    
+FRI07   ----------- ------------------- ---------aropeeza berkley    tst                           -                 m 18155560056    
+FRI07   ----------- ------------------- ---------frank nycpartners      -                          -                 m 17864925795    
+FRI07   ----------- ------------------- ---------                    -                             -                   13125857015    
+FRI07   ----------- ------------------- ---------basan mindtree      -                             -                ma 14083407765    
+FRI07   ----------- ------------------- ---------kartik-grace mphasis-                             -                ma 12014643746    
+FRI07   ----------- ------------------- ---------                    -                             -                mi 12014643746  
+FRI07   ----------- ------------------- ---------priksha systems     -                             -                mi 15102242316    
+FRI07   -----------share employer------ ---------Shubham.Singhal@artech.com                        Boston, MA          19739673404  full
+FRI07   ----------- ------------------- ---------priksha systems     -                             -                mi 15102242316 position fast moving
+FRI07   ----------- ------------------- ---------                    -                             -                mi 14043820435
+FRI07   ----------- ------------------- ---------flora 3global       -                             -                ma 17702849333    
+FRI07   ----------- ------------------- ---------kabali tata consulting                            -                ma 14258656736    
+FRI07   ----------- -------------------s.kumar---rasiv vtconsulting  -                            NY                mi 16783674177
+FRI07   ----------- ------------------- ---------ranjeet paramind consulting/prashant              -             mi 29 17323130312
+FRI07   ----------- ------------------- ---------mahendra kk         -                             -             ju 30 16148592951 
+FRI07   ----------- ------------------- ---------satish codeforce    -                       blumington illinois ju30  14707477157
+FRI07   ----------- ------------------- ---------yet yash technologies                              -             ju30 15155093689
+FRI07   ----------- ------------------- ---------arika l&t infotech  -                             -              ju30 17323176658
+FRI07   ----------- ------------------- ---------mandi it connect    -                             LA california  ju30 18472589595    
+FRI07   ----------- ------------------- ---------oropeza             -                             chicago        vi31 18155560056    
+FRI07   ----------- ------------------- ---------matinj keyyen       -                             -                   19492035100    
+FRI07   ----------- -------------------raj-------gokulraj.v@reveilletechnologies.com               Omaha, Nebraska     13364996139 X21 M15022342830 Strong AngularJS
+FRI07   ----------- ------------------- ---------                    -                             -                   -    
+FRI07   ----------- ------------------- ---------                    -                             -                   -    
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 
