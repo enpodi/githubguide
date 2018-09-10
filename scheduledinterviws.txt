@@ -17,6 +17,8 @@ or 2
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED12	-----------------------------------------                    -                   -         -                   - 
+TUE11   TS         10am                          anbu@lorventech.com dxc                           sanjose             16097994202
+mon10   ts         10am                          ashvin                                            PITS,pensilvania CT
 MON10	TS---------11am PST----------------------patrick             -                   -         -                   - 
 MON10	SCHEDULED--12pm PST----------------------priyanka@vdartinc.com 6786399140 Accenture      I got the email from Client that your interview was confirmed at Monday(i.e 9/10) 12.00 PM PST through Telephonic Call. Please Confirm this email ASAP.
 		thomas.shavor@accenture.com  ediaz
@@ -24,7 +26,7 @@ MON10	SCHEDULED--12pm PST----------------------priyanka@vdartinc.com 6786399140 
 		Where	Skype Meeting
 		Who	'Solomon Sebastian', Priyanka Ganesan, Shavor, Thomas*
 MON10   rupali ent   melvin L&T  apple
-
+MON10	TS---------7:30pm PST--------------------srivani.katta@nagarro.com lakshman                -                   14084447605 angular
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
@@ -55,13 +57,10 @@ FRI07	TS---------11am--------------------------akash@quantumworld.us   smanikand
 		he will recomend for the client round.
 		next round with client likely on monday.
 		study hibernate configurations file.
-FRI07	TS---------12pm PST----------------------priyanka@vdartinc.com Accenture                   -                   -    
-                   
-FRI07	SCHEDULED--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick.com Mphasis -                    Tampa, FL           12014643746     -                             -                   -    
+FRI07	TS--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick.com Mphasis -                    Tampa, FL           12014643746     -                             -                   -    
 		Type of Interview:          Skype Interview
 		Time: 5:45 PM EST
 		Client: MPhasis (End Client: JPMC)
-FRI07	TS---------4pm PST-----------------------akash@quantumworld.us   smanikandan@virtusa.com google
 FRI07   ----------- -------------------krishna---bbk itsolutions         -                             -                   4974    
 FRI07   ----------- ------------------- ---------krishna             -                             -                   16787204379    
 FRI07   ----------- -------------------krishna---alisha@tekinspirations.com                        Washington DC       17132346351    
@@ -90,8 +89,11 @@ FRI07   ----------- ------------------- ---------mandi it connect    -          
 FRI07   ----------- ------------------- ---------oropeza             -                             chicago        vi31 18155560056    
 FRI07   ----------- ------------------- ---------matinj keyyen       -                             -                   19492035100    
 FRI07   ----------- -------------------raj-------gokulraj.v@reveilletechnologies.com               Omaha, Nebraska     13364996139 X21 M15022342830 Strong AngularJS
-FRI07   ----------- ------------------- ---------                    -                             -                   -    
-FRI07   ----------- ------------------- ---------                    -                             -                   -    
+FRI07   ----------- ------------------- ---------sharabh Goyal-Artech-                             -                   -    
+pass by referece by value.  how clone an oject in js   var vs let keyword in js. ways to create. Reactive programming in js
+FRI07   ----------- ------------------- ---------anbu@lorventech.com dxc                           sanjose             16097994202
+FRI07   ----------- -------------------raj-------rahul.s@cynetsystems.com                          Salt Lake City UT   15713508648    
+FRI07   ----------- ------------------- ---------kamal@techgenomics.com Ok Enrique, then they will get back with the interview slots for F2F round. Will let you know when it would be.
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 FRI07   ----------- ------------------- ---------                    -                             -                   -    
 
@@ -153,7 +155,7 @@ THU06   ReSCHEDULED for tomorrow--2:45pm PST--5:45 PM EST-grace-ragu@diamondpick
 		Time: 5:45 PM EST
 		Client: MPhasis (End Client: JPMC)
 Skype ID:                           enpodi25,  The manager will connect you through skype
-THU06	SCHEDULED--4pm---------------------------kamal@techgenomics.com  San Francisco, CA 404-382-0435 Sr. Java Engineer REST,  Java, JavaScript, PHP, CSS, HTML 5
+THU06	SCHEDULED-FINAL-4pm---------------------------kamal@techgenomics.com  San Francisco, CA 404-382-0435 Sr. Java Engineer REST,  Java, JavaScript, PHP, CSS, HTML 5
 		patrick.nelson@matrixintel.com
 		Cuándo	jue 6 sep 2018 16:00 – 17:00 (PDT)
 		Dónde	https://zoom.us/j/982832645
@@ -172,13 +174,13 @@ THU06	SCHEDULED--4pm---------------------------kamal@techgenomics.com  San Franc
 		people to work with: enginner mager chen ru
 		rol: soft engineers, front end, php, transforming ->  angular & java. microservices.  team 15, team 16 colombia 
 		about project: education target wrap, application, cellphone, att, verizon, ask customer personal information, customer pick the phone, pay for the phone. activate device
-THU06   SCHEDULED---5pm PST------------- ---------srivani.katta@nagarro.com                   -                             -                   -    
+THU06   SCHEDULED-FINAL-5pm PST------------- ---------srivani.katta@nagarro.com                   -                             -                   -    
 		As discussed, your second round of technical video interview is scheduled for Thursday 6th September at 8:00 PM EST.
 		Please join the video interview 5 min before via Meeting URL https://bluejeans.com/681582651 (interview may be auto-recorded for quality).
 		FEEDBACK 
 		INTERVIEWER ashish
 		DURATION 
-		TOPICS  in java soft vs strong reference. visitor design pattern, how to design a list recently cashing. What is Subject Behaviour.
+		TOPICS  in java soft vs strong reference. visitor design pattern, how to design a list recently caching. What is Subject Behaviour.
 		how to design open closed.
 		ROL
 		PROJECT
