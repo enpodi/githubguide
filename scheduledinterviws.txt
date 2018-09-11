@@ -2,7 +2,7 @@
 rupali@enterprisesolutioninc.com 16304025935       Melvin.Avinash@lntinfotech.com 14087531214  Akanksha Gupta (V), Romil Jain (V)    apple                                               ca         san jose
 frank@nytpartners.com 17864925795 ravi.solanki@citiustech.com           Portland, OR  interviewer burhanuddin 	location oregon, domine  health insurance. 	rol fullstack. required framework spring batch
 kamal@techgenomics.com 14043820435 Quién	Chen Ru., Patrick Nelsonpatrick.nelson@matrixintel.com   CA  
-srivani.katta@nagarro.com
+srivani.katta@nagarro.com   interview with lakshman  was no good
 akash@quantumworld.us   smanikandan@virtusa.com google  /golu- jpmc                                      SEP FRI07
 
 BLACKLIST
@@ -27,6 +27,8 @@ THU13	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED12	TS---------10am PST------------raj-------mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
 WED12	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
+WED12   TS---------1pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
+WED12   TS---------3pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12	-----------------------------------------                    -                   -         -                   - 
 WED12	-----------------------------------------                    -                   -         -                   - 
 WED12	-----------------------------------------                    -                   -         -                   - 
@@ -47,7 +49,18 @@ TUE11	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140
 		https://join.accenture.com/meet/thomas.shavor/10N86L8B
 		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
 		+1 703 948 0488 4866687818#
+TUE11   TS---------1pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
+TUE11   TS---------3pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 TUE11   SCHEDULED  WAITIMEFORINVITE----krishna---ritesh@quantumworld.us Virtusa/JPMC Chicago/Columbus/Wilmington, DE/Jersey City, NJ   18052220532 x153 d:17329077596  
+TUE11   -----------fultime not to take-raj-------srikanth@info-ways.com                            Boise/Idaho         12156094260
+TUE11   -------------------------------alliance--nandini.p@sparinfosys.com techm/google 9am-12pm 2pm-5pm Pittsburgh, PA 12015285307 x423
+TUE11   -------------------------------raj-------yaminig@skoruz.com                                New York City, NY   510-255-2304 lead  number does not exist
+TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   ------------------------------- ---------                    -                             -                   - 
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
@@ -61,14 +74,21 @@ MON10	SCHEDULED--12pm PST----------------------priyanka@vdartinc.com 6786399140 
 		Where	Skype Meeting
 		Who	'Solomon Sebastian', Priyanka Ganesan, Shavor, Thomas*
 MON10   rupali ent   melvin L&T  apple
-MON10	SCHEDULED---------3pm---------------------------                              
+MON10	SCHEDULED-FINAL-3pm---------------------------                              
 		skunta@apple.com
 		When	Mon Sep 10, 2018 3pm – 4pm (PDT)
 		Where	420 N Mary Avenue, Sunnyvale                              Jolly Roger (3) MR11 1st
 		Who	Ritesh Biltheria, Akanksha Gupta (V), Kannan Manirajan, Sheetal Kunta (V)*
+		FEEDBACK
+		INTERVIEWER: kannan,ritesh, sheetal
+		topics: lamdas, Classnotfoundexception, Classdeffounderror, elastic search
 MON10	SCHEDULED--7:30pm PST--------------------srivani.katta@nagarro.com lakshman                -                   14084447605 angular
 		As discussed, your technical video interview is scheduled for Monday 10th September at 7:30 PM EST.
 		Please join the video interview 5 min before via Meeting URL https://bluejeans.com/453181327 (interview may be auto-recorded for quality).
+		FEEDBACK
+		interviewer  lakshman
+		Duration 25m
+		topics how pass data frm children modules (angular), session in JSF. struts2 lifecycle.
 MON10   -----------------------------------------krishSoftcom tst    -                             -                   16304025935 x41
 MON10   -----------------------------------------susmithas.ithr@gmail.com   century                -                   18324315511 
 MON10   -----------------------------------------aditia itc infotech -                             -                   16465699010
