@@ -21,12 +21,14 @@ or 2
 9166578545  or 4 correccion de errores
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-FRI14	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
+FRI14	TS---------12:30pm PST-------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
+		https://join.accenture.com/meet/thomas.shavor/10N86L8B
+		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
+		+1 703 948 0488 4866687818#
 THU13	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED12	TS---------10am PST------------raj-------mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
-WED12	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 WED12   TS---------1pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12   TS---------3pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12	-----------------------------------------                    -                   -         -                   - 
@@ -45,7 +47,7 @@ WED12	-----------------------------------------                    -            
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE11	TS---------10am PST------------raj-------mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
 TUE11   TS---------10am--------------------------anbu@lorventech.com dxc                           sanjose             16097994202
-TUE11	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
+TUE11	POSTPONED---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 		https://join.accenture.com/meet/thomas.shavor/10N86L8B
 		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
 		+1 703 948 0488 4866687818#
@@ -55,7 +57,7 @@ TUE11   SCHEDULED  WAITIMEFORINVITE----krishna---ritesh@quantumworld.us Virtusa/
 TUE11   -----------fultime not to take-raj-------srikanth@info-ways.com                            Boise/Idaho         12156094260
 TUE11   -------------------------------alliance--nandini.p@sparinfosys.com techm/google 9am-12pm 2pm-5pm Pittsburgh, PA 12015285307 x423
 TUE11   -------------------------------raj-------yaminig@skoruz.com                                New York City, NY   510-255-2304 lead  number does not exist
-TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   ------------------------------- ---------sashi L&T           apple                         -                   13313052512
 TUE11   ------------------------------- ---------                    -                             -                   - 
 TUE11   ------------------------------- ---------                    -                             -                   - 
 TUE11   ------------------------------- ---------                    -                             -                   - 
