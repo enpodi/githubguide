@@ -26,18 +26,21 @@ FRI14	TS---------12:30pm PST-------------------priyanka@vdartinc.com 16786399140
 		https://join.accenture.com/meet/thomas.shavor/10N86L8B
 		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
 		+1 703 948 0488 4866687818#
+		
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 THU13	TS---------10:30am PST-------------------Baljeet bkaur@softnice.com  LOGIN WITH EDIAZ ACCOUNT TO USE SCRIBBLE PAD
 		mrajamanickam@google.com
 		When	Thu Sep 13, 2018 10:30am – 10:55am (PDT)
 		Where	TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Component (8) [GVC]
 		Who	SJC-BNV2-1-Component (8) [GVC], krishv@google.com, mrajamanickam@google.com*
 		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
-		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
-		
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web		
 THU13	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED12	TS---------10am PST------------raj-------mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
+WED12	SCHEDULED--12pm - 2pm PST------ ---------krish@softcomsystems.com final                                        16093339000 x41 
+		HCL represent softcom expect Jackdeep (17813522625)singh@maximaconsulting.com   boston      
 WED12   TS---------1pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12   TS---------3pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12	-----------------------------------------                    -                   -         -                   - 
@@ -69,10 +72,10 @@ TUE11   -------------------------------raj-------yaminig@skoruz.com             
 TUE11   ------------------------------- ---------sashi L&T           apple                         -                   13313052512
 TUE11   -------------------------------manoj-----nishweta@4-serveinc.com                           -                   12488969212 
 TUE11   ------------------------------- ---------alex                -                             -                   - 
-TUE11   -------------------------------s.kumar---rickyit850@gmail.com                              -                   16092167354 
+TUE11   -------------------------------s.kumar---rickyit850@gmail.com/ricky.basu@humanoko.com      -                   16092167354 
 TUE11   ------------------------------- ---------                    -                             missouri            5787 
 TUE11   ------------------------------- ---------rajish idc f2f      -                             -                   14088443772 
-TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   ------------------------------- ---------SachinS@sysmind.com -                             Franklin Lakes, NJ  16098979670 x5105 AngularJS, Mongo DB, Microservices
 TUE11   ------------------------------- ---------                    -                             -                   - 
 TUE11   ------------------------------- ---------                    -                             -                   - 
 TUE11   ------------------------------- ---------                    -                             -                   - 
