@@ -1,9 +1,10 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
 rupali@enterprisesolutioninc.com 16304025935       Melvin.Avinash@lntinfotech.com 14087531214  Akanksha Gupta (V), Romil Jain (V)    apple                                               ca         san jose
-frank@nytpartners.com 17864925795 ravi.solanki@citiustech.com           Portland, OR  interviewer burhanuddin 	location oregon, domine  health insurance. 	rol fullstack. required framework spring batch
+frank@nytpartners.com 17864925795  alex@nytpartners.com ravi.solanki@citiustech.com      oral positive       Portland, OR  interviewer burhanuddin 	location oregon, domine  health insurance. 	rol fullstack. required framework spring batch
 kamal@techgenomics.com 14043820435 Quién	Chen Ru., Patrick Nelsonpatrick.nelson@matrixintel.com   CA  
 srivani.katta@nagarro.com   interview with lakshman  was no good
 akash@quantumworld.us   smanikandan@virtusa.com google  /golu- jpmc                                      SEP FRI07
+Baljeet bkaur@softnice.com expect call mohan   krishv@google.com   mohan from blsf america will call me tue n wed 9am-5pm. something is missing
 
 BLACKLIST
 ravi@resource-logistics.com    raj deep:    no don't send him because after six months of project they want c2h
@@ -25,6 +26,14 @@ FRI14	TS---------12:30pm PST-------------------priyanka@vdartinc.com 16786399140
 		https://join.accenture.com/meet/thomas.shavor/10N86L8B
 		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
 		+1 703 948 0488 4866687818#
+THU13	TS---------10:30am PST-------------------Baljeet bkaur@softnice.com  LOGIN WITH EDIAZ ACCOUNT TO USE SCRIBBLE PAD
+		mrajamanickam@google.com
+		When	Thu Sep 13, 2018 10:30am – 10:55am (PDT)
+		Where	TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Component (8) [GVC]
+		Who	SJC-BNV2-1-Component (8) [GVC], krishv@google.com, mrajamanickam@google.com*
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+		
 THU13	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
@@ -58,7 +67,11 @@ TUE11   -----------fultime not to take-raj-------srikanth@info-ways.com         
 TUE11   -------------------------------alliance--nandini.p@sparinfosys.com techm/google 9am-12pm 2pm-5pm Pittsburgh, PA 12015285307 x423
 TUE11   -------------------------------raj-------yaminig@skoruz.com                                New York City, NY   510-255-2304 lead  number does not exist
 TUE11   ------------------------------- ---------sashi L&T           apple                         -                   13313052512
-TUE11   ------------------------------- ---------                    -                             -                   - 
+TUE11   -------------------------------manoj-----nishweta@4-serveinc.com                           -                   12488969212 
+TUE11   ------------------------------- ---------alex                -                             -                   - 
+TUE11   -------------------------------s.kumar---rickyit850@gmail.com                              -                   16092167354 
+TUE11   ------------------------------- ---------                    -                             missouri            5787 
+TUE11   ------------------------------- ---------rajish idc f2f      -                             -                   14088443772 
 TUE11   ------------------------------- ---------                    -                             -                   - 
 TUE11   ------------------------------- ---------                    -                             -                   - 
 TUE11   ------------------------------- ---------                    -                             -                   - 
