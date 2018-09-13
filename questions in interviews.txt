@@ -1095,3 +1095,41 @@ console.log(findSecondLargestElement([1, 0, -3, 8, 2, 5, 8, -7]));
 
 
 // 5
+
+
+
+
+
+Code Test:
+
+Sum Of Two:
+Given an Array A = {-2,3,8,4,6,10,2,5}
+Target Sum = 8
+List l1 = {-2,3,8,4,6,10,2,5}
+loop(i=0 -> length) //O(n)
+if(l1.contains(i-ts)){
+print(i,l1.get(i-ts));
+}
+ 
+Output:
+4,6
+5,3
+10,-2
+Print all unique pair of elements which will add up to the target sum. 
+signature:
+public void sumOfTwo(int[] a, int ts){
+// Implementation
+Arraylist<Arraylist<int> p = new Arraylist<Arraylist<int>();
+for (int i=0;i<arr.legth;i++){
+    for(int j=0;j<arr.legth;j++){
+     If (i==j) continue;
+      else If (a[i]+a[j] == ts){
+         p.add(new Arraylist(a[i],a[j] ) );
+      }
+   }
+ 
+}
+ 
+}
+
+

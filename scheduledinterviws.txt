@@ -46,17 +46,44 @@ FRI14	-----------12:30pm PST-------------------priyanka@vdartinc.com 16786399140
 		
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 THU13   SCHEDULED--9am PST-----------------------ricky.basu@humanoko.com                 -         -                   16092167354 x104
-		prateek.priyadarshi@xebia.com>
+		prateek.priyadarshi@xebia.com
 		Cuándo	jue 13 sep 2018 09:00 – 10:00 (PDT)
 		Dónde	Skype: enpodi25/ 415-715-7029
 		Quién	Mandhir Dhingra, Sunil Kumar (sunil.kumar@humanoko.com), Rajat Nigam, Prateek Priyadarshi*
+		feedback: 
+		interviewer: rajit
+		topics: coding test. sort hashmap on value basis
+		duration: 1 hr
 THU13	SCHEDULED--10:30am PST-------------------Baljeet bkaur@softnice.com  LOGIN WITH EDIAZ ACCOUNT TO USE SCRIBBLE PAD
 		mrajamanickam@google.com
 		When	Thu Sep 13, 2018 10:30am – 10:55am (PDT)
 		Where	TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Component (8) [GVC]
 		Who	SJC-BNV2-1-Component (8) [GVC], krishv@google.com, mrajamanickam@google.com*
 		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
-		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web		
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web	
+		feedback: 
+		interviewer: mohan
+		topics: 
+		duration: 1 hr		
+		selected for tp2
+		final f2f san jose sunnyvale..     bay area  or NY.    2 chances    two final interviews
+		java sql design knowledge.
+		moving elements in arrays, Access modifier. Pick rigth data structure.
+		Define clearly scenario.
+		be talkative during coding test so interviewer gives hints.
+		consider positive cases, negative cases. empty string nulls, corner cases.
+		Testing conditions.  pass blank spaces or nulls.
+		sql -> analytical functions, select, joins, top, tree,  list of employees whose salaries greater than.
+		angular, components.
+		more queries on the backend side.
+		how linked list works. how stacks works.
+		copy arrray to array. efficient ways.
+		geeks for geeks   -->> practice
+		
+		schedule friday   after  2pm or monday.
+		wait for address.
+		send text
+		
 THU13	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 THU13	SCHEDULED--2pm PST-----------------------Raghunatha.ReddyBollavaram@aexp.com AMEX          Phoenix az          12014643746
 		Aju.N.Joseph@aexp.com
@@ -64,6 +91,10 @@ THU13	SCHEDULED--2pm PST-----------------------Raghunatha.ReddyBollavaram@aexp.c
 		Dónde	https://amex.webex.com/meet/aju.n.joseph
 		Quién	Raghunatha Reddy Bollavaram, Avian L Dsouza, Aju N Joseph*
 THU13	SCHEDULED--3:30pm PST--6:30 est----------ragu@diamondpick.com  Mphasis(End Client: JPMC) - Tomorrow at 5:00 PM EST     Tampa 12014643746
+		When	Thu Sep 13, 2018 3:30pm – 4pm (PDT)
+		Where	Skype: enpodi25
+		Who	Sai Medipalli, Vamsikrishna D01, Mahesh Kandasamy, E Bhargav*
+
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED12	TS---------10am PST------------raj-------mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
