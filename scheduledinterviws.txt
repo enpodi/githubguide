@@ -1,11 +1,12 @@
 ﻿ALLIANCE/VENDOR/VENDOR                                             LOCATION   CLIENT                     LASTDAY  INTERVIEWER         QUERIESWEREABOUT
 rupali@enterprisesolutioninc.com 16304025935       Melvin.Avinash@lntinfotech.com 14087531214  Akanksha Gupta (V), Romil Jain (V)    apple                                               ca         san jose
-frank@nytpartners.com 17864925795  alex@nytpartners.com ravi.solanki@citiustech.com      oral positive       Portland, OR  interviewer burhanuddin 	location oregon, domine  health insurance. 	rol fullstack. required framework spring batch
+frank@nytpartners.com 17864925795  alex@nytpartners.com 1201680 ravi.solanki@citiustech.com      oral positive       Portland, OR  interviewer burhanuddin 	location oregon, domine  health insurance. 	rol fullstack. required framework spring batch
 kamal@techgenomics.com 14043820435 Quién	Chen Ru., Patrick Nelsonpatrick.nelson@matrixintel.com   CA  
 srivani.katta@nagarro.com   interview with lakshman  was no good
 akash@quantumworld.us   smanikandan@virtusa.com google  /golu- jpmc                                      SEP FRI07
 Baljeet bkaur@softnice.com expect call mohan   krishv@google.com   mohan from blsf america will call me tue n wed 9am-5pm. something is missing
 bsai@futransolutions.com 17326662523 rsteve@futransolutions.com 16099451939 INTERVIEW WITH EMPHASIS WAS GOOD BUT CLIENT TOOK ANOTHER CONSULTANT
+singh@maximaconsulting.com / krish@softcomsystems.com              boston    http://www.statestreet.com/home.html Solutions by By Capability Investment Management,Data and Analytics
 
 BLACKLIST
 ravi@resource-logistics.com    raj deep:    no don't send him because after six months of project they want c2h
@@ -22,14 +23,34 @@ or 2
 9166575771 or 6 licencuas comerciales
 9166578545  or 4 correccion de errores
 
+https://stackoverflow.com/questions/34413/why-am-i-getting-a-noclassdeffounderror-in-java
+NoClassDefFoundError 
+This is caused when there is a class file that your code depends on and it is present at compile time but not found at runtime
+java.lang.NoClassDefFoundError This exception indicates that the JVM looked in its internal class definition data structure for the definition 
+of a class and did not find it. This is different than saying that it could not be loaded from the classpath. 
+Usually this indicates that we previously attempted to load a class from the classpath, but it failed for some reason - 
+now we're trying to use the class again (and thus need to load it, since it failed last time), but we're not even going to 
+try to load it, because we failed loading it earlier (and reasonably suspect that we would fail again). The earlier failure 
+could be a ClassNotFoundException or an ExceptionInInitializerError (indicating a failure in the static initialization block) or 
+any number of other problems. The point is, a NoClassDefFoundError is not necessarily a classpath problem.
+
+ClassNotFoundException
+java.lang.ClassNotFoundException This exception indicates that the class was not found on the classpath. 
+This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
+
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-FRI14	TS---------12:30pm PST-------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
+FRI14	-----------12:30pm PST-------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 		https://join.accenture.com/meet/thomas.shavor/10N86L8B
 		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
 		+1 703 948 0488 4866687818#
 		
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU13	TS---------10:30am PST-------------------Baljeet bkaur@softnice.com  LOGIN WITH EDIAZ ACCOUNT TO USE SCRIBBLE PAD
+THU13   SCHEDULED--9am PST-----------------------ricky.basu@humanoko.com                 -         -                   16092167354 x104
+		prateek.priyadarshi@xebia.com>
+		Cuándo	jue 13 sep 2018 09:00 – 10:00 (PDT)
+		Dónde	Skype: enpodi25/ 415-715-7029
+		Quién	Mandhir Dhingra, Sunil Kumar (sunil.kumar@humanoko.com), Rajat Nigam, Prateek Priyadarshi*
+THU13	SCHEDULED--10:30am PST-------------------Baljeet bkaur@softnice.com  LOGIN WITH EDIAZ ACCOUNT TO USE SCRIBBLE PAD
 		mrajamanickam@google.com
 		When	Thu Sep 13, 2018 10:30am – 10:55am (PDT)
 		Where	TP 2 - | Java Full Stack Developer, SJC-BNV2-1-Component (8) [GVC]
@@ -37,25 +58,55 @@ THU13	TS---------10:30am PST-------------------Baljeet bkaur@softnice.com  LOGIN
 		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
 		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web		
 THU13	TS---------12pm PST----------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
+THU13	SCHEDULED--2pm PST-----------------------Raghunatha.ReddyBollavaram@aexp.com AMEX          Phoenix az          12014643746
+		Aju.N.Joseph@aexp.com
+		Cuándo	jue 13 sep 2018 14:00 – 15:00 (PDT)
+		Dónde	https://amex.webex.com/meet/aju.n.joseph
+		Quién	Raghunatha Reddy Bollavaram, Avian L Dsouza, Aju N Joseph*
+THU13	SCHEDULED--3:30pm PST--6:30 est----------ragu@diamondpick.com  Mphasis(End Client: JPMC) - Tomorrow at 5:00 PM EST     Tampa 12014643746
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED12	TS---------10am PST------------raj-------mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
-WED12	SCHEDULED--12pm - 2pm PST------ ---------krish@softcomsystems.com final                                        16093339000 x41 
+WED12	FINAL------1pm PST------------- ---------krish@softcomsystems.com final                                        16093339000 x41 
+		singh@maximaconsulting.com
 		HCL represent softcom expect Jackdeep (17813522625)singh@maximaconsulting.com   boston      
+		Final Interview at 4pm EST -Today- STATE STREET
+		Hi Enrique as discussed your final Interview is confirmed for 4 pmEST Today. 
+		You will get a call from STATE STREET directly on your cell number.
+		multithreading
+		tb           ta
+		syn non static   syn non static
+		duration 40 minutes
+		they will inform manager feedback   1617985533
 WED12   TS---------1pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12	TS---------3pm PST------------- ---------techm/google expect abishek
 WED12   TS---------3pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12   ------------------------------- ---------SachinS@sysmind.com -                             Franklin Lakes, NJ  16098979670 x5105 AngularJS, Mongo DB, Microservices
-WED12	-----------------------------------------                    -                   -         -                   16102431972 
+WED12	-----------------------------------------asaurabh@softnice.com                   -         Colorado Spring, CO 16102431972 
 WED12	-----------------------------------------ricky.basu@humanoko.com                 -         -                   16092167354 x104
 WED12	-----------------------------------------SachinS@sysmind.com -                   -         -                   16098979670 Mongo DB
 WED12	-----------------------------------------bsai@futransolutions.com 17326662523 rsteve@futransolutions.com 16099451939 INTERVIEW WITH EMPHASIS WAS GOOD BUT CLIENT TOOK ANOTHER CONSULTANT
 WED12	-----------------------------------------vishnu techm        -                   -         pitsburg            18559732080 X-needed
-WED12	-----------------------------------------                    -                   -         -                   16094360585 
-WED12	-----------------------------------------                    -                   -         -                   -  
-WED12	-----------------------------------------                    -                   -         -                   - 
-WED12	-----------------------------------------                    -                   -         -                   - 
-WED12	-----------------------------------------                    -                   -         -                   - 
+WED12	-----------------------------------------rick                    -                   -         -                   16094360585 
+WED12	-----------------------------------------ravish              -                   -         -                   14842001061  
+WED12	-----------------------------------------mohit softnice.com  -                   -         -                   16104214027 
+WED12	-----------------------------------------rajesh.gupta@e-solutionsinc.com -alienit infotech expect call manager 17327055063 
+WED12	-----------DO TEST-----------------------rinita hexaware 1hr  update marks at end noreply@interviewmocha.com   14842522783 mochatest 
+		https://test.interviewmocha.com/AuthenticateKey?id=c398c6cc2a
+WED12	-----------------------------------------                    -                             -                   13159511242 
+WED12	-------------------------------sunil-----krish expect call manager lin                     virginia            12146149026 
+WED12	------------1pm pst----------------------singh@maximaconsulting.com / krish@softcomsystems.com                   -                             -                   - 
+		Final Interview at 4pm EST -Today- STATE STREET
+WED12	------------ thu13 2pm ------------------aju tcs  phoenix    american xpress  webex        Phoenix az          14805770510 
+WED12	-----------------------------------------                    -                             -                   16179855333 
+WED12	-----------------------------------------rapu  zodiac        -ge                           -                   14843484466
+WED12	-----------------------------------------rick                techm/morgan stanley          ny                  14084750553 full or deve
+WED12	-----------------------------------------ragu                -                             tampa               12014643746
+WED12	-----------------------------------------pramod.kumar@avanceservices.us primout mindcolsulting  TPI                      wa                   17322268073 sr
+WED12	-----------------------------------------bhuvan@urpantech.com  techm/cisco wants f2f 1round-                   14088268019 
+		mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
+WED12	-----------------------------------------                    -                             -                   - 
+WED12	-----------------------------------------                    -                             -                   - 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE11	TS---------10am PST------------raj-------mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
@@ -378,7 +429,7 @@ WED05   TS-------6pm PST--------------- ---------mahendra@kksoftwareassociates.c
 WED05   ------------------------------------     
 WED05   -----------------------------------------anchal.srivastava@idctechnologies.com             Bentonville, AR     14084185779 x324       -     
 WED05   -----------------------------------------ragu@diamondpick.com -     
-WED05   WED22   SCHEDULED---10am PST 1pm EST---raj--krish@softcomsystems.com/HCL represent softcom expect Jackdeep (17813522625)singh@maximaconsulting.com   boston  16093339000 x41     
+WED05   WED22   SCHEDULED---10am PST 1pm EST---raj--krish@softcomsystems.com/HCL represent softcom expect Jagdeep (17813522625)singh@maximaconsulting.com   boston  16093339000 x41     
 
 WED05   ----------- -------------------hrinish---rajesh.gupta@e-solutionsinc.com tven technologies carolina,wiscounsin 17327055063 hibernate, ang 4
 WED05   -----------TS thu 11.30am PST-- ---------Aditya.Singh@itcinfotech.com walmart              Bentonville, AR     - full Java web services / Strong Java / API
