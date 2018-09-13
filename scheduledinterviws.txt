@@ -8,6 +8,18 @@ Baljeet bkaur@softnice.com expect call mohan   krishv@google.com   mohan from bl
 bsai@futransolutions.com 17326662523 rsteve@futransolutions.com 16099451939 INTERVIEW WITH EMPHASIS WAS GOOD BUT CLIENT TOOK ANOTHER CONSULTANT
 singh@maximaconsulting.com / krish@softcomsystems.com              boston    http://www.statestreet.com/home.html Solutions by By Capability Investment Management,Data and Analytics
 
+marketer raj
+intermediate vendor krish@softcomsystems.com            16093339000 x41
+CLIENT  STATE STREET
+IMPLEMENTOR Jagdeep (17813522625) maximaconsulting.com  17813522625
+location boston  
+
+jagdeep MaximumRepresent Softnice  krish@softcomsystems.com
+maximaconsulting.com
+		HCL represent softcom expect Jackdeep (17813522625)singh@maximaconsulting.com   boston  
+---raj--krish@softcomsystems.com/HCL represent softcom expect Jagdeep (17813522625)singh@maximaconsulting.com   boston  16093339000 x41     
+
+
 BLACKLIST
 ravi@resource-logistics.com    raj deep:    no don't send him because after six months of project they want c2h
 Infogain
@@ -39,6 +51,7 @@ java.lang.ClassNotFoundException This exception indicates that the class was not
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+FRI14   SCHEDULED wait for invite----------------rupali@enterprisesolutioninc.com Can you go for another F2F interview to the Apple office on Friday at 11am PST?
 FRI14	-----------12:30pm PST-------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 		https://join.accenture.com/meet/thomas.shavor/10N86L8B
 		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
@@ -94,6 +107,12 @@ THU13	SCHEDULED--3:30pm PST--6:30 est----------ragu@diamondpick.com  Mphasis(End
 		When	Thu Sep 13, 2018 3:30pm – 4pm (PDT)
 		Where	Skype: enpodi25
 		Who	Sai Medipalli, Vamsikrishna D01, Mahesh Kandasamy, E Bhargav*
+THU13   ----------- -------------------raj--------lenin@reveilletechnologies.com techm warner ent            -                   17047051647
+THU13   ----------- ------------------- ---------                    -                             -                   -
+THU13   ----------- ------------------- ---------                    -                             -                   -
+THU13   ----------- ------------------- ---------                    -                             -                   -
+THU13   ----------- ------------------- ---------                    -                             -                   -
+THU13   ----------- ------------------- ---------                    -                             -                   -
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
@@ -109,6 +128,11 @@ WED12	FINAL------1pm PST------------- ---------krish@softcomsystems.com final   
 		syn non static   syn non static
 		duration 40 minutes
 		they will inform manager feedback   1617985533
+		
+		intermediate vendor krish@softcomsystems.com            16093339000 x41
+		CLIENT  STATE STREET
+		IMPLEMENTOR Jagdeep (17813522625) maximaconsulting.com  17813522625
+		location boston  
 WED12   TS---------1pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
 WED12	TS---------3pm PST------------- ---------techm/google expect abishek
 WED12   TS---------3pm PST-------------raj-------sumitk@sysmind.com  tcs                           Phoenix az          16098979670 x5127
