@@ -8,6 +8,9 @@ Baljeet bkaur@softnice.com expect call mohan   krishv@google.com   mohan from bl
 bsai@futransolutions.com 17326662523 rsteve@futransolutions.com 16099451939 INTERVIEW WITH EMPHASIS WAS GOOD BUT CLIENT TOOK ANOTHER CONSULTANT
 singh@maximaconsulting.com / krish@softcomsystems.com              boston    http://www.statestreet.com/home.html Solutions by By Capability Investment Management,Data and Analytics
 
+Me bahuth kush hogayi    I'm very happy
+
+
 marketer raj
 intermediate vendor krish@softcomsystems.com            16093339000 x41
 CLIENT  STATE STREET
@@ -51,11 +54,42 @@ java.lang.ClassNotFoundException This exception indicates that the class was not
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-FRI14   SCHEDULED wait for invite----------------rupali@enterprisesolutioninc.com Can you go for another F2F interview to the Apple office on Friday at 11am PST?
+FRI14   SCHEDULED-POSTPONED final-8am PST         8am jpmorgan/virtusa                                                                                15085985637
+FRI14   SCHEDULED-POSTPONED final-8am PST--------krishna---ritesh@quantumworld.us As discussed with krishna your final round of interview is Confirmed on Friday at 11 AM EST (8 AM PST)
+		Discussion with client _ JPMC _ Enrique
+		Meeting id: 235 235 4848
+		https://bluejeans.com/2352354848
+		feedback   no one joined. POSTPONED
+FRI     SCHEDULED--11am pst ----------- ---------                    -                             -                   
+		smanikandan@virtusa.com
+		When	Fri Sep 7, 2018 11am – 12pm (PDT)
+		Where	Skype ID : enpodi25 / Contact : 415 715 7029
+		Who	Akash Pattnaik, Manikandan Sekar*
+FRI14   SCHEDULED--12:30pm-----------------------f2f apple
+		Sheetal Kunta
+		When	Fri Sep 14, 2018 12:30pm – 1:30pm (PDT)
+		Where	Olaf [AVCN] (16) PT05 1st
+		Who	Suresh Arumugam, Melvin Avinash, Akanksha Gupta (V), Sheetal Kunta (V)*
+		Address: 350 Potrero Avenue, Sunnyvale Thanks & Regards, Sheetal Kunta LTI Ph: +1 805.953.5124 	
+FRI14   SCHEDULED wait for invite---11am---F2F---rupali@enterprisesolutioninc.com Can you go for another F2F interview to the Apple office on Friday at 11am PST?
 FRI14	-----------12:30pm PST-------------------priyanka@vdartinc.com 16786399140 thomas.shavor@accenture.com
 		https://join.accenture.com/meet/thomas.shavor/10N86L8B
 		+1 703 948 0488 (Sterling, United States),,4866687818# (15 Highest Use)                             English (United States)
 		+1 703 948 0488 4866687818#
+		CANCELED thomas.shavor@accenture.com   Canceled: Screening Interview: Diaz, Enrique — ID # 9956709
+FRI14	waitfor invite-----------4:30pm pst--------------------lenin@reveilletechnologies.com Tech Mahindra                          17047051647
+FRI14	SCHEDULED--5pm pst-skype-----------------suman@mindedgesolutionsinc.com    
+		abhishek.das@tavant.com                                               
+		When	Fri Sep 14, 2018 5pm – 5:30pm (PDT)
+		Where	Skype:enpodi25
+		Who	Chandra Acharya, Swapna Mahendrakar V, Guruprasad R, Abhishek Das*
+FRI14	----------- ------------------- ---------samuel.johns@avanceservices.us                     Mclean, VA         17322268073 x368
+FRI14	----------- -------------------raj-------Gokul Raj           -                             -                   13364996139 X21 5022342830        
+FRI14	----------- ------------------- ---------shiva               -                             ca                  16787406438 
+FRI14	----------- ------------------- ---------                    -                             -                   
+FRI14	----------- ------------------- ---------                    -                             -                   
+FRI14	----------- ------------------- ---------                    -                             -                   
+
 		
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 THU13   SCHEDULED--9am PST-----------------------ricky.basu@humanoko.com                 -         -                   16092167354 x104
@@ -103,13 +137,26 @@ THU13	SCHEDULED--2pm PST-----------------------Raghunatha.ReddyBollavaram@aexp.c
 		Cuándo	jue 13 sep 2018 14:00 – 15:00 (PDT)
 		Dónde	https://amex.webex.com/meet/aju.n.joseph
 		Quién	Raghunatha Reddy Bollavaram, Avian L Dsouza, Aju N Joseph*
+		feedback
+		duration: 1hr
+		topics:   idempotent http verbs.  use of the finalize keyword.  how to clear variables before an objects is taken by the garbage collector
+		coding: flat 2 different list without intersections
 THU13	SCHEDULED--3:30pm PST--6:30 est----------ragu@diamondpick.com  Mphasis(End Client: JPMC) - Tomorrow at 5:00 PM EST     Tampa 12014643746
 		When	Thu Sep 13, 2018 3:30pm – 4pm (PDT)
 		Where	Skype: enpodi25
 		Who	Sai Medipalli, Vamsikrishna D01, Mahesh Kandasamy, E Bhargav*
+		feedback
+		interviewer
+		location: 
+		rol: 
+		size of the team:
+		work with:
+		topics:
+		duration: 
+		
 THU13   ----------- -------------------raj--------lenin@reveilletechnologies.com techm warner ent            -                   17047051647
-THU13   ----------- ------------------- ---------                    -                             -                   -
-THU13   ----------- ------------------- ---------                    -                             -                   -
+THU13   ----------- ------------------- ---------mohitSoftnice               -                             -                   -
+THU13   ----------- ------------------- --------- souman mindedsolutions                   -                             -                   -
 THU13   ----------- ------------------- ---------                    -                             -                   -
 THU13   ----------- ------------------- ---------                    -                             -                   -
 THU13   ----------- ------------------- ---------                    -                             -                   -
@@ -124,11 +171,12 @@ WED12	FINAL------1pm PST------------- ---------krish@softcomsystems.com final   
 		Hi Enrique as discussed your final Interview is confirmed for 4 pmEST Today. 
 		You will get a call from STATE STREET directly on your cell number.
 		multithreading
-		tb           ta
-		syn non static   syn non static
+		tb                        ta
+		synchronized non static   synchronized non static
 		duration 40 minutes
 		they will inform manager feedback   1617985533
 		
+		topic:  threads
 		intermediate vendor krish@softcomsystems.com            16093339000 x41
 		CLIENT  STATE STREET
 		IMPLEMENTOR Jagdeep (17813522625) maximaconsulting.com  17813522625
@@ -160,6 +208,10 @@ WED12	-----------------------------------------ragu                -            
 WED12	-----------------------------------------pramod.kumar@avanceservices.us primout mindcolsulting  TPI                      wa                   17322268073 sr
 WED12	-----------------------------------------bhuvan@urpantech.com  techm/cisco wants f2f 1round-                   14088268019 
 		mike@urpantech.comTech Mahindra/Cisco RTR#081518                      14088344603
+WED12	-------------------------------raj-------gokulraj.v@reveilletechnologies.com Tech-Mahindra Omaha, NE           3364996139 X21 5022342830 
+		partner Tech-Mahindra. I got an interview request from the client they asking your availability for Tomorrow (09/14/2018) @ 4:30 PM PST for the position Fullstack Developer @ Omaha, NE
+WED12	-----------------------------------------                    -                             -                   - 
+WED12	-----------------------------------------                    -                             -                   - 
 WED12	-----------------------------------------                    -                             -                   - 
 WED12	-----------------------------------------                    -                             -                   - 
 
