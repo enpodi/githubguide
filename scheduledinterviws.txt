@@ -54,9 +54,23 @@ java.lang.ClassNotFoundException This exception indicates that the class was not
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
 
-
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE18   -----------------------------------------                                                                      gokul missing
-TUE18   -----------------------------------------do coding test mocha                                                  ravish
+TUE18   -----------------------------------------ravish do coding test mocha                                           14842001061
+TUE18   ----------- c2h do not take---- ---------suresh itinfotech                                                     16099451721
+WED12	-----------DO TEST-----------------------rinita hexaware 1hr  update marks at end noreply@interviewmocha.com   14842522783 mochatest 
+		https://test.interviewmocha.com/AuthenticateKey?id=c398c6cc2a
+TUE18   ----------- ------------------- ---------ricky@aitacs.com itconsulting                                new jersey          17326580748
+TUE18   ----------- ------------------- ---------rickard esolutions                                                                      14087229449
+TUE18   SCHEDULED---5:15 pm------------ ---------hcl google       sql coding                                          19086966178
+		krishv@google.com
+		When	Tue Sep 18, 2018 1pm – 1:30pm (PDT)
+		Where	TP 2 - | Java Full Stack Developer
+		Who	singhaman@google.com, krishv@google.com, mrajamanickam@google.com*
+		ACCESAR CON CUENTA epdiaz.sfdeve
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-ad?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+TUE18   ----------- ------------------- ---------                                                                      
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 MON17   ----------- ------------------- ---------                                                                      15155093689
@@ -72,6 +86,8 @@ MON17   ----------- ------------------- ---------
 MON17   ----------- ------------------- ---------                                                                      
 MON17   ----------- ------------------- ---------                                                                      
 MON17   ----------- ------------------- ---------                                                                      
+
+
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 FRI14   SCHEDULED-POSTPONED final-8am PST         8am jpmorgan/virtusa                                                                                15085985637
@@ -575,8 +591,6 @@ WED05   ----------- ------------------- ---------                    -          
 WED05   ----------- ------------------- ---------                    -                             -                   - 
 
 
-		
-DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION*============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE04   SCHEDULED--10am pst webex----------------Gopalakrishnan.Palaniappan@mindtree.com Southwest Airlines Dallas, TX 919865965805 O +1 (201) 244 - 7835
 		Gopalakrishnan.Palaniappan@mindtree.com
