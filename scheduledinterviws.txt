@@ -53,6 +53,26 @@ ClassNotFoundException
 java.lang.ClassNotFoundException This exception indicates that the class was not found on the classpath. 
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
+
+
+TUE18   -----------------------------------------                                                                      gokul missing
+TUE18   -----------------------------------------do coding test mocha                                                  ravish
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+MON17   ----------- ------------------- ---------                                                                      15155093689
+MON17   waitCalendar-1pm pst-hangouts-- ---------mohit softnice      google                                            16104214027
+		krishv@google.com
+		When	Tue Sep 18, 2018 1pm – 1:30pm (PDT)
+		Where	TP 2 - | Java Full Stack Developer
+		Who	singhaman@google.com, krishv@google.com, mrajamanickam@google.com*
+		ACCESAR CON CUENTA epdiaz.sfdeve
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-ad?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+MON17   ----------- ------------------- ---------                                                                      
+MON17   ----------- ------------------- ---------                                                                      
+MON17   ----------- ------------------- ---------                                                                      
+MON17   ----------- ------------------- ---------                                                                      
+
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 FRI14   SCHEDULED-POSTPONED final-8am PST         8am jpmorgan/virtusa                                                                                15085985637
 FRI14   SCHEDULED-POSTPONED final-8am PST--------krishna---ritesh@quantumworld.us As discussed with krishna your final round of interview is Confirmed on Friday at 11 AM EST (8 AM PST)
@@ -65,6 +85,7 @@ FRI     SCHEDULED--11am pst ----------- ---------                    -          
 		When	Fri Sep 7, 2018 11am – 12pm (PDT)
 		Where	Skype ID : enpodi25 / Contact : 415 715 7029
 		Who	Akash Pattnaik, Manikandan Sekar*
+		no one called
 FRI14   SCHEDULED--12:30pm-----------------------f2f apple
 		Sheetal Kunta
 		When	Fri Sep 14, 2018 12:30pm – 1:30pm (PDT)
@@ -78,11 +99,17 @@ FRI14	-----------12:30pm PST-------------------priyanka@vdartinc.com 16786399140
 		+1 703 948 0488 4866687818#
 		CANCELED thomas.shavor@accenture.com   Canceled: Screening Interview: Diaz, Enrique — ID # 9956709
 FRI14	waitfor invite-----------4:30pm pst--------------------lenin@reveilletechnologies.com Tech Mahindra                          17047051647
+		no one called
 FRI14	SCHEDULED--5pm pst-skype-----------------suman@mindedgesolutionsinc.com    
 		abhishek.das@tavant.com                                               
 		When	Fri Sep 14, 2018 5pm – 5:30pm (PDT)
 		Where	Skype:enpodi25
 		Who	Chandra Acharya, Swapna Mahendrakar V, Guruprasad R, Abhishek Das*
+		queries  hibernate   sesion.get  sesion.load
+		interviewer chandra 
+		big proyect, hiptor 3 bank ohio cincinnati, spring mvc, restful, security, soap webservices.
+		rol  fullstack   jsp html, jquery, javascript.
+		
 FRI14	----------- ------------------- ---------samuel.johns@avanceservices.us                     Mclean, VA         17322268073 x368
 FRI14	----------- -------------------raj-------Gokul Raj           -                             -                   13364996139 X21 5022342830        
 FRI14	----------- ------------------- ---------shiva               -                             ca                  16787406438 
