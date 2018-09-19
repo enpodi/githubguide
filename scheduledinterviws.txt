@@ -55,8 +55,16 @@ This indicates that we were trying to load the class definition, and the class d
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED19   SCHEDULED---5:15 pm------------ ---------mohit softnice      hcl google       sql coding                       16104214027
+WED19   SCHEDULED---12pm PST----------- ---------mohit softnice      hcl google       sql coding                       16104214027
 		krishv@google.com 19086966178
+		
+		When	Wed Sep 19, 2018 12pm – 12:30pm (PDT)
+		Where	TP 2 - | Java Full Stack Developer
+		Who	singhaman@google.com, krishv@google.com, mrajamanickam@google.com*
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-ad?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+		
+		
 		When	Tue Sep 18, 2018 1pm – 1:30pm (PDT)
 		Where	TP 2 - | Java Full Stack Developer
 		Who	singhaman@google.com, krishv@google.com, mrajamanickam@google.com*
@@ -73,7 +81,7 @@ WED12	-----------DO TEST-----------------------rinita hexaware 1hr  update marks
 TUE18   ----------- ------------------- ---------ricky@aitacs.com itconsulting                                new jersey          17326580748
 TUE18   ----------- ------------------- ---------rickard esolutions                                                                      14087229449
 
-TUE18   ----------- ------------------- ---------krish                                                                      
+
 TUE18   ----------- ------------------- ---------                                                                      
 TUE18   ----------- ------------------- ---------                                                                      
 TUE18   ----------- ------------------- ---------                                                                      
