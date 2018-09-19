@@ -57,6 +57,8 @@ This indicates that we were trying to load the class definition, and the class d
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED19   SCHEDULED---12pm PST----------- ---------mohit softnice      hcl google       sql coding                       16104214027
+		test internet connection today 7pm with hangouts
+		mohit says... update hcl google. I requested to be copied in cc so I have hcl email id and phone
 		krishv@google.com 19086966178
 		
 		When	Wed Sep 19, 2018 12pm – 12:30pm (PDT)
@@ -64,6 +66,13 @@ WED19   SCHEDULED---12pm PST----------- ---------mohit softnice      hcl google 
 		Who	singhaman@google.com, krishv@google.com, mrajamanickam@google.com*
 		https://hangouts.google.com/hangouts/_/google.com/m-ep-ad?hceid=bXJhamFtYW5pY2thbUBnb29nbGUuY29t.07563lmf6h0reptrkqu6s1jcmv
 		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+		
+		feedback 
+		interviewer
+		location
+		end client or domine
+		size of team
+		
 		
 		
 		When	Tue Sep 18, 2018 1pm – 1:30pm (PDT)
@@ -77,7 +86,7 @@ DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT=
 TUE18   -----------------------------------------                                                                      gokul missing
 TUE18   -----------------------------------------ravish do coding test mocha                                           14842001061
 TUE18   ----------- c2h do not take---- ---------suresh itinfotech                                                     16099451721
-WED12	-----------DO TEST-----------------------rinita hexaware 1hr  update marks at end noreply@interviewmocha.com   14842522783 mochatest 
+WED12	-----------coding test done--------------rinita hexaware 1hr  update marks at end noreply@interviewmocha.com   14842522783 mochatest 
 		https://test.interviewmocha.com/AuthenticateKey?id=c398c6cc2a
 TUE18   ----------- ------------------- ---------ricky@aitacs.com itconsulting                                new jersey          17326580748
 TUE18   ----------- ------------------- ---------rickard esolutions                                                                      14087229449
