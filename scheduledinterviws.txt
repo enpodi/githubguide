@@ -55,6 +55,8 @@ ClassNotFoundException
 java.lang.ClassNotFoundException This exception indicates that the class was not found on the classpath. 
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+FRI21   SCHEDULED--6am PST 9am EST---------------naresh y pupta      techmahindra
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED19   SCHEDULED---12pm PST----------- ---------mohit softnice      hcl google       sql coding                       16104214027
