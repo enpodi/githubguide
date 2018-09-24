@@ -56,8 +56,26 @@ java.lang.ClassNotFoundException This exception indicates that the class was not
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-FRI21   SCHEDULED--6am PST 9am EST---------------naresh y pupta      techmahindra
-
+FRI21   scheduled--5:30--------------------------mohit
+		krishv@google.com
+        https://hangouts.google.com/hangouts/_/google.com/m-ep-sm?hceid=a3Jpc2h2QGdvb2dsZS5jb20.22f5qjd4rif9m0j6qkh70osvtk
+		https://docs.google.com/a/google.com/document/d/1vZRwTG3_B20D2O8Uso7Wp7v1fxYFKNniqNYOVrchZnY/edit?usp=drive_web
+		Where
+		TP 2 - | Java Full Stack Developer (map)
+		Video call
+		https://hangouts.google.com/hangouts/_/google.com/m-ep-sm
+		Calendar
+		ediaz.sfdeve@gmail.com
+		Who
+		krishv@google.com - organizer
+		ediaz.sfdeve@gmail.com
+		singhaman@google.com
+		mrajamanickam@google.com - optional	
+		FEEDBACK.
+		interviewer  Amandeep
+FRI21   SCHEDULED--8:30pm PST--22nd September at 9:00AM IST---------------naresh y pupta      techmahindra
+		Indian Standard Time está 12 horas y 30 minutos por delante de Pacific Time
+		
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED19   SCHEDULED---12pm PST----------- ---------mohit softnice      hcl google       sql coding                       16104214027
 		test internet connection today 7pm with hangouts
