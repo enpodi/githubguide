@@ -55,6 +55,20 @@ ClassNotFoundException
 java.lang.ClassNotFoundException This exception indicates that the class was not found on the classpath. 
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
+
+
+
+
+JUE27   -----------6pm pst------------- ---------ragu@diamondpick.com mphasis                                         Technical Analyst   Core Java, Full Stack, Web Services, REST/SOAP, XML, Multi-Threading, OOPS, Algorithms etc.                 
+JUE27   ----------- ------------------- ---------                                                                      
+JUE27   ----------- ------------------- ---------                                                                      
+JUE27   ----------- ------------------- ---------                                                                      
+
+DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+TUE25   -----------8pm PST------------- ---------frank nytpartners ravi.solanki@citiustech.com     -                   
+TUE25   ----------- ------------------- ---------                    -                             -                   
+TUE25   ----------- ------------------- ---------                    -                             -                   
+
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 FRI21   scheduled--5:30--------------------------mohit
 		krishv@google.com
