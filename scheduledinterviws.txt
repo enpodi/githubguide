@@ -56,7 +56,11 @@ java.lang.ClassNotFoundException This exception indicates that the class was not
 This indicates that we were trying to load the class definition, and the class did not exist on the classpath.
 
 
-
+This will be your daily working location. I shared previously also.
+State Street Bank and Trust Company
+Josiah Quincy Building
+200 Newport Avenue
+North Quincy, Massachusetts 02171
 
 
 JUE27   -----------6pm pst------------- ---------ragu@diamondpick.com mphasis                                         Technical Analyst   Core Java, Full Stack, Web Services, REST/SOAP, XML, Multi-Threading, OOPS, Algorithms etc.                 
