@@ -60,12 +60,59 @@ This indicates that we were trying to load the class definition, and the class d
 
 
 JUE27   -----------6pm pst------------- ---------ragu@diamondpick.com mphasis                                         Technical Analyst   Core Java, Full Stack, Web Services, REST/SOAP, XML, Multi-Threading, OOPS, Algorithms etc.                 
+        When	Thu Sep 27, 2018 6pm – 6:30pm (PDT)
+Where	Skype ID: enpodi25
+Who	Aneel Tirumalasetty, Anand Mariswamy, Venkataramana M, E Bhargav, Varun Tambi, Nagesh Jadhav...
 JUE27   ----------- ------------------- ---------                                                                      
 JUE27   ----------- ------------------- ---------                                                                      
-JUE27   ----------- ------------------- ---------                                                                      
+JUE27   ----------- ------------------- ---------  
+
+
+United Flight 1865
+On Time-Confirmation #H8WGLH
+
+Confirmation number:
+H8WGLH
+
+San Francisco SFO
+10:40 AM
+
+Terminal
+3
+
+Gate
+85
+
+Boston BOS
+7:15 PM
+
+Terminal
+B
+
+Gate
+B26
+
+
+Fingerprinting Location:
+John Adams Building – JAB
+1776 Heritage Drive
+North Quincy, MA
+Contact: 617-985-8472 (office)
+Hours of operation: Mon-Fri 7am – 3:00pm
+ OR
+State Street Financial Center – SFC
+1 Lincoln Street
+Boston, MA
+Contact: 617-664-1417(office)
+Hours of operation: Mon-Fri 8am – 3:00pm
+Feel Free to reach me anytime for any doubts.                                                                    
 
 DATE====STATUS=====TIME================ACONTACT==CNAME===============END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE25   -----------8pm PST------------- ---------frank nytpartners ravi.solanki@citiustech.com     -                   
+		interviewer anand singh
+		location san francisco
+		end client health care
+		java, angular, aws, jira, mix of databases , no sql mongodb, react.  DDD erich 
 TUE25   ----------- ------------------- ---------                    -                             -                   
 TUE25   ----------- ------------------- ---------                    -                             -                   
 
