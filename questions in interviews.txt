@@ -276,6 +276,32 @@ Dependency inversion principle[10]
 one should "depend upon abstractions, [not] concretions."[4]
 
 
+
+
+The fundamental difference between the POST and PUT requests is reflected in the different meaning of the Request-URI. 
+The URI in a POST request identifies the resource 
+that will handle the enclosed entity. That resource might be a data-accepting process, a gateway to some other protocol, 
+or a separate entity that accepts annotations. In contrast, the URI in a PUT request identifies the entity enclosed with the request -- the user agent 
+knows what URI is intended and the server MUST NOT attempt to apply the request to some other resource. 
+If the server desires that the request be applied to a different URI,
+
+
+GET <resource_uri> <== Simply gets you the contents of the resources or list 
+PUT <resource_uri> <data> <== Replace the contents of a fully qualified resource uri [Implies the the resource item must exist before you can PUT
+POST <resource_uri> <action> [<data>] <= perform a action on a resource or a list of resources at the resource uri. if the action is omitted it creates the resource item with the data sent in the request. 
+DELETE <resoutce_uri> and PATCH <resource_uri> stands for the meaning of the respective verb. PATCH is a whole another discussion : Reference: http://tools.ietf.org/html/...
+
+Note that all other requests do not have an action while POST has an action to be performed on the resource with the default action being CREATE or ADD
+
+Hope this eases some confusions.
+
+http://restcookbook.com/HTTP%20Methods/put-vs-post/#sthash.u3S9tnPo.dpuf
+To make it as convention in your design it might be worth while to use POST even when the action feels like it is a GET opertion 
+(some thing like "get_status") . Since you are performing an action consider it is a POST
+
+
+
+
 http://zetcode.com/java/h2database/
 cd  C:\development\h2-2018-03-18\h2
 $ java -jar bin/h2-1.4.197.jar -baseDir ~/tmp/h2dbs
