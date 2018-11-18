@@ -13,9 +13,53 @@ Me bahuth kush hogayi    I'm very happy
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+FRI16   ----------- -------------------concursoft--persistent                 -                             -                   9197935690
+WED14   ----------- -------------------raj-------rajesh@headwaytek.com                       -              -                   6612686162
+
+DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED21   ----------- ------------------- ---------                             -                             -                   
+WED21   ----------- -------------------w2-depende-ceci/gabriela  incs greencard, nativo bono cali, ny            -                             -                   
+WED21   ----------- ------------------- ---------                             -                             -                   
+
+DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+TUE20   SCHEDULED  9am cst. 11am EST   45mixtolibre leila/hcl                                                                   +48123909000
+TUE20   SCHEDULED  10am cst. 12pm EST  ricardo HON IT                                                                           +525530989142
+TUE20   ----------- ------------------- ---------                             -                             -                   
+TUE20   ----------- ------------------- ---------                             -                             -                   
+TUE20   ----------- ------------------- ---------                             -                             -                   
+TUE20   ----------- ------------------- ---------                             -                             -                   
+TUE20   ----------- ------------------- ---------                             -                             -                   
+TUE20   ----------- ------------------- ---------                             -                             -                   
+
+mon     scheduked   1pm est    cecilia alvarado
+
+
+TUE13   -----------10pm ------------------- -----nelson/manager                       -                             -           9012455817
+WED14   ----------- ------------------- ---------                             -                             -                   9012455817
+wed14   ----------- ------------------- ---------nitesh business solution     -                             tx, dallas          3022613207 x124
+wed14   ----------- ------------------- ---------ajish infotech               -                             -                   6612686162
+
+jue15   ----------- ------------------- ---------ragulan                      -                             charlemont northcarolina  4083516905 fulltime
+jue15   ----------- -------------------linkedin--gabriela villalpando         -                             tx                  523336778878
+vie16   ----------- ------------------- ---------                             -                             -                   9724400047 fulltime
+vie16   ----------- ------------------- ---------                             -                             -                   6612686162
+vie16   ----------- ------------------- ---------arinesh tchdigitalcorporation  HCL                         boston              9522325248
+
+vie16   ----------- ------------------- ---------                             -                             -                   
+vie02   ----------- ------------------- ---------monica mainstreamtek         -                             -                   6053917327
+WED07   ----------- ------------------- ---------maximaconsulting             -                             -                   7813522676
+WED07   ----------- ------------------- ---------                             -                             -                   6612686162
+jue15   ----------- ------------------- ---------                             -                             -                   6787204881 sr
+
+
+
+DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 FRI16   ------------ ------------------          -                            -                             -                   -           -                                                              
-FRI16   ------------ ------------------          -                            -                             -                   -           -                                                              
+FRI16   ------------ ------------------95k fulltime  eric_horton@insoursysinc.com Hexaware                  Chicago, IL         19724400047
 boeing, working with krishna but not directly, hcl, client, fullstack, senior, junit, jacoco, jenkins, seatle, san louis
+fff20   ----------- -------------------$45,000.00 MXN Netos Depende habilidad  ---------hugo.antonio@it-seekers.com    hcl      5560120773                   -                             -                   
+fff20   ----------- ------------------- ---------                             -                             -                   
+
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 THU15   SCHEDULED--10PM EST------------          sumit-c@hcl.com/prasad@visionincsystems.com    The Boeing TP1           
