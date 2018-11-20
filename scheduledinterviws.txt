@@ -58,6 +58,11 @@ TUE20   hewanted c2h/c2c---------------ediaz c2h-9months-sunil                wa
 
 TUE20   ----------- -------------------farukh----Krishna@cbittech.com         -                             Irvine, CA          19085210373
 TUE20   ediaz---callback----- ---------venkatAlliance-Gaurav.Dubey@pyramidci.com   visa 11005-1             san louis missouri  17702557624
+        1)      Give examples of some commonly used Directives in AngularJS.++++++++
+        2)      Give some examples of Global API’s available in AngularJS?
+        3)      Does Angular use the JQuery library?
+        4)   What is a microservices architecture?
+        5)    What is Spring Boot?
 TUE20   ----------- ------------------- ---------bhavana_suru@aesinc.us.com                             -                             -                      
 TUE20   ----------- ------------------- ---------infovision                   -                             -                   19722340058 xneeded
 TUE20   reply email---------- -------------------governanr/shafia-mayank   mgupta@tekshapers.com            santabarbar ca      12485654747  x157 
@@ -67,9 +72,9 @@ TUE20   ----------- ------------------- ---------lizeth planet                SA
 TUE20   ----------- -------------------governat-farukh-Mohd Abdul Khader <mohd.abdul@datafactz.com          pensilvania         12488383314 javascript, angular
 TUE20   ----------- -------------------farukh----rahul ross@vinsysinfo.com    HCL/MARK                      North Wales, PA     17033493931   
 TUE20   ----------- -------------------ragao-----nancy                        -                             -                   4947
-TUE20   ----------- ------------------- ---------raghavendra@insoursysinc.com -                             -                   972-440-2106   
-TUE20   ----------- ------------------- ---------                             -                             -                      
-TUE20   ----------- ------------------- ---------                             -                             -                      
+TUE20   ----------- -------------------110k w2---raghavendra@insoursysinc.com - ragha WILL CHECK WITH MANAGER IF W2 IS OK       972-440-2106   
+TUE20   fulltime--- -------------------$100,000--hari@techdigitalcorp.com     Capgemini                     New York City, NY                    -                      
+TUE20   ----------- ------------------- ---------jesica                       -                             -                   525565483202
 TUE20   ----------- ------------------- ---------                             -                             -                      
 TUE20   ----------- ------------------- ---------                             -                             -                      
         
