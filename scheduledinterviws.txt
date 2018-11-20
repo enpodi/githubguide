@@ -13,18 +13,24 @@ Me bahuth kush hogayi    I'm very happy
 110 k    ->     57 befor tax      40.1/hr after tax
 
 
-DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU22   SCHEDULED--11pm EST------------fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary                  chicago    confirm email    19724402131 sr java
-
-
+email  property manager, 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+THU22   SCHEDULED--11pm EST------------fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary  EPAM            chicago    confirm email    19724402131 sr java
+
+
+
+DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED21   SCHEDULED--7amPST 10amEST  45mixtolibre leila/hcl  lailageorgina.c@hcl.com   gustavo +525510103517                                +48123909000
+		Cuándo	mié 21 nov 2018 07:00 – 08:00 (PST)
+        Dónde	Phone
+        Quién	Gustavo Simon, Gustavo Cruz Gonzalez, Luis Alberto Ibave Estrada, Laila Georgina Castillo Reyna*
 WED21   SCHEDULED -11:30 ESTam LINKINTERVIEW REQUESTED-consursoft-ritu_gera@persistent.com                  NorthCarolina       19197935696                            -                             -                   
 WED21   ----------- -------------------w2-depende-ceci/gabriela  incs greencard, nativo bono cali, ny            -                             -                   
-WED21   -----------12:30 EST------------faruk---manish.sharma@xiartech.com    wipro/apple    dirash/manish  Menlo Park, CA140K fulltime 17033763676 x311       
-WED21   ----------- ------------------- ---------                             -                             -                   
-WED21   ----------- ------------------- ---------                             -                             -                   
-WED21   ----------- ------------------- ---------                             -                             -                   
+WED21   -----------12:30 EST------------faruk--140K fulltime -manish.sharma@xiartech.com    wipro/apple    dirash/manish  sunnyvale caMenlo Park, CA17033763676 x311       
+WED21   TS---------1:30pm EST ---------ragao-----nancy@tekenergyusa.com       Mphasis/JPMC                  Tempa, FL           844-448-7823  Ex: 107 19725214947
+WED21   TS---------3pm EST ------------ragao-----nancy@tekenergyusa.com       Mphasis/JPMC                  Tempa, FL           844-448-7823  Ex: 107 19725214947
+WED21   ----------- ------------------- ---------ross@vinsysinfo.com          HCL/MARK                      North Wales, PA     17033493931
 WED21   ----------- ------------------- ---------                             -                             -                   
 WED21   ----------- ------------------- ---------                             -                             -                   
 WED21   ----------- ------------------- ---------                             -                             -                   
@@ -32,10 +38,11 @@ WED21   ----------- ------------------- ---------                             - 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE20   SCHEDULED  9am cst. 10am EST   45mixtolibre leila/hcl  /gustavo +525510103517                                           +48123909000
 TUE20   SCHEDULED  10am cst. 11am EST  ricardo HON IT                                                                           +525530989142 x needed
-TUE20   SCHEDULED--2pm EST-webex-1pmCST-alliance-kaleem@infovision.com        Verizon raguendra verizon 19722132837            19722340058 x7283
+TUE20   SCHEDULED--2pm EST-webex-1pmCST-alliance-kaleem@infovision.com  IMMEDIATELY  Verizon raguendra verizon 19722132837            19722340058 x7283
 		https://verizonone.webex.com/join/amir.zeb
 		working dirctly, developer, junit testing, selenium, junit test cases, jenkis, springboot, jira, git,               kubernets, AWS
 		location irving, dallas, mana, sr, junior, offshore 3,  
+		POSITIVE FEEDBACK EXPECTED
 TUE20   SCHEDULED  2pm cst. 3pm EST    ceciia    gaby@imcsgroup                                                                3336778878
         enrique.javaus@gmail.com, cecilia@imcsgroup.net, sam@imcsgroup.net, ulises@imcsgroup.net, shruti@imcsgroup.net
 		shruti@imcsgroup
@@ -50,13 +57,18 @@ TUE20   ----------- -------------------ediaz 110K, 60/hr on w2-raja@burgeonits.c
 TUE20   hewanted c2h/c2c---------------ediaz c2h-9months-sunil                wallnet take care Visa        -                   13032204724
 
 TUE20   ----------- -------------------farukh----Krishna@cbittech.com         -                             Irvine, CA          19085210373
-TUE20   ediaz---callback----- ---------venkatAlliance-Gaurav.Dubey@pyramidci.com   visa                     san louis missouri  17702557624
+TUE20   ediaz---callback----- ---------venkatAlliance-Gaurav.Dubey@pyramidci.com   visa 11005-1             san louis missouri  17702557624
 TUE20   ----------- ------------------- ---------bhavana_suru@aesinc.us.com                             -                             -                      
 TUE20   ----------- ------------------- ---------infovision                   -                             -                   19722340058 xneeded
-TUE20   reply email---------- -------------------governanr/sjafia-mayank                -                             santabarbar ca      12485654747   
+TUE20   reply email---------- -------------------governanr/shafia-mayank   mgupta@tekshapers.com            santabarbar ca      12485654747  x157 
         Security: SSO, oAuth protocols; CORS, CSRF.
 		nowledge in integrating security and IAM products with common identity stores (LDAP, relational databases, application servers, virtual directory servers, and physical access management systems.)
 TUE20   ----------- ------------------- ---------lizeth planet                SAT                           taxqueña            +525517611300
+TUE20   ----------- -------------------governat-farukh-Mohd Abdul Khader <mohd.abdul@datafactz.com          pensilvania         12488383314 javascript, angular
+TUE20   ----------- -------------------farukh----rahul ross@vinsysinfo.com    HCL/MARK                      North Wales, PA     17033493931   
+TUE20   ----------- -------------------ragao-----nancy                        -                             -                   4947
+TUE20   ----------- ------------------- ---------raghavendra@insoursysinc.com -                             -                   972-440-2106   
+TUE20   ----------- ------------------- ---------                             -                             -                      
 TUE20   ----------- ------------------- ---------                             -                             -                      
 TUE20   ----------- ------------------- ---------                             -                             -                      
 TUE20   ----------- ------------------- ---------                             -                             -                      
