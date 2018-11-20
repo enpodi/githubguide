@@ -12,18 +12,36 @@ Me bahuth kush hogayi    I'm very happy
 
 110 k    ->     57 befor tax      40.1/hr after tax
 
+
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED21   SCHEDULED WAIT EMAIL-11ESTam---consursoft-ritgeraPersistent - replyAllaccpetinteiew                 NorthCarolina       19197935696                            -                             -                   
+THU22   SCHEDULED--11pm EST------------fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary                  chicago    confirm email    19724402131 sr java
+
+
+
+DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED21   SCHEDULED -11:30 ESTam LINKINTERVIEW REQUESTED-consursoft-ritu_gera@persistent.com                  NorthCarolina       19197935696                            -                             -                   
 WED21   ----------- -------------------w2-depende-ceci/gabriela  incs greencard, nativo bono cali, ny            -                             -                   
+WED21   -----------12:30 EST------------faruk---manish.sharma@xiartech.com    wipro/apple    dirash/manish  Menlo Park, CA140K fulltime 17033763676 x311       
+WED21   ----------- ------------------- ---------                             -                             -                   
+WED21   ----------- ------------------- ---------                             -                             -                   
+WED21   ----------- ------------------- ---------                             -                             -                   
+WED21   ----------- ------------------- ---------                             -                             -                   
+WED21   ----------- ------------------- ---------                             -                             -                   
 WED21   ----------- ------------------- ---------                             -                             -                   
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE20   SCHEDULED  9am cst. 10am EST   45mixtolibre leila/hcl  /gustavo +525510103517                                           +48123909000
 TUE20   SCHEDULED  10am cst. 11am EST  ricardo HON IT                                                                           +525530989142 x needed
-TUE20   TS---------2pm EST-------------raghav@allianceit.com-kaleem@infovision.com                          -                   19722340058 x7283
-TUE20   SCHEDULED--2pm EST-------------alliance--kaleem@infovision.com        Verizon                       -                   19722340058 x7283
+TUE20   SCHEDULED--2pm EST-webex-1pmCST-alliance-kaleem@infovision.com        Verizon raguendra verizon 19722132837            19722340058 x7283
+		https://verizonone.webex.com/join/amir.zeb
+		working dirctly, developer, junit testing, selenium, junit test cases, jenkis, springboot, jira, git,               kubernets, AWS
+		location irving, dallas, mana, sr, junior, offshore 3,  
 TUE20   SCHEDULED  2pm cst. 3pm EST    ceciia    gaby@imcsgroup                                                                3336778878
         enrique.javaus@gmail.com, cecilia@imcsgroup.net, sam@imcsgroup.net, ulises@imcsgroup.net, shruti@imcsgroup.net
+		shruti@imcsgroup
+		
+TUE20   ----------------------------------------jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
+        j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
 ------------------------------------------------                                                                                +525530989142
 TUE20   SCHEDULED--3pm cst 4pm EST --------------eric/viyay insourcis hexaware                             -                             -                   
 TUE20   TS---------5pm EST-------------raghav@allianceit.com-kaleem@infovision.com                        -                             -                   19722340058 x7283
@@ -31,7 +49,18 @@ TUE20   ----------- -------------------fulltime$110K-ediaz/sai@computerdataconce
 TUE20   ----------- -------------------ediaz 110K, 60/hr on w2-raja@burgeonits.comraja@burgeonits.com       -                   13025449600
 TUE20   hewanted c2h/c2c---------------ediaz c2h-9months-sunil                wallnet take care Visa        -                   13032204724
 
+TUE20   ----------- -------------------farukh----Krishna@cbittech.com         -                             Irvine, CA          19085210373
+TUE20   ediaz---callback----- ---------venkatAlliance-Gaurav.Dubey@pyramidci.com   visa                     san louis missouri  17702557624
+TUE20   ----------- ------------------- ---------bhavana_suru@aesinc.us.com                             -                             -                      
+TUE20   ----------- ------------------- ---------infovision                   -                             -                   19722340058 xneeded
+TUE20   reply email---------- -------------------governanr/sjafia-mayank                -                             santabarbar ca      12485654747   
+        Security: SSO, oAuth protocols; CORS, CSRF.
+		nowledge in integrating security and IAM products with common identity stores (LDAP, relational databases, application servers, virtual directory servers, and physical access management systems.)
+TUE20   ----------- ------------------- ---------lizeth planet                SAT                           taxqueña            +525517611300
 TUE20   ----------- ------------------- ---------                             -                             -                      
+TUE20   ----------- ------------------- ---------                             -                             -                      
+TUE20   ----------- ------------------- ---------                             -                             -                      
+        
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE13   hewillsendemailtoday for CISCO-$55 w2    hari@techdigitalcorp.com     HCL                           boston              9522325248  scalable SaaS products
@@ -45,7 +74,7 @@ MON19   ----------- -------------------raj-----mani.makam@criticalriver.com / sk
 MON19   ----------- -------------------faruk---manish.sharma@xiartech.com            -                      Menlo Park, CA      17033763676 x311  fullstack
 MON19   ----------- -------------------faruk---deb@resource-logistics.com HCL/ Google-                      san jose            17325530566
 MON19   ----------- -------------------farukh  panand@synkriom.com    -              -                                          
-MON19   ----------- -------------------fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary                  chicago     19724402131 sr java
+MON19   ----------- -------------------fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary                  chicago             19724402131 sr java
 MON19   ----------- ------------------- -------kaleem@infovision.com  -              -                                          19722340058 x7283
 MON19   ----------- -------------------fulltime$110K-ediaz/sai@computerdataconcepts.com    -                                          19088880019
 MON19   ----------- ------------------- -------ben ipax /got email from mohit        -                                          14082167620 RESTful Thread programming and Linux server
