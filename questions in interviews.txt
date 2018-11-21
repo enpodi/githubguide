@@ -159,6 +159,23 @@ The HashMap class is roughly equivalent to Hashtable, except that it is non sync
 (HashMap allows null values as key and value whereas Hashtable doesn't allow nulls). 
 HashMap does not guarantee that the order of the map will remain constant over time.
 
+memory heap vs string pool
+==========================
+https://stackoverflow.com/questions/41908321/difference-between-heap-memory-and-string-pool
+https://www.quora.com/What-is-the-difference-between-String-s1-Hello-and-String-s1-new-String-Hello-in-Java
+ intern() method        compile time constant
+ 
+compile time constant
+======================================
+https://www.logicbig.com/quick-info/java/compile-time-constants.html
+https://coderanch.com/t/454384/java/compile-time-constant
+http://www.xyzws.com/javafaq/must-all-final-variables-be-compile-time-constants/111
+
+Static vs Dynamic Binding in Java
+=======================================================================
+https://www.geeksforgeeks.org/static-vs-dynamic-binding-in-java/
+https://softwareengineering.stackexchange.com/questions/200115/what-is-early-and-late-binding
+
 Early Binding and Late binding. The compiler performs a process called binding when an object is assigned to an object variable. 
 The early binding (static binding) refers to compile time binding and late binding (dynamic binding) refers to runtime binding.
 
