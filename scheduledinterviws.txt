@@ -16,23 +16,29 @@ Me bahuth kush hogayi    I'm very happy
 email  property manager, 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU22   SCHEDULED--11pm EST------------fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary  EPAM          chicago confirm email 19724402131 sr java
+THU22   SCHEDULED--11am EST---Byphone--fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary  EPAM  chicago confirmemai 19724402131 sr java
 
 
 
-DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED21   SCHEDULED--7amPST 10amEST  45mixtolibre leila/hcl  lailageorgina.c@hcl.com   gustavo +525510103517                                +48123909000
 		Cuándo	mié 21 nov 2018 07:00 – 08:00 (PST)
         Dónde	Phone
         Quién	Gustavo Simon, Gustavo Cruz Gonzalez, Luis Alberto Ibave Estrada, Laila Georgina Castillo Reyna*
-WED21   SCHEDULED -11:30 ESTam LINKINTERVIEW REQUESTED-consursoft-ritu_gera@persistent.com                  NorthCarolina       19197935696                            -                             -                   
+		core, basics, spring framework, spring mvc, rest
+		java default package
+		Second, the java.lang package is imported implicitly. Java is a pure object oriented programming language where code is written in form of classes. These class compo
+WED21   SCHEDULED -11:30 ESTam---------consursoft-ritu_gera@persistent.com                                   NorthCarolina      19197935696                            -                             -                   
         https://zoom.us/j/857522669
 WED21   ----------- -------------------w2-depende-ceci/gabriela  incs greencard, nativo bono cali, ny            -                             -                   
-WED21   -----------12:30 EST------------faruk--140K fulltime -manish.sharma@xiartech.com    wipro/apple    dirash/manish  sunnyvale caMenlo Park, CA17033763676 x311       
+WED21   -------------------------------140K fulltime manish.sharma@xiartech.com    wipro/apple    dirash/manish  sunnyvale caMenlo Park, CA17033763676 x311       
                                              did you send me to epam?    
-WED21   TS---------1:30pm EST ---------ragao-----nancy@tekenergyusa.com       Mphasis/JPMC                  Tempa, FL           844-448-7823  Ex: 107 19725214947
-WED21   TS---------3pm EST ------------ragao-----nancy@tekenergyusa.com       Mphasis/JPMC                  Tempa, FL           844-448-7823  Ex: 107 19725214947
+WED21   TS-NOTCONFIRMED-1:30pm EST ---------ragao-----nancy@tekenergyusa.com       Mphasis/JPMC                  Tempa, FL           844-448-7823  Ex: 107 19725214947
+WED21   TS-NOTCONFIRMED-3pm EST ------------ragao-----nancy@tekenergyusa.com       Mphasis/JPMC                  Tempa, FL           844-448-7823  Ex: 107 19725214947
 WED21   ----------- ------------------- ---------ross@vinsysinfo.com          HCL/MARK                      North Wales, PA     17033493931
+WED21   ----------- ------------------- ---------                             -                             -                    16093339000
+WED21   ----------- ------------------- ---------parshant.thakur@mobilyte.com                               Boston, MA area      4084787866
+WED21   ----------- ------------------- ---------                             -                             -                    1901245581 apache solr, react
 WED21   ----------- ------------------- ---------                             -                             -                   
 WED21   ----------- ------------------- ---------                             -                             -                   
 WED21   ----------- ------------------- ---------                             -                             -                   

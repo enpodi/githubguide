@@ -165,6 +165,10 @@ https://stackoverflow.com/questions/41908321/difference-between-heap-memory-and-
 https://www.quora.com/What-is-the-difference-between-String-s1-Hello-and-String-s1-new-String-Hello-in-Java
  intern() method        compile time constant
  
+java literals
+================================
+https://www.geeksforgeeks.org/literals-in-java/
+ 
 compile time constant
 ======================================
 https://www.logicbig.com/quick-info/java/compile-time-constants.html
@@ -180,6 +184,30 @@ Early Binding and Late binding. The compiler performs a process called binding w
 The early binding (static binding) refers to compile time binding and late binding (dynamic binding) refers to runtime binding.
 
 angular how string to percentage
+
+java default package
+====================
+http://cs-fundamentals.com/tech-interview/java/which-java-package-is-imported-by-default.php
+
+finalize method
+========================================
+https://zoom.us/j/857522669
+It is a method that the Garbage Collector always calls just before the deletion/destroying the object which is eligible for Garbage Collection, so as to perform clean-up activity. Clean-up activity means closing the resources associated with that object like Database Connection, Network Connection or we can say resource de-allocation. Remember it is not a reserved keyword.
+Once finalize method completes immediately Garbage Collector destroy that object. 
+
+reversed linkedlist
+======================
+https://www.geeksforgeeks.org/reverse-a-linked-list/                        <<< video   in one single while whitout recursion
+https://www.geeksforgeeks.org/java-program-for-reverse-a-linked-list/
+https://beginnersbook.com/2013/12/linkedlist-in-java-with-example/                   <<<< from java package
+https://beginnersbook.com/2014/07/java-linkedlist-iterator-example/                  <<<<< linkedlist from java and iterator
+https://beginnersbook.com/2014/08/linkedlist-push-and-pop-methods-java/
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html      <<<<< exlains how internal linkedlist in java works out
+https://beginnersbook.com/2013/12/difference-between-arraylist-and-linkedlist-in-java/
+https://www.geeksforgeeks.org/linked-list-in-java/
+https://docs.oracle.com/javase/6/docs/api/java/util/LinkedList.html
+
+
 
 why concurrenthashmap was created when hashtable was already thread safe
 
