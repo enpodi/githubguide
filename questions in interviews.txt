@@ -207,6 +207,76 @@ https://beginnersbook.com/2013/12/difference-between-arraylist-and-linkedlist-in
 https://www.geeksforgeeks.org/linked-list-in-java/
 https://docs.oracle.com/javase/6/docs/api/java/util/LinkedList.html
 
+sorting hashmap
+===============
+https://stackoverflow.com/questions/29567575/sort-map-by-value-using-lambdas-and-streams
+map.entrySet().stream()
+        .sorted(Map.Entry.<String, Integer>comparingByValue().reversed()) 
+        .limit(10) 
+        .forEach(System.out::println); // or any other terminal method
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>https://www.leveluplunch.com/java/examples/sort-order-map-by-values/
+https://stackoverflow.com/questions/8119366/sorting-hashmap-by-values
+https://www.javacodegeeks.com/2017/09/java-8-sorting-hashmap-values-ascending-descending-order.html
+Get the set of entries by calling the Map.entrySet() method
+Get the stream of entries by calling stream() method
+Call the sorted method with a Comparator
+Use the Map.Entry.comparingByValue() comparator to sort entries by values
+Collect the result using the collect() method
+Use Collectors.toMap() method to get the result in another Map.
+Provide LinkedHashMap::new to the last parameter to force it to return a LinkedHashMap, to keep the sorted order preserved
+In order to sort in decreasing order, just reverse the order of Comparator using Collections.reverseOrder() or Comparator.reverse() 
+method of Java 8.  See Java SE 8 for Really Impatient for the full list of new methods added into key Java classes e.g. 
+Java Collection Framework, String, and Comparator etc.
+https://www.programcreek.com/2013/03/java-sort-map-by-value/
+public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue(Map<K, V> map) {
+	List<Map.Entry<K, V>> list = new LinkedList<>(map.entrySet());
+	Collections.sort(list, new Comparator<Map.Entry<K, V>>() {
+		@Override
+		public int compare(Map.Entry<K, V> e1, Map.Entry<K, V> e2) {
+			return (e1.getValue()).compareTo(e2.getValue());
+		}
+	});
+ 
+	Map<K, V> result = new LinkedHashMap<>();
+	for (Map.Entry<K, V> entry : list) {
+		result.put(entry.getKey(), entry.getValue());
+	}
+ 
+	return result;
+}
+http://www.java67.com/2015/01/how-to-sort-hashmap-in-java-based-on.html
+Get all entries by calling entrySet() method of Map
+Create a custom Comparator to sort entries based upon values
+Convert entry set to list
+Sort entry list by using Collections.sort() method by passing your value comparator
+Create a LinkedHashMap by adding entries in sorted order.
+Read more: http://www.java67.com/2015/01/how-to-sort-hashmap-in-java-based-on.html#ixzz5XbWQSFfk
+https://www.mkyong.com/java/how-to-sort-a-map-in-java/
+
+
+
+
+
+
+angular lazy loading
+======================
+https://angular.io/guide/lazy-loading-ngmodules
+https://codeburst.io/how-to-implement-lazy-loading-in-angular-6-419491102591
+
+
+database normalization
+======================
+https://www.studytonight.com/dbms/database-normalization.php
+https://www.studytonight.com/dbms/third-normal-form.php
+https://www.dummies.com/programming/sql/sql-first-second-and-third-normal-forms/
+A transitive dependency occurs when one attribute depends on a second attribute, which depends on a third attribute. 
+Deletions in a table with such a dependency can cause unwanted information loss. A relation in third normal form is a relation in second normal form 
+with no transitive dependencies.
+
+
+
+
+
 
 
 why concurrenthashmap was created when hashtable was already thread safe
