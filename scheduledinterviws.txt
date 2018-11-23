@@ -15,6 +15,25 @@ Me bahuth kush hogayi    I'm very happy
 
 email  property manager, 
 
+
+DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+FRI23   SCHEDULED--5PM EST-------------JORGE
+        jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
+        j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
+		entrevistador herzon montiel
+		https://walmart.zoom.us/j/879782574
+FRI23   ----------- ------------------- ---------menriquez@grupo-ditec.com.mx 36 libres mixto  3 meses puerto vallarta          +525535593167
+        seguro social. viaticos 6000. cadena de hoteles grupo >>>>vidanta <<<<
+2015 - 2018           spring, hibernate, java, jsp, restful, linux iis, sql, 2 persnas, ricardo rios analyst.
+verificacion con procesos satelitales, pruebas integrales. nueva version tsw.
+        Líder proporcionado por el cliente
+ analisis    documentar procesos actual
+             documentar procesos nuevo software
+			 documentar diferencias
+
+			 pruebas unitarias, pruebas integrales
+
+
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 THU22   SCHEDULED--11am EST---Byphone--fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary  EPAM  chicago confirmemai           19724402131 sr java
         finantial,retail,etc           Oleksandra_Kushniruk@epam.com  epam RH                                                   +12677599000

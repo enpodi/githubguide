@@ -27,6 +27,10 @@ HackerRank.com
 
 
 
+
+
+
+
 DATE    STATUS      TIME               ACONTACT  CNAME                END CLIENT                   LOCATION            PHONE       PROFILE             QUERIES
 TUE21   TS  --------10am pst ------------------  Jyotsna.Gupta@artech.com                          Baton Rouge , LA    19732954561  
 TUE21   ------------ ------------------ ---------rabin acetech                                                                      
