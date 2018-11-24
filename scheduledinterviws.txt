@@ -17,11 +17,13 @@ email  property manager,
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-FRI23   SCHEDULED--5PM EST-------------JORGE
+FRI23   SCHEDULED--5PM EST-------------JORGE/mariana
         jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
         j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
-		entrevistador herzon montiel
+		entrevistador herzon montiel data analitics, movil, gerardo data analitics
 		https://walmart.zoom.us/j/879782574
+		equipo 30(equipo local 10) personas, india, usa, big data, hadoop computo distribuido, machine learning, polanco
+		2 millones worl, mexico 200 000,  walmart technology, 
 FRI23   ----------- ------------------- ---------menriquez@grupo-ditec.com.mx 36 libres mixto  3 meses puerto vallarta          +525535593167
         seguro social. viaticos 6000. cadena de hoteles grupo >>>>vidanta <<<<
 2015 - 2018           spring, hibernate, java, jsp, restful, linux iis, sql, 2 persnas, ricardo rios analyst.
@@ -32,6 +34,8 @@ verificacion con procesos satelitales, pruebas integrales. nueva version tsw.
 			 documentar diferencias
 
 			 pruebas unitarias, pruebas integrales
+FRI23   ------------------------------- MarthaGutierrez--------rest consulting , sur villa olimpica, spring, oracle contrato de prestacion de servicios
+        38 mixto, seccion amarilla de carso 
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
