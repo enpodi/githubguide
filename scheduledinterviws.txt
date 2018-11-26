@@ -22,7 +22,7 @@ DATE====STATUS=====TIME================ACONTACT==CNAME=========================E
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED28   ------------------------------- ---------                              -                             -                   
+WED28   ------------------------------- ---------ritu_gera@persistent.com                 -                             -        19197935690  JMS (Java Message Service) experience
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE27   -----------11:30am cst--12:30pm EST------patricia entrevista RH telefono  examen psicometrico 24hr para contestar                    -                   
         ultima entrevista presencial. posible ingreso 10, 14dic
@@ -70,6 +70,19 @@ MON26   follow-------------------------fulltime$105K PA-sailaja_gaddam@aesinc.us
 MON26   -------------------------------fulltime----patrick                       -                             -                 17813738484 
 MON26   -------------------------------hrinsh----Manish.Kumar@mastechdigital.com                             virginia            14122001197
 MON26   -------------------------------shafia----AChoudhary@judge.com          devita healthcare             Denver, CO          6106196695 angular
+MON26   -------------------------------MONSTER---tibi saxonglobal              -                             nj                  19723383583
+MON26   follow------------------------- ---------wait for call from manager    -                             -                   
+        ----------- -------------------governat-farukh-Mohd Abdul Khader <mohd.abdul@datafactz.com          pensilvania         12488383314 javascript, angular
+MON26   -------------------------------60/hr on w2--ramanGlobal                virtusa/jpmorgan              -                   16147071479
+MON26   -------------------------------c2c-shafia--guru by systems             -                             -                   14084003704
+MON26   -------------------------------w2 60 fultime 60--sramitj@innomethods.com goldman            dallas              19252330331 java production
+MON26   ------------------------------- ---------raman.sharma@tgtus.com        Virtusa                       Tampa , FL          17813288082
+MON26   ------------------------------- ---------                              -                             -                   12039899101
+MON26   java8--------------------------115k fulltime- atul.k@nityo.com         emphasis                      -                   16098530818
+MON26   INICIO ENERO---LLENAR TABLA DE HABILIDADES-jose.gordillo@pmxgroup.mx cargomatic  8:30am-6pm $100nomina $40-60 libres  REACT, MONGODB, MICROS reforma  +525544958244 lead mongodb, golang, complex data microser, reac
+MON26   -------------------------------$60 on w2-joseph                        verizon long time             philadelpia         19724487033 fullstack docker 
+MON26   ------------------------------- ---------                              -                             -                   19726966841
+MON26   ------------------------------- ---------                              -                             -                   19726966842
 MON26   ------------------------------- ---------                              -                             -                   
 
 
