@@ -16,6 +16,13 @@ Me bahuth kush hogayi    I'm very happy
 email  property manager, 
 
 
+
+DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+SAT25   -----------------------------------------pwright@bhuviits.com
+SAT25   -----------------------------------------
+
+
+
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 FRI23   SCHEDULED--5PM EST-------------JORGE/mariana
         jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
