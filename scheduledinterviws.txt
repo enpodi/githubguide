@@ -22,15 +22,15 @@ DATE====STATUS=====TIME================ACONTACT==CNAME=========================E
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED28   ------------------------------- ---------                              -                             -            
+WED28   SCHEDULED Mexico 10am---------- ---------RH intervie                              -                             -            
 WED28   ------------------------------- ---------                              -                             -            
 WED28   ------------------------------- ---------                              -                             -            
 WED28   ------------------------------- ---------                              -                             -            
 WED28   ------------------------------- ---------
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-TUE27   -----------11:30am cst--12:30pm EST------patricia entrevista RH telefono  examen psicometrico 24hr para contestar                    -                   
+TUE27   SCHEDULED WED 10am CST-------------------patricia entrevista RH telefono  examen psicometrico 24hr para contestar                    -                   
         ultima entrevista presencial. posible ingreso 10, 14dic
-		follow-------------------------JORGE/mariana/wallmart mx
+		follow-------------------------jorge.martinez@recluit.com/mariana/wallmart mx
         jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
         j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
 		entrevistador herzon montiel data analitics, movil, gerardo data analitics
@@ -38,9 +38,9 @@ TUE27   -----------11:30am cst--12:30pm EST------patricia entrevista RH telefono
 		equipo 30(equipo local 10) personas, india, usa, big data, hadoop computo distribuido, machine learning, polanco
 		2 millones worl, mexico 200 000,  walmart technology, 
 TUE27   -----------5pm cst--6pm EST----JORGE/mariana/wallmart mx
-TUE27   ------------------------------- ---------ritu_gera@persistent.com                 -                             -        19197935690  JMS (Java Message Service) experience
-TUE27   ------------------------------- ---------                              -                             -            
-TUE27   ------------------------------- ---------                              -                             -            
+TUE27   -------------------------------raj-------ritu_gera@persistent.com      -                             -                   19197935690  JMS (Java Message Service) experience
+TUE27   -------------------------------raj-------ankit's manager               hcl google                    -                   17326055048  angular 
+TUE27   ------------------------------- ---------                              -                             -                   17033485381
 TUE27   ------------------------------- ---------                              -                             -            
 TUE27   ------------------------------- ---------                              -                             -            
 TUE27   ------------------------------- ---------                              -                             -            
@@ -56,7 +56,7 @@ MON26   ------------------------------- ---------                              -
 MON26   ------------------------------- ---------                              DONT DO F2F                   boston              6098530818 x2289
 MON26   ----------------85/hr c2c 75/hr w2 raghunandha.r@idctechnologies.com   icc tech                      columbus            14085965816
 MON26   -------------------------------MONSTER 75/hr on w2-kish                -                             -                   17329835567
-MON26   follow-------------------------JORGE/mariana
+MON26   follow-------------------------jorge.martinez@recluit.com/mariana
         jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
         j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
 		entrevistador herzon montiel data analitics, movil, gerardo data analitics
@@ -93,6 +93,15 @@ MON26   -------------------------------$60 on w2-joseph                        v
 MON26   ------------------------------- ---------                              -                             -                   19726966841
 MON26   ------------------------------- ---------                              -                             -                   19726966842
 MON26   ------------------------------- ---------                              -                             -                   
+MON26   follow WED21 consursoft-ritu_gera@persistent.com  NorthCarolina  19197935690 building large distributed systems catering to high volume and low latency                            -                             -                   
+        https://zoom.us/j/857522669
+MON26   ------------------------------- ---------C2C                           -                             nj                  17702557669
+MON26   ------------------------------- ---------                              -                             -                   1635082600
+MON26   ----------5pm pst 8pm est------raj-------thiru.nathan@intelliswift.com -                             -                   15103704510
+MON26   ------------------------------- ---------manju infosys FULLTIME        -                             -                   6818
+MON26   ------------------------------- ---------                              -                             -                   
+MON26   ------------------------------- ---------                              -                             -                   
+MON26   ------------------------------- ---------                              -                             -                   
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
@@ -102,7 +111,7 @@ SAT25   -----------------------------------------
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-FRI23   SCHEDULED--5PM EST-------------JORGE/mariana
+FRI23   SCHEDULED--5PM EST-------------jorge.martinez@recluit.com/mariana
         jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
         j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
 		entrevistador herzon montiel data analitics, movil, gerardo data analitics
