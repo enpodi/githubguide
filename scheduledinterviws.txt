@@ -17,6 +17,62 @@ email  property manager,
 
 
 
+
+DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+WED28   ------------------------------- ---------                              -                             -                   
+DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+TUE27   -----------11:30am cst--12:30pm EST------patricia entrevista RH telefono  examen psicometrico 24hr para contestar                    -                   
+        ultima entrevista presencial. posible ingreso 10, 14dic
+		follow-------------------------JORGE/mariana/wallmart mx
+        jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
+        j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
+		entrevistador herzon montiel data analitics, movil, gerardo data analitics
+		https://walmart.zoom.us/j/879782574
+		equipo 30(equipo local 10) personas, india, usa, big data, hadoop computo distribuido, machine learning, polanco
+		2 millones worl, mexico 200 000,  walmart technology, 
+TUE27   -----------5pm cst--6pm EST----JORGE/mariana/wallmart mx
+TUE27   ------------------------------- ---------                              -                             -            
+
+
+
+              
+
+
+DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+MON26   MONSTER 110K 59/hr fulltime   chandana@axiustek.com systems technologies  infosys connecticut, jslab chicago    melo park ca        17037386662 JAVA LEAD - Chicago , IL - GS Labs
+MON26   ------------------------------- ---------                              -                             -                   17819171778
+MON26   ------------------------------- ---------                              DONT DO F2F                   boston              6098530818 x2289
+MON26   ----------------85/hr c2c 75/hr w2 raghunandha.r@idctechnologies.com   icc tech                      columbus            14085965816
+MON26   -------------------------------MONSTER 75/hr on w2-kish                -                             -                   17329835567
+MON26   follow-------------------------JORGE/mariana
+        jorge  responder email       wallmart 32libres 100% nomina     polanco 8.3 5.3 vier 8.3 a 2pm  +525547791345
+        j2ee struts hibernate, react, angular, unix cordoba, aws, oracle, machine learning R language,´python, hadoop 
+		entrevistador herzon montiel data analitics, movil, gerardo data analitics
+		https://walmart.zoom.us/j/879782574
+		equipo 30(equipo local 10) personas, india, usa, big data, hadoop computo distribuido, machine learning, polanco
+		2 millones worl, mexico 200 000,  walmart technology, 
+		MON26   ----wait for rate and rtr------w2 MONSTER 65/hr w2--renu.n@softnice.com hexaware extends visa         -                   12016137632 angular
+MON26   -------------------------------C2C MONSTER-delet tech fortune          -                             virginia            17324225949 sr java
+MON26   ------------------------------- ---------rahul                         morgan                        NY                  12017994946 scala, python, .net
+MON26   -------------------------------MONSTER-60/w2--nityo                    -                             texas               16098530818
+MON26   -------------------------------60/w2 110k fulltime m.rahman@e-solutionsinc.com    reply tn n pasp                -                             connecticut         722945
+MON26   ------------------------------- ---------                              -                             -                   
+MON26   follow-------------------------fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary  EPAM  chicago confirmemai           19724402131 sr java
+        finantial,retail,etc           Oleksandra_Kushniruk@epam.com  epam RH                                                   +12677599000
+		>>>>position finantial projet chicago, trading platform, java8, algorithms 3rounds<<<<
+		1 round 1.5 hr practical task, ask gary about the project.
+		2 round interview with manager 40 minutes
+		3 round customer interview. webex. THEN backround check. epam visa go to consulate. maybe in consulate or in Mexico
+		more details about compensation shared by separate. rent a car/rent an apartment/flying tickets/moving belongings by epam
+MON26   -------------------------------fulltime----patrick                       -                             -                 17813738484 
+MON26   -------------------------------hrinsh----Manish.Kumar@mastechdigital.com                             virginia            14122001197
+MON26   -------------------------------shafia----AChoudhary@judge.com          devita healthcare             Denver, CO          6106196695 angular
+MON26   ------------------------------- ---------                              -                             -                   
+
+
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 SAT25   -----------------------------------------pwright@bhuviits.com
 SAT25   -----------------------------------------
@@ -46,7 +102,7 @@ FRI23   ------------------------------- MarthaGutierrez--------rest consulting ,
 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU22   SCHEDULED--11am EST---Byphone--fulltime$105K PA-sailaja_gaddam@aesinc.us.com /gary  EPAM  chicago confirmemai           19724402131 sr java
+THU22   SCHEDULED--11am EST---Byphone--fulltime$105K PA- sailaja_gaddam@aesinc.us.com /gary  EPAM  chicago confirmemai          19724402131 sr java
         finantial,retail,etc           Oleksandra_Kushniruk@epam.com  epam RH                                                   +12677599000
 		>>>>position finantial projet chicago, trading platform, java8, algorithms 3rounds<<<<
 		1 round 1.5 hr practical task, ask gary about the project.
