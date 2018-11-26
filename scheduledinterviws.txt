@@ -22,7 +22,11 @@ DATE====STATUS=====TIME================ACONTACT==CNAME=========================E
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED28   ------------------------------- ---------ritu_gera@persistent.com                 -                             -        19197935690  JMS (Java Message Service) experience
+WED28   ------------------------------- ---------                              -                             -            
+WED28   ------------------------------- ---------                              -                             -            
+WED28   ------------------------------- ---------                              -                             -            
+WED28   ------------------------------- ---------                              -                             -            
+WED28   ------------------------------- ---------
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 TUE27   -----------11:30am cst--12:30pm EST------patricia entrevista RH telefono  examen psicometrico 24hr para contestar                    -                   
         ultima entrevista presencial. posible ingreso 10, 14dic
@@ -34,6 +38,11 @@ TUE27   -----------11:30am cst--12:30pm EST------patricia entrevista RH telefono
 		equipo 30(equipo local 10) personas, india, usa, big data, hadoop computo distribuido, machine learning, polanco
 		2 millones worl, mexico 200 000,  walmart technology, 
 TUE27   -----------5pm cst--6pm EST----JORGE/mariana/wallmart mx
+TUE27   ------------------------------- ---------ritu_gera@persistent.com                 -                             -        19197935690  JMS (Java Message Service) experience
+TUE27   ------------------------------- ---------                              -                             -            
+TUE27   ------------------------------- ---------                              -                             -            
+TUE27   ------------------------------- ---------                              -                             -            
+TUE27   ------------------------------- ---------                              -                             -            
 TUE27   ------------------------------- ---------                              -                             -            
 
 
