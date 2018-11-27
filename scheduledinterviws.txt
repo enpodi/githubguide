@@ -21,6 +21,9 @@ email  property manager,
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+thu29   ts           8,9pm est                   chandana@axiustek.com    $110K Base + Benefits    infosys    19725896293
+                                                 already told to chandana i got a p
+
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED28   SCHEDULED Mexico 10am---------- ---------RH intervie                              -                             -            
 WED28   ------------------------------- ---------                              -                             -            
