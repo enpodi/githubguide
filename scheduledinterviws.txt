@@ -27,11 +27,12 @@ pay lease n deliver keys.
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+thu29              12pm cst                      laila
 thu29   ts           8,9pm est                   chandana@axiustek.com    $110K Base + Benefits    infosys    19725896293
                                                  already told to chandana i got a p
 
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-WED28   SCHEDULED  09:30am P.S.T       farukh          manish.sharma@xiartech.com    With HCL/Facebook
+
 WED28   SCHEDULED Mexico 10am cst---------- ---------RH intervie jorge.martinez@recluit.com
         siguiente link: https://atracciondetalento.walmartmexico.com.mx/Home/Login 
         Con los siguientes datos: 
@@ -45,7 +46,11 @@ WED28   SCHEDULED Mexico 10am cst---------- ---------RH intervie jorge.martinez@
 		https://walmart.zoom.us/j/879782574
 		equipo 30(equipo local 10) personas, india, usa, big data, hadoop computo distribuido, machine learning, polanco
 		2 millones worl, mexico 200 000,  walmart technology, 
-WED28   ------------------------------- ---------                              -                             -            
+WED28   SCHEDULED  09:30am P.S.T  12:30pm EST     farukh          manish.sharma@xiartech.com    With HCL/Facebook
+WED28   SCHEDULED---2pm EST
+		Cuándo	mié 28 nov 2018 11:00 – 12:00 (PST)
+		Dónde	Bridge
+		Quién	Laila Georgina Castillo Reyna*
 WED28   ------------------------------- ---------                              -                             -            
 WED28   ------------------------------- ---------                              -                             -            
 WED28   ------------------------------- ---------
