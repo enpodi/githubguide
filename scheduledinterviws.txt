@@ -36,6 +36,8 @@ uwbeoc
 
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
+THU30   -------------------------------TECHMAHINDRA RANJEET                                                                      +918605796517
+
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 thu29              12pm cst                      laila
 thu29   ts           8,9pm est                   chandana@axiustek.com    $110K Base + Benefits    infosys    19725896293
