@@ -43,11 +43,13 @@ uwbeoc
 
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-THU06   GIVE TIME FOR INTERVIEW--------menriquez@grupo-ditec.com.mx            addeco /VIDANTA               PUERTO VALLARTA     +525535593167
+THU06   Me aceptaron en el proyecto y lo cancele - GIVE TIME FOR INTERVIEW-4pm-------menriquez@grupo-ditec.com.mx            addeco /VIDANTA               PUERTO VALLARTA     +525535593167
+        boulevar manuel avila camacho #170, piso 3, col reforma social, cerca av hoaraci al lado de edificio kpmc. tomar micro a satelite desde metro auditori, o uno que vaya a homer. es junto a hospital miliar
         Buenos días Enrique, acabamos de recibir la aprobación de Vidanta para tu integración el día 10 de diciembre del presente, por favor envíanos los siguientes datos para generar tus contratos y la documentación correspondiente a tu integración con nosotros.
         Escaneados
         IFE o INE por ambos lados
-        Comprobante de domicilio actualizado
+		
+		++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
         Indícanos
         RFC
         CURP
@@ -62,6 +64,7 @@ THU06   GIVE TIME FOR INTERVIEW--------menriquez@grupo-ditec.com.mx            a
 		2015 - 2018           spring, hibernate, java, jsp, restful, linux iis, sql, 2 persnas, ricardo rios analyst.
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 WED05   SCHEDULED-10am-ASK FOR ADDRESS----------jose.duran@adecco.com          officedepot                                       +525555316206
+        lo cancele antes de la última entrevista.
         Debes presentarte con: Vestimenta formal y ejecutiva con IFE o INE.
         Debes presentarte con: Lic. Arturo Bracho - Gerente de RH, Tel. 52464000 Ext. 2145, [Y posteriormente te presentará con el gerente del área]
         Deberás acudir con 2 C.V.´s impresos.
@@ -91,7 +94,7 @@ MON03   SCHEDULED--8:30 pst---ranjith@allianceit.com--manish.sharma@xiartech.com
 		
 
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
-FRI30   SCHEDULED--2pm--------------------hcl    hugo.antonio@it-seekers.com
+FRI30   Me aceptaron en el proyecto y lo cancele SCHEDULED--2pm--------------------hcl    hugo.antonio@it-seekers.com
         Esurance para la compañia HCL con sede en Guadalajara, Jalisco, México
 		conocemos tu expectativa de $45,000.00 MXN Netos, sin embargo la oferta final dependerá de tus habilidades mostradas en el proceso de selección
         EXPECT POSITIVE FEEDBACK
@@ -140,7 +143,7 @@ thu29   ts           8,9pm est                   chandana@axiustek.com    $110K 
 
 DATE====STATUS=====TIME================ACONTACT==CNAME=========================END CLIENT====================LOCATION============PHONE=======PROFILE=============QUERIES
 
-WED28   SCHEDULED Mexico 10am cst---------- ---------RH intervie jorge.martinez@recluit.com
+WED28   Me aceptaron en el proyecto y lo cancele. Ademas redujeron la oferta a 27 libre por nomina (37 bruto). SCHEDULED Mexico 10am cst---------- ---------RH intervie jorge.martinez@recluit.com
         siguiente link: https://atracciondetalento.walmartmexico.com.mx/Home/Login 
         Con los siguientes datos: 
         usuario: enrique_pomposo y contraseña: T9lxpEuEs 
