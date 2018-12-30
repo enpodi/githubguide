@@ -91,3 +91,66 @@ If you run into problems, please contact support by visiting https://github.com/
 
 Thanks,
 Your friends at GitHub
+
+
+
+
+
+
+
+git fetch all           //brings all the branches from the remote repository
+
+
+
+git reset HEAD                  //  this is default reset and implyes   --mixed, which only updates index area from the remote repository. The working area stays untouched
+git reset --hard HEAD       //this overrides working area and index with the HEAD branch in the remote repository.
+git stash --include-untracked                    //untracked files are saved in the stash area.    And checks out with the current commit (synchronized with remote repository and in clean status)
+git stash apply        //retrieves the data from the most recent history, if there is only one then it is stash@{0}
+
+
+git stash clear          //if files in the stash are not needed any more, then history in the stash area can be cleanes
+git stash list          // list elements in stash history. It can be used to verify that stash was cleared with... git stash clear
+
+
+
+How merge master with another branch:
+first you checkou to master branch, and then you execute... git merge anotherbranch
+
+if there is a conflict, it will popup a message stating... CONFLICT (content): Merge conflict in recipes/guacamole.txt
+Also ...   git status  ... highligths the file with conflict
+
+
+see content with ... cat fileinconflict
+<<<<<<<HEAD branch
+Onion
+========
+Tomato
+>>>>>>>tomato branch
+
+
+
+during merge some references are created:
+ls .git                   //list temporary files with references to file in conflict  
+cat .git/MERGE_HEAD      ///(MERGE_HEAD  - bf0d97a )
+git show   bf0d97a           // shows the content of one of the sides of the conflict    
+
+vim   recipes/guacamole.txt     //open file in conflict and fix conflict
+git commit             // once file in conflict is fixed.  we only execute...   git commit ... to notify git that the merge is done.
+
+
+
+
+
+$ git commit -m "workflow for merge added"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'ediaz@DESKTOP-V02O9F0.(none)')
