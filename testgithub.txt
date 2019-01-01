@@ -138,6 +138,11 @@ vim   recipes/guacamole.txt     //open file in conflict and fix conflict
 git commit             // once file in conflict is fixed.  we only execute...   git commit ... to notify git that the merge is done.
 
 
+--------------------------------------------
+
+git checkout HEAD menu.txt      // normally checkout moves the HEAD branch, but in this case  copies content specified(menu.txt) in the remote repository to th working area and index. 
+overriding any local files already staged in working area and index.
+
 
 
 
